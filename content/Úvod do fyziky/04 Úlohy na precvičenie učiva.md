@@ -1,5 +1,5 @@
 ---
-title: Úlohy na precvičenie učiva - meranie fyzikálnych veličín
+title: Úlohy na precvičenie učiva
 ---
 
 # Úlohy na precvičenie učiva

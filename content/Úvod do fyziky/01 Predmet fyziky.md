@@ -2,8 +2,6 @@
 title: Predmet fyziky
 ---
 
-# Predmet fyziky
-
 > [!abstract] Kľúčové pojmy
 > fyzika, fyzikálny jav, fyzikálny objekt, hmota, látka, pole, experimentálna fyzika, teoretická fyzika, aplikovaná fyzika, pozorovanie, experiment, meranie, fyzikálny zákon, fyzikálna teória, hypotéza
 

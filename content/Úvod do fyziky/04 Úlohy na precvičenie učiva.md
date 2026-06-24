@@ -2,8 +2,6 @@
 title: Úlohy na precvičenie učiva
 ---
 
-# Úlohy na precvičenie učiva
-
 ## Meranie fyzikálnych veličín
 
 ### 1. Premena jednotiek

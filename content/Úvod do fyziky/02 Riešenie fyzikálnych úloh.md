@@ -2,8 +2,6 @@
 title: Riešenie fyzikálnych úloh
 ---
 
-# Riešenie fyzikálnych úloh
-
 > [!abstract] Kľúčové pojmy
 > riešenie fyzikálnych úloh, zápis zadania, fyzikálny rozbor, všeobecné riešenie, skúška jednotkou, číselný výpočet, zaokrúhľovanie, platné číslice, diskusia výsledku
 

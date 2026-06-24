@@ -2,8 +2,6 @@
 title: Meranie fyzikálnych veličín
 ---
 
-# Meranie fyzikálnych veličín
-
 > [!abstract] Kľúčové pojmy
 > fyzikálna veličina, jednotka fyzikálnej veličiny, skalárne a vektorové fyzikálne veličiny, sústava SI, násobky a diely, základné, odvodené, vedľajšie a doplnkové fyzikálne veličiny, meranie, chyby merania
 

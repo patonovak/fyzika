@@ -2,9 +2,7 @@
 title: Úlohy na precvičenie učiva
 ---
 
-## Meranie fyzikálnych veličín
-
-### 1. Premena jednotiek
+## 1. Premena jednotiek
 
 Premeňte jednotky fyzikálnych veličín na jednotku v zátvorke.
 
@@ -23,7 +21,7 @@ Premeňte jednotky fyzikálnych veličín na jednotku v zátvorke.
 | k) | $20\cdot 10^{2}\,\mathrm{THz}$ $(\mathrm{kHz})$ |
 | l) | $1{,}2\cdot 10^{4}\,\mathrm{Pa}$ $(\mathrm{kPa})$ |
 
-### 2. Skalárne a vektorové fyzikálne veličiny
+## 2. Skalárne a vektorové fyzikálne veličiny
 
 Je daná fyzikálna veličina skalárna (S) alebo vektorová (V)? Zakrúžkujte.
 
@@ -42,7 +40,7 @@ Je daná fyzikálna veličina skalárna (S) alebo vektorová (V)? Zakrúžkujte.
 | k) | výkon | S / V |
 | l) | frekvencia | S / V |
 
-### 3. Odvodenie jednotiek pomocou definičných vzťahov
+## 3. Odvodenie jednotiek pomocou definičných vzťahov
 
 Pomocou definičných vzťahov sa pokúste odvodiť jednotky niektorých fyzikálnych veličín.
 
@@ -86,7 +84,7 @@ Rozlíš, či v danom prípade ide o **hrubú**, **systematickú** alebo **náho
 | b) | Objem meriame pri jemných otrasoch pracovného stola. | H / S / N |
 | c) | V dôsledku našej nepozornosti sme namerali hodnotu výrazne odlišnú od iných. | H / S / N |
 
-### 5. Spracovanie výsledkov merania
+## 5. Spracovanie výsledkov merania
 
 V tabuľke sú zaznamenané hodnoty merania hmotnosti istého telesa. Postupujte podľa návodu na spracovanie výsledkov merania a určte aritmetický priemer, priemernú odchýlku a aj priemernú relatívnu odchýlku.
 

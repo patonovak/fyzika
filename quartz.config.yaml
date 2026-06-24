@@ -20,26 +20,26 @@ configuration:
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
-  lightMode:
-    light: "#faf8f8"
-    lightgray: "#e5e5e5"
-    gray: "#b8b8b8"
-    darkgray: "#4e4e4e"
-    dark: "#2b2b2b"
-    secondary: "#284b63"
-    tertiary: "#84a59d"
-    highlight: rgba(143, 159, 169, 0.15)
-    textHighlight: "#fff23688"
-  darkMode:
-    light: "#161618"
-    lightgray: "#393639"
-    gray: "#646464"
-    darkgray: "#d4d4d4"
-    dark: "#ebebec"
-    secondary: "#7b97aa"
-    tertiary: "#84a59d"
-    highlight: rgba(143, 159, 169, 0.15)
-    textHighlight: "#b3aa0288"
+      lightMode:
+        light: "#faf8f8"
+        lightgray: "#e5e5e5"
+        gray: "#b8b8b8"
+        darkgray: "#4e4e4e"
+        dark: "#2b2b2b"
+        secondary: "#284b63"
+        tertiary: "#84a59d"
+        highlight: rgba(143, 159, 169, 0.15)
+        textHighlight: "#fff23688"
+      darkMode:
+        light: "#161618"
+        lightgray: "#393639"
+        gray: "#646464"
+        darkgray: "#d4d4d4"
+        dark: "#ebebec"
+        secondary: "#7b97aa"
+        tertiary: "#84a59d"
+        highlight: rgba(143, 159, 169, 0.15)
+        textHighlight: "#b3aa0288"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -78,7 +78,7 @@ plugins:
     enabled: true
     order: 40
   - source: github:quartz-community/table-of-contents
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -160,7 +160,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -173,7 +173,7 @@ plugins:
       groupOptions:
         grow: true
   - source: github:quartz-community/backlinks
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
@@ -286,7 +286,9 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+    content:
+      positions:
+        right: []
     folder:
       exclude:
         - reader-mode
@@ -299,7 +301,6 @@ layout:
         right: []
     canvas: {}
     bases: {}
-
 
 
 

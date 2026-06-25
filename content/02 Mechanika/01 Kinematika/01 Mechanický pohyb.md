@@ -2,32 +2,6 @@
 title: Mechanický pohyb
 ---
 
-> [!abstract] Kľúčové pojmy
-> hmotný bod, vzťažná sústava, pokoj a pohyb, priemerná a okamžitá rýchlosť, dráha, rovnomerný a nerovnomerný pohyb, zrýchlenie, zrýchlený a spomalený pohyb, voľný pád, rovnomerný pohyb po kružnici, dostredivé zrýchlenie
-
-Spoločne s optikou patrí **mechanika** medzi najstaršie oblasti fyziky. Mechanika je v podstate **náukou o pohybe telies**, zaoberá sa jeho opisom aj jeho príčinami. Základné zákony mechaniky platia len pre rýchlosti telies, ktoré sú omnoho menšie ako je rýchlosť svetla, a pre makroskopické telesá. V prípade malých telies, ako sú atómy alebo elementárne častice, platia zákony kvantovej mechaniky.
-
-Z historického hľadiska môžeme mechaniku rozdeliť na:
-
-- **kinematiku** - opisuje pohyb bez ohľadu na jeho príčiny,
-- **dynamiku** - vysvetľuje príčiny pohybu,
-- **statiku** - vysvetľuje podmienky rovnováhy telies.
-
-Pod pojmom **pohyb** rozumieme premiestňovanie telies vzhľadom k iným telesám v priestore a čase.
-
-V ďalšom texte sa pozrieme bližšie na tieto témy:
-
-- kinematika,
-- dynamika,
-- práca, výkon, energia,
-- gravitačné pole,
-- mechanika tuhého telesa,
-- mechanika tekutín.
-
-## Mechanický pohyb, hmotný bod
-
-**Kinematika** (z gr. *kineó* - pohybujem) je časť mechaniky, ktorá sa zaoberá opisom pohybu bez ohľadu na jeho príčiny. Hlavnou otázkou kinematiky je: „Ako sa telesá pohybujú?“ Nebude nás pritom zaujímať, prečo sa telesá takýmto spôsobom pohybujú. Na otázky príčin pohybu odpovedá až ďalšia časť mechaniky s názvom dynamika.
-
 **Pokoj** aj **pohyb** telesa sú relatívne pojmy. Otázka, či je teleso v pokoji alebo v pohybe, nemá zmysel, kým sa nespýtame, vzhľadom na čo má pohyb prebiehať. Teleso, vzhľadom ku ktorému určujeme pohyb alebo pokoj telesa, je **vzťažné teleso**.
 
 Napríklad dievča sediace vo vlaku je vzhľadom k vlaku v pokoji, ale vzhľadom k miestu na povrchu Zeme je v pohybe.

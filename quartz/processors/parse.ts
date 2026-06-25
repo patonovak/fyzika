@@ -9,6 +9,7 @@ import { PerfTimer } from "../util/perf"
 import { read } from "to-vfile"
 import { FilePath, QUARTZ, slugifyFilePath } from "../util/path"
 import path from "path"
+import YAML from "yaml"
 import workerpool, { Promise as WorkerPromise } from "workerpool"
 import { QuartzLogger } from "../util/log"
 import { trace } from "../util/trace"
@@ -17,6 +18,34 @@ import { styleText } from "util"
 
 export type QuartzMdProcessor = Processor<MDRoot, MDRoot, MDRoot>
 export type QuartzHtmlProcessor = Processor<undefined, MDRoot, HTMLRoot>
+
+function extractFrontmatter(raw: string): { body: string; frontmatter: Record<string, unknown> } {
+  const normalized = raw.replace(/^\uFEFF/, "")
+  const match = /^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/.exec(normalized)
+
+  if (!match) {
+    return { body: normalized, frontmatter: {} }
+  }
+
+  try {
+    return {
+      body: normalized.slice(match[0].length),
+      frontmatter: (YAML.parse(match[1]) ?? {}) as Record<string, unknown>,
+    }
+  } catch {
+    return { body: normalized.slice(match[0].length), frontmatter: {} }
+  }
+}
+
+function titleFromPath(relativePath: FilePath, siteTitle: string): string {
+  const basename = path.posix.basename(relativePath, ".md")
+  if (basename === "index") {
+    const dirname = path.posix.basename(path.posix.dirname(relativePath))
+    return dirname === "." ? siteTitle : dirname.replace(/^\d+\s+/, "")
+  }
+
+  return basename.replace(/^\d+\s+/, "")
+}
 
 export function createMdProcessor(ctx: BuildCtx): QuartzMdProcessor {
   const transformers = ctx.cfg.plugins.transformers
@@ -91,8 +120,10 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
         const perf = new PerfTimer()
         const file = await read(fp)
 
+        const extracted = extractFrontmatter(file.value.toString())
+
         // strip leading and trailing whitespace
-        file.value = file.value.toString().trim()
+        file.value = extracted.body.trim()
 
         // Text -> Text transforms
         for (const plugin of cfg.plugins.transformers.filter((p) => p.textTransform)) {
@@ -103,6 +134,13 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
         file.data.filePath = file.path as FilePath
         file.data.relativePath = path.posix.relative(argv.directory, file.path) as FilePath
         file.data.slug = slugifyFilePath(file.data.relativePath)
+        file.data.frontmatter = {
+          ...extracted.frontmatter,
+          title:
+            typeof extracted.frontmatter.title === "string"
+              ? extracted.frontmatter.title
+              : titleFromPath(file.data.relativePath, cfg.configuration.pageTitle),
+        }
 
         const ast = processor.parse(file)
         const newAst = await processor.run(ast, file)

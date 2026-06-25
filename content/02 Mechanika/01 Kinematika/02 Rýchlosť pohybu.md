@@ -1,10 +1,5 @@
 ---
 title: Rýchlosť pohybu
-date: 2026-06-25
-tags:
-  - fyzika
-  - mechanika
-  - kinematika
 ---
 
 **Priemerná rýchlosť** $v_p$ je skalárna fyzikálna veličina, ktorá je definovaná ako podiel dráhy $\Delta s$ a doby $\Delta t$, za ktorú hmotný bod túto dráhu prejde.

@@ -1,10 +1,5 @@
 ---
 title: Mechanický pohyb
-date: 2026-06-25
-tags:
-  - fyzika
-  - mechanika
-  - kinematika
 ---
 
 > [!abstract] Kľúčové pojmy

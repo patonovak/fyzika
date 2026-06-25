@@ -1,10 +1,5 @@
 ---
 title: Nerovnomerný pohyb po priamke
-date: 2026-06-25
-tags:
-  - fyzika
-  - mechanika
-  - kinematika
 ---
 
 ## Nerovnomerný pohyb

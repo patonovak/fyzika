@@ -1,10 +1,5 @@
 ---
 title: Rovnomerný pohyb po kružnici
-date: 2026-06-25
-tags:
-  - fyzika
-  - mechanika
-  - kinematika
 ---
 
 S pohybom po kružnici sa v bežnom živote stretávame často, napríklad pri kolesách, točiacom sa disku alebo kotúčovej píle. **Rovnomerný pohyb po kružnici** je najjednoduchším z krivočiarych pohybov.

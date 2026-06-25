@@ -3,14 +3,14 @@ title: Gravitačné pole
 ---
 
 > [!abstract] Kľúčové pojmy
-> sila, izolovaná sústava hmotných bodov alebo telies, Newtonove pohybové zákony, hybnosť, zákon zachovania hybnosti, inerciálne a neinerciálne vzťažné sústavy, zotrvačná sila, trenie a trecia sila, dostredivá sila a odstredivá sila
+> Newtonov gravitačný zákon, gravitačná sila, gravitačná konštanta, gravitačné a tiažové pole, gravitačné a tiažové zrýchlenie, tiaž, stav bez tiaže, voľný pád, zvislý vrh nahor, vodorovný vrh, šikmý vrh nahor, pohyb v radiálnom gravitačnom poli, prvá a druhá kozmická rýchlosť, Keplerove zákony
 
-Telesá nemenia svoj pohybový stav samovoľne. V kinematike sme sa zaoberali hlavne opisom pohybu bez ohľadu na jeho príčiny. Príčinu zmeny pohybového stavu objasňuje časť mechaniky s názvom **dynamika**. Jej názov je odvodený z gréckeho slova *dynamis*, čo znamená sila. Práve sila je príčinou zmeny pohybového stavu telies.
+Gravitačné pole existuje v okolí všetkých hmotných telies a jeho prejavom je silové pôsobenie na iné telesá. Nám je najznámejšie gravitačné pole Zeme. Gravitácia je všeobecná vlastnosť telies, resp. fyzikálny jav vzájomného pôsobenia hmotných objektov na diaľku sprostredkovaného vlastným gravitačným poľom.
 
 ## Podkapitoly
 
-- [[02 Mechanika/02 Dynamika/01 Vzájomné pôsobenie telies|Vzájomné pôsobenie telies]]
-- [[02 Mechanika/02 Dynamika/02 Newtonove pohybové zákony|Newtonove pohybové zákony]]
-- [[02 Mechanika/02 Dynamika/03 Zákon zachovania hybnosti|Zákon zachovania hybnosti]]
-- [[02 Mechanika/02 Dynamika/04 Dostredivá sila|Dostredivá sila]]
-- [[02 Mechanika/02 Dynamika/05 Trenie a trecia sila|Trenie a trecia sila]]
+- [[02 Mechanika/04 Gravitačné pole/01 Newtonov gravitačný zákon|Newtonov gravitačný zákon]]
+- [[02 Mechanika/04 Gravitačné pole/02 Gravitačné zrýchlenie|Gravitačné zrýchlenie]]
+- [[02 Mechanika/04 Gravitačné pole/03 Tiažová sila a tiaž|Tiažová sila a tiaž]]
+- [[02 Mechanika/04 Gravitačné pole/04 Pohyb telies v gravitačnom poli Zeme|Pohyb telies v gravitačnom poli Zeme]]
+- [[02 Mechanika/04 Gravitačné pole/05 Pohyb telies v gravitačnom poli Slnka|Pohyb telies v gravitačnom poli Slnka]]

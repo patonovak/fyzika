@@ -1,0 +1,22 @@
+{
+  "name": "clean-index-page",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "quartz": {
+    "name": "clean-index-page",
+    "displayName": "Clean Index Page",
+    "description": "Render authored index.md pages without automatic folder listings.",
+    "version": "1.0.0",
+    "category": "pageType",
+    "defaultOrder": 45,
+    "defaultEnabled": true
+  },
+  "peerDependencies": {
+    "@quartz-community/utils": "*",
+    "preact": "*"
+  }
+}

@@ -66,6 +66,10 @@ interface DispatcherOptions {
   byPageType: Record<string, Partial<FullPageLayout>>
 }
 
+function stripNumericPrefix(title: string): string {
+  return title.replace(/^\d+\.?\s+/, "")
+}
+
 async function emitPage(
   ctx: BuildCtx,
   slug: FullSlug,
@@ -185,10 +189,11 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
         for (const vp of virtualPages) {
           const vpSlug = vp.slug as FullSlug
           const vpRelativePath = (vpSlug + ".md") as FilePath
+          const title = stripNumericPrefix(vp.title)
           const [tree, vfile] = defaultProcessedContent({
             slug: vpSlug,
             relativePath: vpRelativePath,
-            frontmatter: { title: vp.title, tags: [] },
+            frontmatter: { title, tags: [] },
             ...vp.data,
           })
           if (vpSlug !== "404") {
@@ -279,10 +284,11 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
         for (const vp of virtualPages) {
           const vpSlug = vp.slug as FullSlug
           const vpRelativePath = (vpSlug + ".md") as FilePath
+          const title = stripNumericPrefix(vp.title)
           const [tree, vfile] = defaultProcessedContent({
             slug: vpSlug,
             relativePath: vpRelativePath,
-            frontmatter: { title: vp.title, tags: [] },
+            frontmatter: { title, tags: [] },
             ...vp.data,
           })
           if (vpSlug !== "404") {

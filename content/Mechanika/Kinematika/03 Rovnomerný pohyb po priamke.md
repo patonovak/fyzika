@@ -30,7 +30,7 @@ $$
 s = vt
 $$
 
-Ak má hmotný bod v čase `t = 0` prejdenú už nejakú počiatočnú dráhu `s_0`, platí pre dráhu vzťah:
+Ak má hmotný bod v čase $t = 0$ prejdenú už nejakú počiatočnú dráhu $s_0$, platí pre dráhu vzťah:
 
 $$
 s = s_0 + vt
@@ -40,4 +40,4 @@ Pre rovnomerný priamočiary pohyb teda platí:
 
 - graf závislosti rýchlosti od času je vodorovná priamka,
 - graf závislosti dráhy od času je rastúca priamka,
-- ak má teleso počiatočnú dráhu `s_0`, graf dráhy nezačína v počiatku súradnicovej sústavy.
+- ak má teleso počiatočnú dráhu $s_0$, graf dráhy nezačína v počiatku súradnicovej sústavy.

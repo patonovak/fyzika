@@ -11,7 +11,7 @@ tags:
 
 **Nerovnomerný pohyb** koná teleso vtedy, ak za rovnako veľké, ale inak ľubovoľné časové intervaly, prejde rôzne veľké úseky dráhy.
 
-**Zrýchlenie** `\vec a` hmotného bodu je určené ako podiel zmeny vektora okamžitej rýchlosti a doby, za ktorú táto zmena nastala. Jednotkou zrýchlenia je:
+**Zrýchlenie** $\vec a$ hmotného bodu je určené ako podiel zmeny vektora okamžitej rýchlosti a doby, za ktorú táto zmena nastala. Jednotkou zrýchlenia je:
 
 $$
 \mathrm{m \cdot s^{-2}}
@@ -84,7 +84,7 @@ $$
 s = v_0t - \frac{1}{2}at^2
 $$
 
-Pokiaľ sa teleso s počiatočnou rýchlosťou `v_0` začne pohybovať rovnomerne spomalene, pre čas, za ktorý sa zastaví, a dráhu, ktorú pritom prejde, platia vzťahy:
+Pokiaľ sa teleso s počiatočnou rýchlosťou $v_0$ začne pohybovať rovnomerne spomalene, pre čas, za ktorý sa zastaví, a dráhu, ktorú pritom prejde, platia vzťahy:
 
 $$
 t_z = \frac{v_0}{a}
@@ -99,7 +99,7 @@ $$
 >
 > **Riešenie:**
 >
-> Teleso s rýchlosťou `v_0` začne spomaľovať so stálym zrýchlením `a`. Keď zastaví, je veľkosť jeho okamžitej rýchlosti rovná nule:
+> Teleso s rýchlosťou $v_0$ začne spomaľovať so stálym zrýchlením $a$. Keď zastaví, je veľkosť jeho okamžitej rýchlosti rovná nule:
 >
 > $$
 > v = v_0 - at_z = 0
@@ -111,7 +111,7 @@ $$
 > t_z = \frac{v_0}{a}
 > $$
 >
-> Za čas `t_z` pritom prejde teleso dráhu:
+> Za čas $t_z$ pritom prejde teleso dráhu:
 >
 > $$
 > s_z =
@@ -131,8 +131,8 @@ $$
 > [!note] Rozširujúce učivo: Prirodzené zložky zrýchlenia
 > Zrýchlenie hmotného bodu pri krivočiarom pohybe možno v každom bode trajektórie rozložiť na dve navzájom kolmé zložky.
 >
-> - **Dotyčnicové (tangenciálne) zrýchlenie** `\vec a_t` vyjadruje zmenu veľkosti okamžitej rýchlosti v čase a má smer dotyčnice ku trajektórii.
-> - **Normálové (radiálne) zrýchlenie** `\vec a_n` vyjadruje zmenu orientácie vektora rýchlosti v čase.
+> - **Dotyčnicové (tangenciálne) zrýchlenie** $\vec a_t$ vyjadruje zmenu veľkosti okamžitej rýchlosti v čase a má smer dotyčnice ku trajektórii.
+> - **Normálové (radiálne) zrýchlenie** $\vec a_n$ vyjadruje zmenu orientácie vektora rýchlosti v čase.
 >
 > Pre veľkosť zrýchlenia z Pytagorovej vety máme vzťah:
 >
@@ -146,7 +146,7 @@ Vývoj názorov na pád voľne pusteného telesa sa v priebehu dejín výrazne m
 
 Proti tejto predstave vystúpil taliansky fyzik a astronóm Galileo Galilei, ktorý problém voľného pádu riešil experimentálne. V dejinách fyziky má významné miesto práve preto, že svoje hypotézy overoval pokusmi.
 
-Z pozorovaní voľného pádu, teda pádu voľne pusteného telesa vo vákuu, vyplynulo, že ide o pohyb **rovnomerne zrýchlený**. Všetky telesá padajú v blízkosti Zeme vo vákuu s rovnakým konštantným zrýchlením, ktoré nazývame **tiažové zrýchlenie** `g`.
+Z pozorovaní voľného pádu, teda pádu voľne pusteného telesa vo vákuu, vyplynulo, že ide o pohyb **rovnomerne zrýchlený**. Všetky telesá padajú v blízkosti Zeme vo vákuu s rovnakým konštantným zrýchlením, ktoré nazývame **tiažové zrýchlenie** $g$.
 
 Veľkosť tiažového zrýchlenia sa mení v závislosti od zemepisnej šírky a nadmorskej výšky. V našej zemepisnej šírke má približne hodnotu:
 
@@ -166,7 +166,7 @@ $$
 g \approx 10\ \mathrm{m \cdot s^{-2}}
 $$
 
-Keďže voľný pád je pohyb rovnomerne zrýchlený so zrýchlením `a = g`, môžeme použiť analogické vzťahy:
+Keďže voľný pád je pohyb rovnomerne zrýchlený so zrýchlením $a = g$, môžeme použiť analogické vzťahy:
 
 $$
 v = gt
@@ -179,13 +179,13 @@ $$
 Pád telies s vylúčeným odporom vzduchu môžeme pozorovať v tzv. **Newtonovej trubici**. Ak z nej odčerpáme vzduch, telesá s rôznou hmotnosťou padajú súčasne rovnakou rýchlosťou, ktorá nezávisí od ich hmotnosti.
 
 > [!example] Príklad 3.4: Pád tenisovej loptičky
-> Tenisová loptička bola pustená z 2. poschodia paneláku a dopadla na zem za `0{,}9` sekundy.
+> Tenisová loptička bola pustená z 2. poschodia paneláku a dopadla na zem za $0{,}9$ sekundy.
 >
 > a) V akej výške nad zemou je druhé poschodie paneláku?
 >
 > b) Akou rýchlosťou dopadla loptička na zem?
 >
-> Pre tiažové zrýchlenie použite hodnotu `g \approx 10\ \mathrm{m \cdot s^{-2}}`.
+> Pre tiažové zrýchlenie použite hodnotu $g \approx 10\ \mathrm{m \cdot s^{-2}}$.
 >
 > **Riešenie:**
 >

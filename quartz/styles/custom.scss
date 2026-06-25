@@ -13,6 +13,23 @@
   margin-top: 0;
 }
 
+.page-title a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.page-title a::after {
+  content: "";
+  display: inline-block;
+  width: 2.2rem;
+  height: 1.45rem;
+  background-image: url("static/logo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .page-listing {
   display: none;
 }

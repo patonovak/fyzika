@@ -16,3 +16,20 @@
 .page-listing {
   display: none;
 }
+
+.measurement-figure {
+  text-align: center;
+  margin-bottom: 0.15rem;
+}
+
+.measurement-figure img {
+  max-width: 100%;
+}
+
+.measurement-figure + blockquote {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  padding-left: 0.75rem;
+  font-size: 0.9rem;
+  line-height: 1.35;
+}

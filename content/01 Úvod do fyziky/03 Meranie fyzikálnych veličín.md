@@ -9,6 +9,12 @@ title: Meranie fyzikálnych veličín
 
 **Fyzikálne veličiny** charakterizujú fyzikálne vlastnosti, stavy alebo zmeny telies, ktoré môžeme **merať**, teda stanoviť ich **veľkosť**. Sú nimi napríklad hmotnosť, teplota, dĺžka alebo tlak.
 
+<p style="text-align: center;">
+  <img src="/static/images/vahy.png" alt="Porovnanie hmotnosti futbalovej lopty na váhach" width="500">
+</p>
+
+**Obr. 1.** Fyzikálnu veličinu meriame tak, že porovnávame jej veľkosť s dohodnutou jednotkou tejto veličiny. Na príklade hmotnosti to znamená, že porovnávame hmotnosť telesa s telesom, ktorého hmotnosť stanovíme presne na 1 kilogram. Ak zistíme, že lopta je o polovici ľahšia ako 1 kilogram, napíšeme $m=0,5\;\mathrm{kg}$.
+
 Pre označenie fyzikálnych veličín používame dohodnuté **značky veličín**. Napríklad hmotnosť značíme $m$ (angl. *mass*), silu $F$ (angl. *force*) atď.
 
 **Meranie fyzikálnej veličiny** je určovanie jej hodnoty. Meraním zisťujeme, koľkokrát je hodnota danej veličiny väčšia ako **meracia jednotka**. **Meracia jednotka** (skrátene jednotka) je fixná hodnota veličiny, s ktorou porovnávame veličiny rovnakého druhu.

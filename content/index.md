@@ -9,14 +9,14 @@ title: Fyzika pre strednú školu
 
 ## Kapitoly
 
-### Úvod do fyziky
+### 🔬 Úvod do fyziky
 
 - [[01 Úvod do fyziky/01 Predmet fyziky|Predmet fyziky]]
 - [[01 Úvod do fyziky/02 Riešenie fyzikálnych úloh|Riešenie fyzikálnych úloh]]
 - [[01 Úvod do fyziky/03 Meranie fyzikálnych veličín|Meranie fyzikálnych veličín]]
 - [[01 Úvod do fyziky/04 Úlohy na precvičenie učiva|Úlohy na precvičenie učiva]]
 
-### Mechanika
+### ⚙️ Mechanika
 
 #### Kinematika
 

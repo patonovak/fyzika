@@ -16,7 +16,7 @@ componentRegistry.setOptionOverrides("explorer", {
     return -1
   },
   mapFn: (node: any) => {
-    if (!node.isFolder && typeof node.displayName === "string") {
+    if (typeof node.displayName === "string") {
       node.displayName = node.displayName.replace(/^\d+\s+/, "")
     }
     return node

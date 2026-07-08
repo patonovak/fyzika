@@ -169,7 +169,11 @@ $$
 
 > [!note] Rozširujúce učivo: Prirodzené zložky zrýchlenia
 > Zrýchlenie hmotného bodu pri krivočiarom pohybe možno v každom bode trajektórie rozložiť na dve navzájom kolmé zložky.
+> <p class="measurement-figure callout-figure">
+>   <img src="/static/images/zlozky_zrychlenia.png" alt="Zložky zrýchlenia" width="400">
+> </p>
 >
+> **Obr. 1.17.** Zložky zrýchlenia.
 > - **Dotyčnicové (tangenciálne) zrýchlenie** $\vec a_t$ vyjadruje zmenu veľkosti okamžitej rýchlosti v čase a má smer dotyčnice ku trajektórii.
 > - **Normálové (radiálne) zrýchlenie** $\vec a_n$ vyjadruje zmenu orientácie vektora rýchlosti v čase.
 >

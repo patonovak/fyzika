@@ -34,6 +34,11 @@
   background: transparent;
 }
 
+.measurement-figure.no-extra-frame img {
+  padding: 0;
+  border: 0;
+}
+
 .measurement-figure + blockquote {
   margin-top: 0.25rem;
   margin-bottom: 1.25rem;

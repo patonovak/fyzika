@@ -76,7 +76,7 @@ Doplnkové fyzikálne jednotky sú dve, jednotka rovinného uhla **radián** $(\
 | rovinný uhol | napr. $\alpha, \varphi$ | radián | $\mathrm{rad}$ |
 | priestorový uhol | napr. $\Omega$ | steradián | $\mathrm{sr}$ |
 
-<p class="measurement-figure">
+<p class="measurement-figure no-extra-frame">
   <img src="/static/images/radian.png" alt="Radián a steradián" width="400">
 </p>
 
@@ -141,11 +141,11 @@ Tvoria sa zo základných a odvodených jednotiek pomocou mocnín so základom $
 
 **Vektorové fyzikálne veličiny** (skrátene vektory) sú fyzikálne veličiny, ktoré sú jednoznačne určené číselnou hodnotou, meracou jednotkou a **smerom**. Patrí medzi ne napríklad sila, zrýchlenie, okamžitá rýchlosť, moment sily atď. Značíme ich šípkou nad značkou veličiny, napríklad vektor sily píšeme $\vec{F}$. Graficky ich znázorňujeme pomocou orientovanej úsečky, ktorá leží na **vektorovej priamke**. Veľkosť orientovanej úsečky zodpovedá veľkosti danej fyzikálnej veličiny. Začiatok tejto úsečky predstavuje **pôsobisko** vektorovej fyzikálnej veličiny.
 
-<p class="measurement-figure">
+<p class="measurement-figure no-extra-frame">
   <img src="/static/images/vektor.png" alt="Znázornenie vektorovej veličiny" width="400">
 </p>
 
-> **Obr. 2.** Znázornenie vektorovej veličiny: Ak jeden dielik zodpovedá sile $1\,\mathrm{N}$ a orientovaná úsečka má dĺžku šesť dielikov, potom $|\vec{F}| = F = 6\,\mathrm{N}$.
+> **Obr. 3.** Znázornenie vektorovej veličiny: Ak jeden dielik zodpovedá sile $1\,\mathrm{N}$ a orientovaná úsečka má dĺžku šesť dielikov, potom $|\vec{F}| = F = 6\,\mathrm{N}$.
 
 
 ## Meranie a chyby merania

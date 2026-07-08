@@ -39,6 +39,17 @@
   border: 0;
 }
 
+.measurement-figure.callout-figure {
+  float: none;
+  width: 100%;
+  max-width: 100%;
+  margin: 0.75rem 0 0.5rem 0;
+}
+
+.measurement-figure.callout-figure img {
+  max-width: 400px;
+}
+
 .measurement-figure + blockquote {
   margin-top: 0.25rem;
   margin-bottom: 1.25rem;

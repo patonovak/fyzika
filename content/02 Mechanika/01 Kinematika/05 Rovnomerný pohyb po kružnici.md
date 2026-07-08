@@ -6,6 +6,12 @@ S pohybom po kružnici sa v bežnom živote stretávame často, napríklad pri k
 
 Pri rovnomernom pohybe po kružnici opíše hmotný bod za rovnaké časové intervaly rovnako dlhé kružnicové oblúky $\Delta s$, ktorým prislúchajú rovnako veľké stredové uhly $\Delta \varphi$.
 
+<p class="measurement-figure">
+  <img src="/static/images/rppk.png" alt="Rovnomerný pohyb po kružnici" width="400">
+</p>
+
+> **Obr. 1.14.** Pri rovnomernom pohybe po kružnici opíše hmotný bod za rovnaké časové intrvaly rovnako dlhé kružnicové oblúky.
+
 Rovnomerný pohyb po kružnici je **periodický pohyb**, teda pravidelne sa opakujúci. Čas, za ktorý teleso vykoná jeden obeh, sa nazýva **perióda** alebo **čas obehu** a označuje sa $T$. Jej jednotkou je sekunda.
 
 Inou veličinou, ktorá charakterizuje periodický pohyb, je **frekvencia** pohybu. Určuje počet obehov za jednu sekundu.
@@ -20,7 +26,7 @@ $$
 [f] = \mathrm{Hz} = \mathrm{s^{-1}}
 $$
 
-> [!example] Príklad 3.3: Perióda a frekvencia pohybu
+> [!example] Príklad 1.4: Perióda a frekvencia pohybu
 > Auto obehne rovnomerne kruhovú dráhu za čas $50\ \mathrm{s}$. Aká je perióda a frekvencia jeho pohybu?
 >
 > **Riešenie:**
@@ -44,6 +50,12 @@ $$
 Pri rovnomernom pohybe po kružnici sa nemení veľkosť okamžitej rýchlosti hmotného bodu, mení sa však smer vektora okamžitej rýchlosti.
 
 **Vektor okamžitej rýchlosti** v danom bode má smer dotyčnice ku kružnicovej trajektórii a je kolmý na sprievodič hmotného bodu, teda na úsečku, ktorá ho spája so stredom kružnice.
+
+<p class="measurement-figure">
+  <img src="/static/images/rppk_vektor_rychlosti.png" alt="Vektor okamžitej rýchlosti pri pohybe po kružnici" width="400">
+</p>
+
+> **Obr. 1.15.** Vektor okamžitej rýchlosti pri rovnomernom pohybe po kružnici má smer dotyčnice k trajektórii.
 
 Veľkosť okamžitej rýchlosti, ktorú nazývame aj **obvodová rýchlosť**, je daná pomerom dráhy a času. Keďže dĺžka celej kružnice je $2\pi r$ a čas jedného obehu je perióda pohybu, dostávame:
 
@@ -88,34 +100,14 @@ Pre veľkosť dostredivého zrýchlenia platí:
 $$
 a_d = \frac{v^2}{r} = \omega^2 r
 $$
+<p class="measurement-figure">
+  <img src="/static/images/dostredive_zrychlenie.png" alt="Dostredivé zrýchlenie" width="400">
+</p>
 
-> [!note] Rozširujúce učivo: Odvodenie veľkosti dostredivého zrýchlenia
-> Na obrázku je načrtnutý smer vektora $\Delta \vec v = \vec v_2 - \vec v_1$ pre dva body $A$ a $B$ kružnicovej trajektórie. Čím bližšie sú pri sebe body $A$ a $B$, teda pre časový okamih $\Delta t \to 0$, tým viac vidíme, že zrýchlenie v danom bode by smerovalo do stredu kružnicovej trajektórie.
->
-> Z podobnosti trojuholníka $SAB$ a trojuholníka zostrojeného zo strán $v_1$, $v_2$ a $\Delta v$ pre veľmi blízke body $A$ a $B$ dostávame:
->
-> $$
-> \frac{\Delta v}{v} = \frac{\widehat{AB}}{r}
-> $$
->
-> Odtiaľ:
->
-> $$
-> \Delta v =
-> \frac{\widehat{AB}}{r}v
-> =
-> \frac{v\Delta t}{r}v
-> =
-> \frac{v^2\Delta t}{r}
-> $$
->
-> Pre veľkosť dostredivého zrýchlenia potom máme:
->
-> $$
-> a_d = \frac{\Delta v}{\Delta t} = \frac{v^2}{r}
-> $$
+> **Obr. 1.16.** Dostredivé zrýchlenie smeruje do stredu kružnice.
 
-> [!example] Príklad 3.5: Kotúčová píla
+
+> [!example] Príklad 1.5: Kotúčová píla
 > Kotúčová píla sa otáča s frekvenciou $4500\ \mathrm{ot \cdot min^{-1}}$. Akú obvodovú rýchlosť má bod na obvode kotúča, ak polomer kotúča je $10\ \mathrm{cm}$?
 >
 > **Riešenie:**
@@ -144,7 +136,7 @@ $$
 > v = 2\pi fr \approx 47\ \mathrm{m \cdot s^{-1}}
 > $$
 
-> [!example] Príklad 3.6: Big Ben
+> [!example] Príklad 1.6: Big Ben
 > Hodinová veža Westminsterského paláca, nazývaná podľa jedného z jej zvonov Big Ben, má dĺžku minútovej ručičky $4{,}3\ \mathrm{m}$.
 >
 > a) Aká je veľkosť obvodovej rýchlosti koncového bodu minútovej ručičky?
@@ -173,4 +165,16 @@ $$
 >
 > $$
 > a_d = \frac{v^2}{r} \approx 1{,}3 \cdot 10^{-5}\ \mathrm{m \cdot s^{-2}}
+> $$
+
+> [!note] Rozširujúce učivo: Prirodzené zložky zrýchlenia
+> Zrýchlenie hmotného bodu pri krivočiarom pohybe možno v každom bode trajektórie rozložiť na dve navzájom kolmé zložky.
+>
+> - **Dotyčnicové (tangenciálne) zrýchlenie** $\vec a_t$ vyjadruje zmenu veľkosti okamžitej rýchlosti v čase a má smer dotyčnice ku trajektórii.
+> - **Normálové (radiálne) zrýchlenie** $\vec a_n$ vyjadruje zmenu orientácie vektora rýchlosti v čase.
+>
+> Pre veľkosť zrýchlenia z Pytagorovej vety máme vzťah:
+>
+> $$
+> a = |\vec a| = \sqrt{a_t^2 + a_n^2}
 > $$

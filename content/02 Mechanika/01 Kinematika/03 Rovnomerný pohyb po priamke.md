@@ -9,9 +9,13 @@ Podľa rýchlosti, teda podľa toho, či sa mení veľkosť okamžitej rýchlost
 - **rovnomerné** - nemení sa veľkosť okamžitej rýchlosti,
 - **nerovnomerné** - mení sa veľkosť okamžitej rýchlosti.
 
-**Rovnomerný pohyb** koná teleso vtedy, ak za rovnako veľké, ale inak ľubovoľné časové intervaly, prejde rovnako veľké úseky dráhy.
+**Rovnomerný pohyb** koná teleso vtedy, ak za rovnako veľké, ale inak ľubovoľné časové intervaly, prejde rovnako veľké úseky dráhy. Pri rovnomernom pohybe má veľkosť okamžitej rýchlosti konštantnú hodnotu. Ak je pohyb ešte aj priamočiary, nemení sa ani smer vektora okamžitej rýchlosti.
 
-Pri rovnomernom pohybe má veľkosť okamžitej rýchlosti konštantnú hodnotu. Ak je pohyb ešte aj priamočiary, nemení sa ani smer vektora okamžitej rýchlosti.
+<p class="measurement-figure">
+  <img src="/static/images/rpp.png" alt="Rovnomerný priamočiary pohyb" width="400">
+</p>
+
+> **Obr. 1.8.** Rovnomerný priamočiary pohyb.
 
 Veľkosť okamžitej rýchlosti je pri rovnomernom pohybe konštantná, a tak sa rovná priemernej rýchlosti. Stručne potom hovoríme len o rýchlosti rovnomerného pohybu.
 
@@ -30,6 +34,13 @@ Ak má hmotný bod v čase $t = 0$ prejdenú už nejakú počiatočnú dráhu $s
 $$
 s = s_0 + vt
 $$
+
+
+<p class="measurement-figure">
+  <img src="/static/images/grafy_rpp.png" alt="Grafy rovnomerného priamočiareho pohybu" width="400">
+</p>
+
+> **Obr. 1.9.** Grafy závislosti rýchlosti a dráhy od času pri rovnomernom priamočiarom pohybe.
 
 Pre rovnomerný priamočiary pohyb teda platí:
 

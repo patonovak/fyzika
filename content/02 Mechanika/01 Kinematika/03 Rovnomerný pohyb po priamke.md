@@ -36,8 +36,8 @@ s = s_0 + vt
 $$
 
 
-<p class="measurement-figure">
-  <img src="/static/images/grafy_rpp.png" alt="Grafy rovnomerného priamočiareho pohybu" width="400">
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/grafy_rpp.png" alt="Grafy rovnomerného priamočiareho pohybu" width="500">
 </p>
 
 > **Obr. 1.9.** Grafy závislosti rýchlosti a dráhy od času pri rovnomernom priamočiarom pohybe.

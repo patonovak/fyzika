@@ -76,8 +76,12 @@ Doplnkové fyzikálne jednotky sú dve, jednotka rovinného uhla **radián** $(\
 | rovinný uhol | napr. $\alpha, \varphi$ | radián | $\mathrm{rad}$ |
 | priestorový uhol | napr. $\Omega$ | steradián | $\mathrm{sr}$ |
 
-> [!note] Radián a steradián
-> Jeden radián je rovinný uhol, ktorý na kružnici s polomerom $r$ vytne oblúk rovnakej dĺžky, ako je polomer kružnice $l = r$. Jeden steradián je priestorový uhol, ktorý s vrcholom v strede gule s polomerom $r$ vytína na povrchu tejto gule plochu rovnú druhej mocnine polomeru tejto gule $S = r^{2}$.
+<p class="measurement-figure">
+  <img src="/static/images/radian.png" alt="Radián a steradián" width="400">
+</p>
+
+> **Obr. 2.** Jeden radián je rovinný uhol, ktorý na kružnici s polomerom $r$ vytne oblúk rovnakej dĺžky, ako je polomer kružnice $l = r$. Jeden steradián je priestorový uhol, ktorý s vrcholom v strede gule s polomerom $r$ vytína na povrchu tejto gule plochu rovnú druhej mocnine polomeru tejto gule $S = r^{2}$.
+
 
 ### Vedľajšie fyzikálne jednotky
 
@@ -111,25 +115,25 @@ Tvoria sa zo základných a odvodených jednotiek pomocou mocnín so základom $
 >
 > **Riešenie:**
 >
-> $$
+> $
 > 23\,\mathrm{pF}
 > = 23\cdot 10^{-12}\,\mathrm{F}
 > = 2{,}3\cdot 10^{1}\cdot 10^{-12}\,\mathrm{F}
 > = 2{,}3\cdot 10^{-11}\,\mathrm{F}
-> $$
+> $
 >
-> $$
+> $
 > 6\,\mathrm{nm}
 > = 6\cdot 10^{-9}\,\mathrm{m}
 > = 6\cdot 10^{-9}\cdot 10^{3}\,\mathrm{mm}
 > = 6\cdot 10^{-6}\,\mathrm{mm}
-> $$
+> $
 >
-> $$
+> $
 > 10^{24}\,\mathrm{Hz}
 > = 10^{24}\cdot 10^{-12}\,\mathrm{THz}
 > = 10^{12}\,\mathrm{THz}
-> $$
+> $
 
 ## Skalárne a vektorové fyzikálne veličiny
 
@@ -137,12 +141,12 @@ Tvoria sa zo základných a odvodených jednotiek pomocou mocnín so základom $
 
 **Vektorové fyzikálne veličiny** (skrátene vektory) sú fyzikálne veličiny, ktoré sú jednoznačne určené číselnou hodnotou, meracou jednotkou a **smerom**. Patrí medzi ne napríklad sila, zrýchlenie, okamžitá rýchlosť, moment sily atď. Značíme ich šípkou nad značkou veličiny, napríklad vektor sily píšeme $\vec{F}$. Graficky ich znázorňujeme pomocou orientovanej úsečky, ktorá leží na **vektorovej priamke**. Veľkosť orientovanej úsečky zodpovedá veľkosti danej fyzikálnej veličiny. Začiatok tejto úsečky predstavuje **pôsobisko** vektorovej fyzikálnej veličiny.
 
-> [!example] Znázornenie vektorovej veličiny
-> Ak jeden dielik zodpovedá sile $1\,\mathrm{N}$ a orientovaná úsečka má dĺžku šesť dielikov, potom
->
-> $$
-> |\vec{F}| = F = 6\,\mathrm{N}.
-> $$
+<p class="measurement-figure">
+  <img src="/static/images/vektor.png" alt="Znázornenie vektorovej veličiny" width="400">
+</p>
+
+> **Obr. 2.** Znázornenie vektorovej veličiny: Ak jeden dielik zodpovedá sile $1\,\mathrm{N}$ a orientovaná úsečka má dĺžku šesť dielikov, potom $|\vec{F}| = F = 6\,\mathrm{N}$.
+
 
 ## Meranie a chyby merania
 

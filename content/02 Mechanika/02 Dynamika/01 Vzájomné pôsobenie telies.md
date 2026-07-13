@@ -19,6 +19,12 @@ Výsledkom vzájomného pôsobenia telies môže byť:
 - **deformácia telesa** - pôsobením sily sa mení tvar telesa,
 - **zmena pohybového stavu telesa** - zmena smeru pohybu telesa, jeho zastavenie alebo uvedenie do pohybu, prípadne zmena veľkosti jeho rýchlosti.
 
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/ucinok_sily.png" alt="Účinky sily" width="500">
+</p>
+
+> **Obr. 1.2.2.** Účinky sily môžu byť deformačné alebo pohybové. Stlačená loptička mení svoj tvar, letiaca lopta zas mení svoj pohybový stav.
+
 Pôsobenie sily na teleso sa môže uskutočniť:
 
 - **vzájomným dotykom telies**, napríklad úderom rukou do lopty,

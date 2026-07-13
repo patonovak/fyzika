@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 110" role="img" aria-label="Výslednica dvoch rovnobežných síl rovnakého smeru">
+  <defs>
+    <marker id="arrowBlack" markerWidth="7" markerHeight="6" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L7,3 L0,6 Z" fill="#222"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="7" markerHeight="6" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L7,3 L0,6 Z" fill="#2f7d83"/>
+    </marker>
+  </defs>
+  <circle cx="34" cy="38" r="4" fill="#222"/>
+  <line x1="34" y1="38" x2="128" y2="38" stroke="#222" stroke-width="4" marker-end="url(#arrowBlack)"/>
+  <circle cx="128" cy="38" r="4" fill="#222"/>
+  <line x1="128" y1="38" x2="202" y2="38" stroke="#222" stroke-width="3" marker-end="url(#arrowBlack)"/>
+  <circle cx="34" cy="70" r="4" fill="#2f7d83"/>
+  <line x1="34" y1="70" x2="232" y2="70" stroke="#2f7d83" stroke-width="4" marker-end="url(#arrowGreen)"/>
+</svg>

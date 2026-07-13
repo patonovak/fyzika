@@ -43,18 +43,11 @@
   width: 500px;
 }
 
-.measurement-figure.force-table-figure {
-  float: none;
+.popover-hint table img[src*="skladanie_sil_"] {
+  display: block;
   width: 100%;
-  max-width: 100%;
-  margin: 0.75rem 0 0.35rem 0;
-  text-align: center;
-}
-
-.measurement-figure.force-table-figure img {
-  display: inline-block;
-  width: 100%;
-  max-width: 760px;
+  max-width: 180px;
+  margin: 0 auto 0.35rem auto;
 }
 
 .measurement-figure.callout-figure {

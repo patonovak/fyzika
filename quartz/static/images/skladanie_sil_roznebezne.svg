@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 150" role="img" aria-label="Dve rôznobežné sily">
+  <defs>
+    <marker id="arrow" markerWidth="7" markerHeight="6" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L7,3 L0,6 Z" fill="#222"/>
+    </marker>
+  </defs>
+  <circle cx="56" cy="118" r="5" fill="#222"/>
+  <line x1="56" y1="118" x2="205" y2="118" stroke="#222" stroke-width="4" marker-end="url(#arrow)"/>
+  <line x1="56" y1="118" x2="132" y2="34" stroke="#222" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M95 118 A42 42 0 0 0 114 75" fill="none" stroke="#222" stroke-width="2"/>
+</svg>

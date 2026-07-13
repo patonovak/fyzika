@@ -15,7 +15,7 @@ Podľa rýchlosti, teda podľa toho, či sa mení veľkosť okamžitej rýchlost
   <img src="/static/images/rpp.png" alt="Rovnomerný priamočiary pohyb" width="400">
 </p>
 
-> **Obr. 1.8.** Rovnomerný priamočiary pohyb.
+> **Obr. 1.1.8.** Rovnomerný priamočiary pohyb.
 
 Veľkosť okamžitej rýchlosti je pri rovnomernom pohybe konštantná, a tak sa rovná priemernej rýchlosti. Stručne potom hovoríme len o rýchlosti rovnomerného pohybu.
 
@@ -40,7 +40,7 @@ $$
   <img src="/static/images/grafy_rpp.png" alt="Grafy rovnomerného priamočiareho pohybu" width="500">
 </p>
 
-> **Obr. 1.9.** Grafy závislosti rýchlosti a dráhy od času pri rovnomernom priamočiarom pohybe.
+> **Obr. 1.1.9.** Grafy závislosti rýchlosti a dráhy od času pri rovnomernom priamočiarom pohybe.
 
 Pre rovnomerný priamočiary pohyb teda platí:
 

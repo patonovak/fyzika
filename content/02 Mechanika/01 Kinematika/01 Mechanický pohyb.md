@@ -8,7 +8,7 @@ title: Mechanický pohyb
   <img src="/static/images/pohyb_pokoj.png" alt="Pohyb a pokoj" width="400">
 </p>
 
-> **Obr. 1.1.** Dievča sediace vo vlaku je vzhľadom k vlaku v pokoji, ale vzhľadom k miestu na povrchu Zeme je v pohybe.
+> **Obr. 1.1.1.** Dievča sediace vo vlaku je vzhľadom k vlaku v pokoji, ale vzhľadom k miestu na povrchu Zeme je v pohybe.
 
 
 Mechanický pohyb súvisí so zmenou polohy telesa. Popísať presne polohu makroskopických objektov je často zložité, preto pokiaľ rozmery a tvar telesa nie sú počas pohybu podstatné, môžeme ho nahradiť tzv. **hmotným bodom**. Hmotný bod je model telesa, pri ktorom zachovávame hmotnosť telesa, ale zanedbávame jeho rozmery.
@@ -24,7 +24,7 @@ Mechanický pohyb súvisí so zmenou polohy telesa. Popísať presne polohu makr
   <img src="/static/images/polohahb.png" alt="Poloha hmotného bodu" width="400">
 </p>
 
-> **Obr. 1.2.** Poloha hmotného bodu v rovine (priestore) je jednoznačne určená jeho súradnicami $x$ a $y$ ($x$, $y$ a $z$) v pravouhlej sústave súradníc.
+> **Obr. 1.1.2.** Poloha hmotného bodu v rovine (priestore) je jednoznačne určená jeho súradnicami $x$ a $y$ ($x$, $y$ a $z$) v pravouhlej sústave súradníc.
 
 Vzťažné teleso spojené so súradnicovou sústavou tvorí tzv. **vzťažnú sústavu**. Súradnice hmotného bodu závisia od voľby vzťažnej sústavy, poloha je preto relatívny pojem, rovnako ako pohyb a pokoj.
 
@@ -35,7 +35,7 @@ Vzťažné teleso spojené so súradnicovou sústavou tvorí tzv. **vzťažnú s
 >   <img src="/static/images/polohovy_vektor.png" alt="Polohový vektor" width="400">
 > </p>
 >
-> **Obr. 1.3.** Polohový vektor $\vec r$.
+> **Obr. 1.1.3.** Polohový vektor $\vec r$.
 >
 > Vďaka umiestneniu začiatku polohového vektora do počiatku súradnicovej sústavy má polohový vektor súradnice $\vec r = (x, y)$ v rovine, resp. $\vec r = (x, y, z)$ v priestore. Veľkosť polohového vektora určujeme pomocou Pytagorovej vety.
 
@@ -52,4 +52,4 @@ Graf závislosti dráhy od času je graf, na ktorého vodorovnú os nanášame �
   <img src="/static/images/draha.png" alt="Prejdená dráha" width="500">
 </p>
 
-> **Obr. 1.4.** Zaznamenané prejdené dráhy v jednotlivých časoch môžeme vyniesť do grafu závislosti dráhy od času.
+> **Obr. 1.1.4.** Zaznamenané prejdené dráhy v jednotlivých časoch môžeme vyniesť do grafu závislosti dráhy od času.

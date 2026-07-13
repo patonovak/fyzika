@@ -13,7 +13,7 @@ title: Meranie fyzikálnych veličín
   <img src="/static/images/vahy.png" alt="Porovnanie hmotnosti futbalovej lopty na váhach" width="400">
 </p>
 
-> **Obr. 1.** Fyzikálnu veličinu meriame tak, že porovnávame jej veľkosť s dohodnutou jednotkou tejto veličiny. Na príklade hmotnosti to znamená, že porovnávame hmotnosť telesa s telesom, ktorého hmotnosť stanovíme presne na 1 kilogram. Ak zistíme, že lopta je o polovici ľahšia ako 1 kilogram, napíšeme $m=0,5\;\mathrm{kg}$.
+> **Obr. 1.1.** Fyzikálnu veličinu meriame tak, že porovnávame jej veľkosť s dohodnutou jednotkou tejto veličiny. Na príklade hmotnosti to znamená, že porovnávame hmotnosť telesa s telesom, ktorého hmotnosť stanovíme presne na 1 kilogram. Ak zistíme, že lopta je o polovici ľahšia ako 1 kilogram, napíšeme $m=0,5\;\mathrm{kg}$.
 
 Pre označenie fyzikálnych veličín používame dohodnuté **značky veličín**. Napríklad hmotnosť značíme $m$ (angl. *mass*), silu $F$ (angl. *force*) atď.
 
@@ -80,7 +80,7 @@ Doplnkové fyzikálne jednotky sú dve, jednotka rovinného uhla **radián** $(\
   <img src="/static/images/radian.png" alt="Radián a steradián" width="400">
 </p>
 
-> **Obr. 2.** Jeden radián je rovinný uhol, ktorý na kružnici s polomerom $r$ vytne oblúk rovnakej dĺžky, ako je polomer kružnice $l = r$. Jeden steradián je priestorový uhol, ktorý s vrcholom v strede gule s polomerom $r$ vytína na povrchu tejto gule plochu rovnú druhej mocnine polomeru tejto gule $S = r^{2}$.
+> **Obr. 1.2.** Jeden radián je rovinný uhol, ktorý na kružnici s polomerom $r$ vytne oblúk rovnakej dĺžky, ako je polomer kružnice $l = r$. Jeden steradián je priestorový uhol, ktorý s vrcholom v strede gule s polomerom $r$ vytína na povrchu tejto gule plochu rovnú druhej mocnine polomeru tejto gule $S = r^{2}$.
 
 
 ### Vedľajšie fyzikálne jednotky
@@ -106,7 +106,7 @@ Tvoria sa zo základných a odvodených jednotiek pomocou mocnín so základom $
 | nano- | $\mathrm{n}$ | $10^{-9}$ |
 | piko- | $\mathrm{p}$ | $10^{-12}$ |
 
-> [!example] Príklad 2.1: Premena jednotiek
+> [!example] Príklad 1.1: Premena jednotiek
 > Premeňte na jednotky v zátvorke:
 >
 > a) $23\,\mathrm{pF}$ $(\mathrm{F})$  
@@ -145,7 +145,7 @@ Tvoria sa zo základných a odvodených jednotiek pomocou mocnín so základom $
   <img src="/static/images/vektor.png" alt="Znázornenie vektorovej veličiny" width="400">
 </p>
 
-> **Obr. 3.** Znázornenie vektorovej veličiny: Ak jeden dielik zodpovedá sile $1\,\mathrm{N}$ a orientovaná úsečka má dĺžku šesť dielikov, potom $|\vec{F}| = F = 6\,\mathrm{N}$.
+> **Obr. 1.3.** Znázornenie vektorovej veličiny: Ak jeden dielik zodpovedá sile $1\,\mathrm{N}$ a orientovaná úsečka má dĺžku šesť dielikov, potom $|\vec{F}| = F = 6\,\mathrm{N}$.
 
 
 ## Meranie a chyby merania
@@ -195,7 +195,7 @@ $$
 
 Chyba meradla v sebe zahŕňa systematickú a náhodnú chybu. Pokiaľ máme meradlo s analógovou stupnicou, chybu meradla odhadneme jednoduchým pravidlom - ako **polovicu najmenšieho dielika meradla**. V prípade milimetrového pravítka je tak chyba merania $0{,}5\,\mathrm{mm}$. Často je maximálna prípustná chyba merania udávaná výrobcom daného prístroja v percentách. Ak je presnosť prístroja napríklad $5\,\%$, znamená to, že sa skutočná hodnota meranej veličiny $x$ pohybuje v intervale $0{,}95$ až $1{,}05$ okolo nameranej hodnoty $\overline{x}$.
 
-> [!example] Príklad 2.2: Spracovanie výsledkov merania
+> [!example] Príklad 1.2: Spracovanie výsledkov merania
 > Pri meraní objemu kovového telieska sme získali nasledovných desať hodnôt:
 >
 > $123{,}5\,\mathrm{cm}^{3}$; $123{,}6\,\mathrm{cm}^{3}$; $123{,}3\,\mathrm{cm}^{3}$; $123{,}4\,\mathrm{cm}^{3}$; $123{,}7\,\mathrm{cm}^{3}$; $123{,}8\,\mathrm{cm}^{3}$; $123{,}4\,\mathrm{cm}^{3}$; $123{,}5\,\mathrm{cm}^{3}$; $123{,}3\,\mathrm{cm}^{3}$; $123{,}6\,\mathrm{cm}^{3}$

@@ -27,7 +27,7 @@ Nerovnomerné pohyby delíme na:
   <img src="/static/images/rzp.png" alt="Rovnomerný priamočiary pohyb" width="400">
 </p>
 
-> **Obr. 1.10.** Rovnomerne zrýchlený a spomalený pohyb.
+> **Obr. 1.1.10.** Rovnomerne zrýchlený a spomalený pohyb.
 
 ## Rovnomerne zrýchlený priamočiary pohyb
 
@@ -72,7 +72,7 @@ $$
   <img src="/static/images/grafy_rzp.png" alt="Grafy RZP" width="700">
 </p>
 
-> **Obr. 1.11.** Grafy závislosti zrýchlenia, rýchlosti a dráhy od času pri rovnomernom zrýchlenom pohybe po priamke.
+> **Obr. 1.1.11.** Grafy závislosti zrýchlenia, rýchlosti a dráhy od času pri rovnomernom zrýchlenom pohybe po priamke.
 
 ## Rovnomerne spomalený priamočiary pohyb
 
@@ -103,10 +103,10 @@ $$
   <img src="/static/images/grafy_rsp.png" alt="Grafy RSP" width="700">
 </p>
 
-> **Obr. 1.12.** Grafy závislosti zrýchlenia, rýchlosti a dráhy od času pri rovnomernom spomalenom pohybe po priamke.
+> **Obr. 1.1.12.** Grafy závislosti zrýchlenia, rýchlosti a dráhy od času pri rovnomernom spomalenom pohybe po priamke.
 
 
-> [!example] Príklad 1.2: Čas a dráha zastavenia
+> [!example] Príklad 1.1.2: Čas a dráha zastavenia
 > Dokážte, že pre čas a dráhu zastavenia pri rovnomerne spomalenom pohybe platia vzťahy uvedené vyššie.
 >
 > **Riešenie:**
@@ -152,7 +152,7 @@ Proti tejto predstave vystúpil taliansky fyzik a astronóm Galileo Galilei, kto
   <img src="/static/images/aristoteles_galileo.png" alt="aristoteles_galileo" width="700">
 </p>
 
-> **Obr. 1.13.** Aristoteles (384 p.n.l. - 322 p.n.l.) a Galileo Galilei (1564 - 1642)
+> **Obr. 1.1.13.** Aristoteles (384 p.n.l. - 322 p.n.l.) a Galileo Galilei (1564 - 1642)
 
 Z pozorovaní voľného pádu, teda pádu voľne pusteného telesa vo vákuu, vyplynulo, že ide o pohyb **rovnomerne zrýchlený**. Všetky telesá padajú v blízkosti Zeme vo vákuu s rovnakým konštantným zrýchlením, ktoré nazývame **tiažové zrýchlenie** $g$.
 
@@ -186,7 +186,7 @@ $$
 
 Pád telies s vylúčeným odporom vzduchu môžeme pozorovať v tzv. **Newtonovej trubici**. Ak z nej odčerpáme vzduch, telesá s rôznou hmotnosťou padajú súčasne rovnakou rýchlosťou, ktorá nezávisí od ich hmotnosti.
 
-> [!example] Príklad 1.3: Pád tenisovej loptičky
+> [!example] Príklad 1.1.3: Pád tenisovej loptičky
 > Tenisová loptička bola pustená z 2. poschodia paneláku a dopadla na zem za $0{,}9$ sekundy.
 >
 > a) V akej výške nad zemou je druhé poschodie paneláku?

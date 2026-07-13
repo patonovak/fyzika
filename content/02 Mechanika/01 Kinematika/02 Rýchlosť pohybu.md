@@ -30,7 +30,7 @@ $$
   <img src="/static/images/rychlost.png" alt="Priemerná rýchlosť" width="400">
 </p>
 
-> **Obr. 1.5.** K definícii priemernej rýchlosti.
+> **Obr. 1.1.5.** K definícii priemernej rýchlosti.
 
 Priemerná rýchlosť však nie je dostatočnou charakteristikou pohybu. Nevypovedá nič o tom, akou rýchlosťou sa pohybovalo teleso v danom okamihu na danej časti trajektórie. O tom vypovedá tzv. **okamžitá rýchlosť**, ktorej veľkosť môžeme odčítať napríklad na tachometri v aute.
 
@@ -49,7 +49,7 @@ Zápis $\Delta t \to 0$ čítame: „$\Delta t$ sa blíži k nule“ v zmysle �
   <img src="/static/images/rychlost_vektor.png" alt="Vektor okamžitej rýchlosti" width="400">
 </p>
 
-> **Obr. 1.6.** Vektor okamžitej rýchlosti má smer dotyčnice v danám bode trajektórie.
+> **Obr. 1.1.6.** Vektor okamžitej rýchlosti má smer dotyčnice v danám bode trajektórie.
 
 > [!note] Rozširujúce učivo: Vektor okamžitej rýchlosti
 > Polohu hmotného bodu $A$ v danej súradnicovej sústave opisuje polohový vektor $\vec r$ a polohu $B$ vektor $\vec r'$. Môžeme definovať zmenu polohového vektora ako $\Delta \vec r = \vec r' - \vec r$
@@ -58,13 +58,13 @@ Zápis $\Delta t \to 0$ čítame: „$\Delta t$ sa blíži k nule“ v zmysle �
 >   <img src="/static/images/vektor_okamzitej_rychlosti.png" alt="Vektor okamžitej rýchlosti" width="400">
 > </p>
 >
-> **Obr. 1.7.** Vektor okamžitej rýchlosti.
+> **Obr. 1.1.7.** Vektor okamžitej rýchlosti.
 > $$
 > \vec v = \frac{\Delta \vec r}{\Delta t}
 > \quad \text{pre} \quad \Delta t \to 0
 > $$
 
-> [!example] Príklad 1.1: Priemerná rýchlosť cyklistu
+> [!example] Príklad 1.1.1: Priemerná rýchlosť cyklistu
 > Cyklista vyšiel cestu do kopca rýchlosťou $2\ \mathrm{m \cdot s^{-1}}$. Potom sa otočil a zišiel dole, odkiaľ prišiel. Dolu kopcom šiel stálou rýchlosťou $6\ \mathrm{m \cdot s^{-1}}$. Vypočítajte priemernú rýchlosť cyklistu.
 >
 > **Riešenie:**

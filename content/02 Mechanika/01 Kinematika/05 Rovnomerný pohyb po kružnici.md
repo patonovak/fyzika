@@ -10,7 +10,7 @@ Pri rovnomernom pohybe po kružnici opíše hmotný bod za rovnaké časové int
   <img src="/static/images/rppk.png" alt="Rovnomerný pohyb po kružnici" width="400">
 </p>
 
-> **Obr. 1.14.** Pri rovnomernom pohybe po kružnici opíše hmotný bod za rovnaké časové intrvaly rovnako dlhé kružnicové oblúky.
+> **Obr. 1.1.14.** Pri rovnomernom pohybe po kružnici opíše hmotný bod za rovnaké časové intrvaly rovnako dlhé kružnicové oblúky.
 
 Rovnomerný pohyb po kružnici je **periodický pohyb**, teda pravidelne sa opakujúci. Čas, za ktorý teleso vykoná jeden obeh, sa nazýva **perióda** alebo **čas obehu** a označuje sa $T$. Jej jednotkou je sekunda.
 
@@ -26,7 +26,7 @@ $$
 [f] = \mathrm{Hz} = \mathrm{s^{-1}}
 $$
 
-> [!example] Príklad 1.4: Perióda a frekvencia pohybu
+> [!example] Príklad 1.1.4: Perióda a frekvencia pohybu
 > Auto obehne rovnomerne kruhovú dráhu za čas $50\ \mathrm{s}$. Aká je perióda a frekvencia jeho pohybu?
 >
 > **Riešenie:**
@@ -55,7 +55,7 @@ Pri rovnomernom pohybe po kružnici sa nemení veľkosť okamžitej rýchlosti h
   <img src="/static/images/rppk_vektor_rychlosti.png" alt="Vektor okamžitej rýchlosti pri pohybe po kružnici" width="400">
 </p>
 
-> **Obr. 1.15.** Vektor okamžitej rýchlosti pri rovnomernom pohybe po kružnici má smer dotyčnice k trajektórii.
+> **Obr. 1.1.15.** Vektor okamžitej rýchlosti pri rovnomernom pohybe po kružnici má smer dotyčnice k trajektórii.
 
 Veľkosť okamžitej rýchlosti, ktorú nazývame aj **obvodová rýchlosť**, je daná pomerom dráhy a času. Keďže dĺžka celej kružnice je $2\pi r$ a čas jedného obehu je perióda pohybu, dostávame:
 
@@ -104,10 +104,10 @@ $$
   <img src="/static/images/dostredive_zrychlenie.png" alt="Dostredivé zrýchlenie" width="400">
 </p>
 
-> **Obr. 1.16.** Dostredivé zrýchlenie smeruje do stredu kružnice.
+> **Obr. 1.1.16.** Dostredivé zrýchlenie smeruje do stredu kružnice.
 
 
-> [!example] Príklad 1.5: Kotúčová píla
+> [!example] Príklad 1.1.5: Kotúčová píla
 > Kotúčová píla sa otáča s frekvenciou $4500\ \mathrm{ot \cdot min^{-1}}$. Akú obvodovú rýchlosť má bod na obvode kotúča, ak polomer kotúča je $10\ \mathrm{cm}$?
 >
 > **Riešenie:**
@@ -136,7 +136,7 @@ $$
 > v = 2\pi fr \approx 47\ \mathrm{m \cdot s^{-1}}
 > $$
 
-> [!example] Príklad 1.6: Big Ben
+> [!example] Príklad 1.1.6: Big Ben
 > Hodinová veža Westminsterského paláca, nazývaná podľa jedného z jej zvonov Big Ben, má dĺžku minútovej ručičky $4{,}3\ \mathrm{m}$.
 >
 > a) Aká je veľkosť obvodovej rýchlosti koncového bodu minútovej ručičky?
@@ -173,7 +173,7 @@ $$
 >   <img src="/static/images/zlozky_zrychlenia.png" alt="Zložky zrýchlenia" width="400">
 > </p>
 >
-> **Obr. 1.17.** Zložky zrýchlenia.
+> **Obr. 1.1.17.** Zložky zrýchlenia.
 > - **Dotyčnicové (tangenciálne) zrýchlenie** $\vec a_t$ vyjadruje zmenu veľkosti okamžitej rýchlosti v čase a má smer dotyčnice ku trajektórii.
 > - **Normálové (radiálne) zrýchlenie** $\vec a_n$ vyjadruje zmenu orientácie vektora rýchlosti v čase.
 >

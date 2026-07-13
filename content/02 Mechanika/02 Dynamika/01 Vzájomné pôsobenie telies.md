@@ -6,6 +6,12 @@ Ak zatlačíme penovú loptičku, cítime, že tak, ako my tlačíme na ňu, tla
 
 Vzájomné pôsobenie telies charakterizuje fyzikálna veličina **sila**. Sila je vektorová fyzikálna veličina, teda je jednoznačne určená nielen veľkosťou, ale aj smerom. Značkou sily je $\vec F$ a jej jednotkou v sústave SI je **newton** ($N$). Na meranie sily sa používa **silomer**.
 
+<p class="measurement-figure no-extra-frame">
+  <img src="/static/images/vektor.png" alt="Znázornenie vektorovej veličiny" width="400">
+</p>
+
+> **Obr. 1.2.1.** Znázornenie vektorovej veličiny: Ak jeden dielik zodpovedá sile $1\,\mathrm{N}$ a orientovaná úsečka má dĺžku šesť dielikov, potom $|\vec{F}| = F = 6\,\mathrm{N}$.
+
 Silu znázorňujeme orientovanou úsečkou. Dĺžka úsečky zodpovedá veľkosti sily. Vektorová priamka a orientovaná úsečka označujú **smer vektora sily**. Počiatočný bod, v ktorom túto orientovanú úsečku kreslíme, nazývame **pôsobisko sily**.
 
 Výsledkom vzájomného pôsobenia telies môže byť:

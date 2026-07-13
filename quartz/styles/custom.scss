@@ -43,6 +43,20 @@
   width: 500px;
 }
 
+.measurement-figure.force-table-figure {
+  float: none;
+  width: 100%;
+  max-width: 100%;
+  margin: 0.75rem 0 0.35rem 0;
+  text-align: center;
+}
+
+.measurement-figure.force-table-figure img {
+  display: inline-block;
+  width: 100%;
+  max-width: 760px;
+}
+
 .measurement-figure.callout-figure {
   float: none;
   width: 100%;

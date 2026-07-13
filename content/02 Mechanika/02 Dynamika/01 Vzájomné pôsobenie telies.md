@@ -42,30 +42,8 @@ Pôsobenie sily na teleso sa môže uskutočniť:
 
 Ak na teleso pôsobí v jednom jeho bode súčasne viacero síl $\vec F_1, \vec F_2, \ldots, \vec F_n$, môžeme ich nahradiť jedinou silou $\vec F$, ktorá má na teleso rovnaký pohybový účinok. Túto silu nazývame **výslednica síl** a tento postup **skladanie síl**.
 
-Pre skladanie dvoch rovnobežných síl so spoločným pôsobiskom platí:
+<p class="measurement-figure no-extra-frame force-table-figure">
+  <img src="/static/images/skladanie_sil.svg" alt="Skladanie síl" width="760">
+</p>
 
-$$
-F = F_1 + F_2
-$$
-
-ak majú sily rovnaký smer, a
-
-$$
-F = F_1 - F_2
-$$
-
-ak majú sily opačný smer a $F_1 > F_2$.
-
-Pokiaľ sily so spoločným pôsobiskom nie sú rovnobežné, ale rôznobežné, skladáme ich pomocou **pravidla vektorového rovnobežníka**. Výslednica síl je potom uhlopriečkou vo vektorovom rovnobežníku.
-
-Pre dve navzájom kolmé sily platí:
-
-$$
-F = \sqrt{F_1^2 + F_2^2}
-$$
-
-Ak sily zvierajú uhol $\alpha$, veľkosť výslednice určíme vzťahom:
-
-$$
-F = \sqrt{F_1^2 + F_2^2 + 2F_1F_2\cos\alpha}
-$$
+> **Obr. 1.2.3.** Skladanie síl. Výslednica rovnobežných síl závisí od ich smeru. Rôznobežné sily skladáme pomocou pravidla vektorového rovnobežníka.

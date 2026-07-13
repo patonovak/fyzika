@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Skladanie síl</title>
+  <desc id="desc">Tabuľka znázorňuje skladanie rovnobežných, opačne orientovaných a rôznobežných síl.</desc>
+  <defs>
+    <marker id="arrowBlack" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,4 L0,8 Z" fill="#202020"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,4 L0,8 Z" fill="#2f7d83"/>
+    </marker>
+    <style>
+      .frame { fill: #f8f7f3; stroke: #2b2b2b; stroke-width: 2; }
+      .head { fill: #2f6f86; }
+      .headText { fill: #fff; font: 600 28px Georgia, serif; }
+      .cellLine { stroke: #2b2b2b; stroke-width: 1.5; }
+      .formula { fill: #202020; font: italic 42px Georgia, serif; }
+      .label { fill: #202020; font: italic 34px Georgia, serif; }
+      .smallLabel { fill: #202020; font: italic 27px Georgia, serif; }
+      .force { stroke: #202020; stroke-width: 5; fill: none; marker-end: url(#arrowBlack); }
+      .forceThin { stroke: #202020; stroke-width: 4; fill: none; marker-end: url(#arrowBlack); }
+      .result { stroke: #2f7d83; stroke-width: 6; fill: none; marker-end: url(#arrowGreen); }
+      .dash { stroke: #9a9a9a; stroke-width: 3; stroke-dasharray: 10 10; fill: none; }
+      .point { fill: #202020; }
+      .pointBlue { fill: #2f7d83; }
+    </style>
+  </defs>
+
+  <rect x="10" y="10" width="1180" height="740" rx="0" class="frame"/>
+
+  <!-- First table -->
+  <rect x="40" y="40" width="1120" height="220" class="head"/>
+  <rect x="40" y="85" width="1120" height="175" fill="#fbfaf6"/>
+  <line x1="413" y1="40" x2="413" y2="260" class="cellLine"/>
+  <line x1="786" y1="40" x2="786" y2="260" class="cellLine"/>
+  <line x1="40" y1="150" x2="1160" y2="150" class="cellLine"/>
+  <line x1="40" y1="85" x2="1160" y2="85" class="cellLine"/>
+  <text x="226" y="71" text-anchor="middle" class="headText">Skladané sily</text>
+  <text x="600" y="71" text-anchor="middle" class="headText">Konštrukcia výslednice</text>
+  <text x="973" y="71" text-anchor="middle" class="headText">Veľkosť výslednice</text>
+
+  <!-- Row 1 parallel same direction -->
+  <circle cx="100" cy="116" r="5" class="point"/>
+  <circle cx="100" cy="136" r="5" class="point"/>
+  <line x1="100" y1="116" x2="300" y2="116" class="force"/>
+  <line x1="100" y1="136" x2="250" y2="136" class="forceThin"/>
+  <text x="180" y="107" class="label">F₁</text>
+  <text x="177" y="145" class="smallLabel">F₂</text>
+  <circle cx="470" cy="126" r="5" class="point"/>
+  <line x1="470" y1="126" x2="625" y2="126" class="force"/>
+  <circle cx="625" cy="126" r="5" class="point"/>
+  <line x1="625" y1="126" x2="735" y2="126" class="forceThin"/>
+  <circle cx="470" cy="142" r="5" class="pointBlue"/>
+  <line x1="470" y1="142" x2="735" y2="142" class="result"/>
+  <text x="540" y="117" class="label">F₁</text>
+  <text x="660" y="117" class="smallLabel">F₂</text>
+  <text x="590" y="181" class="label" fill="#2f7d83">F</text>
+  <text x="973" y="132" text-anchor="middle" class="formula">F = F₁ + F₂</text>
+
+  <!-- Row 2 parallel opposite direction -->
+  <circle cx="120" cy="205" r="5" class="point"/>
+  <circle cx="120" cy="225" r="5" class="point"/>
+  <line x1="120" y1="205" x2="300" y2="205" class="force"/>
+  <line x1="270" y1="225" x2="120" y2="225" class="forceThin"/>
+  <text x="115" y="196" class="smallLabel">F₂</text>
+  <text x="220" y="196" class="label">F₁</text>
+  <circle cx="470" cy="205" r="5" class="point"/>
+  <line x1="470" y1="205" x2="720" y2="205" class="force"/>
+  <circle cx="470" cy="225" r="5" class="pointBlue"/>
+  <line x1="620" y1="225" x2="470" y2="225" class="result"/>
+  <text x="535" y="196" class="label">F</text>
+  <text x="973" y="222" text-anchor="middle" class="formula">F = F₁ − F₂</text>
+
+  <!-- Text between tables -->
+  <text x="40" y="305" font-family="Georgia, serif" font-size="24" fill="#202020">
+    <tspan x="40" dy="0">Ak sily so spoločným pôsobiskom nie sú rovnobežné, skladáme ich pomocou pravidla</tspan>
+    <tspan font-weight="700"> vektorového rovnobežníka</tspan><tspan>.</tspan>
+    <tspan x="40" dy="32">Výslednica síl je uhlopriečkou vo vektorovom rovnobežníku.</tspan>
+  </text>
+
+  <!-- Second table -->
+  <rect x="40" y="350" width="1120" height="360" class="head"/>
+  <rect x="40" y="395" width="1120" height="315" fill="#fbfaf6"/>
+  <line x1="413" y1="350" x2="413" y2="710" class="cellLine"/>
+  <line x1="786" y1="350" x2="786" y2="710" class="cellLine"/>
+  <line x1="40" y1="530" x2="1160" y2="530" class="cellLine"/>
+  <line x1="40" y1="395" x2="1160" y2="395" class="cellLine"/>
+  <text x="226" y="381" text-anchor="middle" class="headText">Skladané sily</text>
+  <text x="600" y="381" text-anchor="middle" class="headText">Konštrukcia výslednice</text>
+  <text x="973" y="381" text-anchor="middle" class="headText">Veľkosť výslednice</text>
+
+  <!-- Row 3 perpendicular -->
+  <circle cx="165" cy="490" r="6" class="point"/>
+  <line x1="165" y1="490" x2="165" y2="410" class="force"/>
+  <line x1="165" y1="490" x2="305" y2="490" class="forceThin"/>
+  <text x="138" y="438" class="label">F₁</text>
+  <text x="245" y="520" class="smallLabel">F₂</text>
+  <circle cx="520" cy="490" r="6" class="point"/>
+  <line x1="520" y1="490" x2="520" y2="410" class="force"/>
+  <line x1="520" y1="490" x2="660" y2="490" class="forceThin"/>
+  <line x1="520" y1="410" x2="660" y2="410" class="dash"/>
+  <line x1="660" y1="490" x2="660" y2="410" class="dash"/>
+  <line x1="520" y1="490" x2="660" y2="410" class="result"/>
+  <text x="550" y="440" class="smallLabel">F₁</text>
+  <text x="595" y="520" class="smallLabel">F₂</text>
+  <text x="600" y="445" class="label" fill="#2f7d83">F</text>
+  <text x="973" y="480" text-anchor="middle" class="formula">F = √(F₁² + F₂²)</text>
+
+  <!-- Row 4 arbitrary angle -->
+  <circle cx="165" cy="655" r="6" class="point"/>
+  <line x1="165" y1="655" x2="165" y2="570" class="force"/>
+  <line x1="165" y1="655" x2="305" y2="655" class="forceThin"/>
+  <line x1="165" y1="655" x2="240" y2="560" class="forceThin"/>
+  <path d="M205 655 A45 45 0 0 0 224 618" stroke="#202020" stroke-width="2" fill="none"/>
+  <text x="214" y="633" class="smallLabel">α</text>
+  <text x="120" y="605" class="smallLabel">F₁</text>
+  <text x="255" y="685" class="smallLabel">F₂</text>
+  <circle cx="520" cy="655" r="6" class="point"/>
+  <line x1="520" y1="655" x2="660" y2="655" class="forceThin"/>
+  <line x1="520" y1="655" x2="595" y2="560" class="forceThin"/>
+  <line x1="595" y1="560" x2="735" y2="560" class="dash"/>
+  <line x1="660" y1="655" x2="735" y2="560" class="dash"/>
+  <line x1="520" y1="655" x2="735" y2="560" class="result"/>
+  <text x="575" y="592" class="smallLabel">F₁</text>
+  <text x="595" y="685" class="smallLabel">F₂</text>
+  <text x="645" y="605" class="label" fill="#2f7d83">F</text>
+  <text x="973" y="650" text-anchor="middle" class="formula">F = √(F₁² + F₂² + 2F₁F₂cosα)</text>
+</svg>

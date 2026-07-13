@@ -1,15 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 110" role="img" aria-label="Výslednica dvoch opačne orientovaných síl">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 130" role="img" aria-label="Výslednica dvoch opačne orientovaných síl">
   <defs>
-    <marker id="arrowBlack" markerWidth="7" markerHeight="6" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L7,3 L0,6 Z" fill="#222"/>
+    <marker id="arrowBlack" markerWidth="6" markerHeight="5" refX="5.5" refY="2.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L6,2.5 L0,5 Z" fill="#222"/>
     </marker>
-    <marker id="arrowGreen" markerWidth="7" markerHeight="6" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L7,3 L0,6 Z" fill="#2f7d83"/>
+    <marker id="arrowGreen" markerWidth="6" markerHeight="5" refX="5.5" refY="2.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L6,2.5 L0,5 Z" fill="#2f7d83"/>
     </marker>
   </defs>
-  <circle cx="34" cy="38" r="4" fill="#222"/>
-  <line x1="34" y1="38" x2="220" y2="38" stroke="#222" stroke-width="4" marker-end="url(#arrowBlack)"/>
-  <circle cx="34" cy="70" r="4" fill="#2f7d83"/>
-  <line x1="150" y1="70" x2="34" y2="70" stroke="#2f7d83" stroke-width="3.5" marker-end="url(#arrowGreen)"/>
-  <circle cx="150" cy="70" r="4" fill="#222"/>
+  <circle cx="46" cy="42" r="4" fill="#222"/>
+  <line x1="46" y1="42" x2="258" y2="42" stroke="#222" stroke-width="3.2" marker-end="url(#arrowBlack)"/>
+  <circle cx="46" cy="66" r="4" fill="#222"/>
+  <line x1="175" y1="66" x2="46" y2="66" stroke="#222" stroke-width="2.8" marker-end="url(#arrowBlack)"/>
+  <circle cx="46" cy="98" r="4" fill="#2f7d83"/>
+  <line x1="46" y1="98" x2="150" y2="98" stroke="#2f7d83" stroke-width="3.2" marker-end="url(#arrowGreen)"/>
+  <text x="128" y="28" font-family="Georgia, serif" font-size="22" fill="#222">F₁</text>
+  <text x="88" y="86" font-family="Georgia, serif" font-size="22" fill="#222">F₂</text>
+  <text x="86" y="122" font-family="Georgia, serif" font-size="24" fill="#2f7d83">F</text>
 </svg>

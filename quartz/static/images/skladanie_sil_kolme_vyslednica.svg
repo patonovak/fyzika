@@ -1,16 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 150" role="img" aria-label="Výslednica dvoch kolmých síl">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 170" role="img" aria-label="Výslednica dvoch kolmých síl">
   <defs>
-    <marker id="arrowBlack" markerWidth="7" markerHeight="6" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L7,3 L0,6 Z" fill="#222"/>
+    <marker id="arrowBlack" markerWidth="6" markerHeight="5" refX="5.5" refY="2.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L6,2.5 L0,5 Z" fill="#222"/>
     </marker>
-    <marker id="arrowGreen" markerWidth="7" markerHeight="6" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L7,3 L0,6 Z" fill="#2f7d83"/>
+    <marker id="arrowGreen" markerWidth="6" markerHeight="5" refX="5.5" refY="2.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L6,2.5 L0,5 Z" fill="#2f7d83"/>
     </marker>
   </defs>
-  <circle cx="56" cy="118" r="5" fill="#222"/>
-  <line x1="56" y1="118" x2="56" y2="28" stroke="#222" stroke-width="4" marker-end="url(#arrowBlack)"/>
-  <line x1="56" y1="118" x2="190" y2="118" stroke="#222" stroke-width="4" marker-end="url(#arrowBlack)"/>
-  <line x1="56" y1="28" x2="190" y2="28" stroke="#777" stroke-width="2" stroke-dasharray="8 8"/>
-  <line x1="190" y1="118" x2="190" y2="28" stroke="#777" stroke-width="2" stroke-dasharray="8 8"/>
-  <line x1="56" y1="118" x2="190" y2="28" stroke="#2f7d83" stroke-width="4" marker-end="url(#arrowGreen)"/>
+  <circle cx="62" cy="132" r="5" fill="#222"/>
+  <line x1="62" y1="132" x2="62" y2="32" stroke="#222" stroke-width="3.2" marker-end="url(#arrowBlack)"/>
+  <line x1="62" y1="132" x2="218" y2="132" stroke="#222" stroke-width="3.2" marker-end="url(#arrowBlack)"/>
+  <line x1="62" y1="32" x2="218" y2="32" stroke="#777" stroke-width="2" stroke-dasharray="8 8"/>
+  <line x1="218" y1="132" x2="218" y2="32" stroke="#777" stroke-width="2" stroke-dasharray="8 8"/>
+  <line x1="62" y1="132" x2="218" y2="32" stroke="#2f7d83" stroke-width="3.4" marker-end="url(#arrowGreen)"/>
+  <text x="32" y="78" font-family="Georgia, serif" font-size="22" fill="#222">F₂</text>
+  <text x="134" y="158" font-family="Georgia, serif" font-size="22" fill="#222">F₁</text>
+  <text x="140" y="72" font-family="Georgia, serif" font-size="24" fill="#2f7d83">F</text>
 </svg>

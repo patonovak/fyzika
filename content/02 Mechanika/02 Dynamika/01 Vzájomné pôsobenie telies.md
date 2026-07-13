@@ -42,11 +42,64 @@ Pôsobenie sily na teleso sa môže uskutočniť:
 
 Ak na teleso pôsobí v jednom jeho bode súčasne viacero síl $\vec F_1, \vec F_2, \ldots, \vec F_n$, môžeme ich nahradiť jedinou silou $\vec F$, ktorá má na teleso rovnaký pohybový účinok. Túto silu nazývame **výslednica síl** a tento postup **skladanie síl**.
 
-| Skladané sily | Konštrukcia výslednice | Veľkosť výslednice |
-| --- | --- | --- |
-| ![Dve rovnobežné sily rovnakého smeru](/static/images/skladanie_sil_rovnobezne.svg)<br>$\vec F_1$, $\vec F_2$ majú rovnaký smer. | ![Výslednica dvoch rovnobežných síl rovnakého smeru](/static/images/skladanie_sil_rovnobezne_vyslednica.svg)<br>Výslednica $\vec F$ má rovnaký smer ako skladané sily. | $\displaystyle F = F_1 + F_2$ |
-| ![Dve rovnobežné sily opačného smeru](/static/images/skladanie_sil_opacne.svg)<br>$\vec F_1$, $\vec F_2$ majú opačný smer. | ![Výslednica dvoch opačne orientovaných síl](/static/images/skladanie_sil_opacne_vyslednica.svg)<br>Výslednica $\vec F$ má smer väčšej sily. | $\displaystyle F = F_1 - F_2$ |
-| ![Dve kolmé sily](/static/images/skladanie_sil_kolme.svg)<br>Sily $\vec F_1$ a $\vec F_2$ sú navzájom kolmé. | ![Výslednica dvoch kolmých síl](/static/images/skladanie_sil_kolme_vyslednica.svg)<br>Výslednica $\vec F$ je uhlopriečkou vektorového rovnobežníka. | $\displaystyle F = \sqrt{F_1^2 + F_2^2}$ |
-| ![Dve rôznobežné sily](/static/images/skladanie_sil_roznebezne.svg)<br>Sily $\vec F_1$ a $\vec F_2$ zvierajú uhol $\alpha$. | ![Výslednica dvoch rôznobežných síl](/static/images/skladanie_sil_roznebezne_vyslednica.svg)<br>Výslednica $\vec F$ je uhlopriečkou vektorového rovnobežníka. | $\displaystyle F = \sqrt{F_1^2 + F_2^2 + 2F_1F_2\cos\alpha}$ |
+### Rovnobežné sily rovnakého smeru
 
-> **Obr. 1.2.3.** Skladanie síl. Výslednica rovnobežných síl závisí od ich smeru. Rôznobežné sily skladáme pomocou pravidla vektorového rovnobežníka.
+<figure class="force-composition-figure no-extra-frame">
+  <img src="/static/images/skladanie_sil_rovnobezne_vyslednica.svg" alt="Skladanie dvoch rovnobežných síl rovnakého smeru">
+  <figcaption>Obr. 1.2.3a. Výslednica rovnobežných síl rovnakého smeru má rovnaký smer ako skladané sily.</figcaption>
+</figure>
+
+Ak sily $\vec F_1$ a $\vec F_2$ pôsobia na teleso v rovnakom smere, veľkosť výslednice je súčtom ich veľkostí:
+
+$$
+F = F_1 + F_2.
+$$
+
+<div class="figure-clear"></div>
+
+### Rovnobežné sily opačného smeru
+
+<figure class="force-composition-figure no-extra-frame">
+  <img src="/static/images/skladanie_sil_opacne_vyslednica.svg" alt="Skladanie dvoch rovnobežných síl opačného smeru">
+  <figcaption>Obr. 1.2.3b. Výslednica rovnobežných síl opačného smeru má smer väčšej sily.</figcaption>
+</figure>
+
+Ak sily $\vec F_1$ a $\vec F_2$ pôsobia v opačných smeroch, veľkosť výslednice je rozdiel ich veľkostí. Ak platí $F_1 > F_2$, potom:
+
+$$
+F = F_1 - F_2.
+$$
+
+Všeobecne môžeme veľkosť výslednice zapísať aj v tvare $F = |F_1 - F_2|$.
+
+<div class="figure-clear"></div>
+
+### Navzájom kolmé sily
+
+<figure class="force-composition-figure no-extra-frame">
+  <img src="/static/images/skladanie_sil_kolme_vyslednica.svg" alt="Skladanie dvoch navzájom kolmých síl">
+  <figcaption>Obr. 1.2.3c. Výslednica kolmých síl je uhlopriečkou vektorového rovnobežníka.</figcaption>
+</figure>
+
+Ak sily $\vec F_1$ a $\vec F_2$ zvierajú pravý uhol, veľkosť výslednice určíme pomocou Pytagorovej vety:
+
+$$
+F = \sqrt{F_1^2 + F_2^2}.
+$$
+
+<div class="figure-clear"></div>
+
+### Rôznobežné sily
+
+<figure class="force-composition-figure no-extra-frame">
+  <img src="/static/images/skladanie_sil_roznebezne_vyslednica.svg" alt="Skladanie dvoch rôznobežných síl s vyznačeným uhlom alfa">
+  <figcaption>Obr. 1.2.3d. Rôznobežné sily skladáme pomocou pravidla vektorového rovnobežníka. Uhol alfa je uhol medzi skladanými silami.</figcaption>
+</figure>
+
+Ak sily $\vec F_1$ a $\vec F_2$ zvierajú uhol $\alpha$, veľkosť výslednice určíme vzťahom:
+
+$$
+F = \sqrt{F_1^2 + F_2^2 + 2F_1F_2\cos\alpha}.
+$$
+
+<div class="figure-clear"></div>

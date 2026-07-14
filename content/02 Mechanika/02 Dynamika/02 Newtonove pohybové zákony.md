@@ -34,7 +34,7 @@ Naopak, sústava, v ktorej izolované teleso alebo jeho model nezotrváva v poko
 
 Každá vzťažná sústava, ktorá je vzhľadom na danú inerciálnu vzťažnú sústavu v pokoji alebo v rovnomernom priamočiarom pohybe, je tiež inerciálna. Podľa **Galileiho princípu relativity** platia zákony mechaniky rovnako vo všetkých inerciálnych vzťažných sústavách.
 
-<p class="measurement-figure figure-wide no-extra-frame">
+<p class="measurement-figure figure-wide">
   <img src="/static/images/inercialna_vztazna_sustava.png" alt="Inerciálna vzťažná sústava" width="500">
 </p>
 

@@ -8,6 +8,12 @@ title: Newtonove pohybové zákony
 
 **Každé izolované teleso zotrváva v pokoji alebo rovnomernom priamočiarom pohybe, pokiaľ nie je nútené pôsobením vonkajších síl tento svoj pohybový stav zmeniť.**
 
+<p class="measurement-figure">
+  <img src="/static/images/isaac_newton.png" alt="Isaac Newton" width="400">
+</p>
+
+> **Obr. 1.2.4.** Isaac Newton (1643 - 1727).
+
 Pre izolované teleso sú pokoj a rovnomerný priamočiary pohyb dva rovnocenné stavy, pre ktoré platí:
 
 $$
@@ -27,6 +33,12 @@ Dôležitou vlastnosťou telies je ich **zotrvačnosť**, ktorú môžeme charak
 Naopak, sústava, v ktorej izolované teleso alebo jeho model nezotrváva v pokoji alebo v rovnomernom priamočiarom pohybe, sa nazýva **neinerciálna vzťažná sústava**.
 
 Každá vzťažná sústava, ktorá je vzhľadom na danú inerciálnu vzťažnú sústavu v pokoji alebo v rovnomernom priamočiarom pohybe, je tiež inerciálna. Podľa **Galileiho princípu relativity** platia zákony mechaniky rovnako vo všetkých inerciálnych vzťažných sústavách.
+
+<p class="measurement-figure figure-wide no-extra-frame">
+  <img src="/static/images/inercialna_vztazna_sustava.png" alt="Inerciálna vzťažná sústava" width="500">
+</p>
+
+> **Obr. 1.2.5.** Inerciálnu vzťažnú sústavu tvoria napríklad steny kabíny vlaku, ktorý sa pohybuje rovnomerne priamočiaro po trati alebo je v pokoji. Podľa Galileiho princípu relativity sú tieto dve sústavy z hľadiska popisu mechanických dejov rovnocenné. Pozorovatelia v obidvoch sústavách budú pozorovať pád voľne pustenej lopty ako pád vo zvislom smere. Pomocou lopty by sme nedokázali rozlíšiť, či sa vagón pohybuje konštantnou rýchlosťou alebo je v pokoji.
 
 ## Hybnosť telesa a jej zmena
 

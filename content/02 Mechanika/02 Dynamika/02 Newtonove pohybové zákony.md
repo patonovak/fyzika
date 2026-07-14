@@ -63,6 +63,12 @@ m(\vec v_2 - \vec v_1) =
 m\Delta \vec v
 $$
 
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/zmena_hybnosti.png" alt="Zmena hybnosti telesa pri zmene rýchlosti" width="500">
+</p>
+
+> **Obr. 1.2.6.** Zmena pohybového stavu telesa je spojená so zmenou jeho hybnosti. Pri nezmenenej hmotnosti sa hybnosť mení zmenou okamžitej rýchlosti.
+
 > [!note] Rozširujúce učivo: Pohyb telesa s premennou hmotnosťou
 > Pri pohybe telesa sa môže meniť aj jeho hmotnosť, napríklad pri pohybe rakety alebo postrekovacieho auta. Zmena hybnosti telesa potom nemusí nastať len zmenou okamžitej rýchlosti, ale aj zmenou hmotnosti alebo oboch veličín naraz.
 >
@@ -92,6 +98,12 @@ m\vec a
 $$
 
 **Výslednica síl pôsobiacich na teleso sa rovná súčinu jeho hmotnosti a zrýchlenia.** Tento zákon preto nazývame aj **zákon sily**.
+
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/druhy_newtonov_zakon.png" alt="Pôsobenie sily na teleso podľa druhého Newtonovho zákona" width="500">
+</p>
+
+> **Obr. 1.2.7.** Z 2. Newtonovho pohybového zákona vyplýva, že sila je príčinou zmeny pohybového stavu telesa. Väčšia sila spôsobí pri rovnakej hmotnosti väčšie zrýchlenie.
 
 Pre veľkosť zrýchlenia platí:
 

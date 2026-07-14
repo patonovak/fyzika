@@ -14,6 +14,12 @@ Túto silu nazývame **dostredivá sila**. Jej smer je rovnaký ako smer dostred
 
 Dostredivá sila nie je nový typ sily. Jej pôvod môže byť v ľubovoľnom vzájomnom pôsobení telies. Dostredivou silou môže byť napríklad sila ruky pri otáčavom pohybe telesa na vlákne, trecia sila medzi pneumatikou a vozovkou alebo gravitačná sila pôsobiaca na družicu.
 
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/dostrediva_sila_priklady.png" alt="Príklady dostredivej sily pri pohybe po kružnici" width="500">
+</p>
+
+> **Obr. 1.2.4.** Dostredivú silu môže predstavovať sila ruky pri otáčaní telesa, trecia sila medzi pneumatikou a vozovkou alebo gravitačná sila pôsobiaca na družicu.
+
 > [!note] Rozširujúce učivo: Neinerciálne vzťažné sústavy
 > **Neinerciálna vzťažná sústava** je taká sústava, ktorá sa vzhľadom k inerciálnej vzťažnej sústave pohybuje inak než rovnomerne priamočiaro. Môže byť zrýchlená, spomalená alebo sa môže otáčať.
 >

@@ -145,6 +145,12 @@ Z tohto dôvodu niekedy nazývame 3. Newtonov pohybový zákon aj **zákon akcie
 
 Každá z týchto síl pôsobí na iné teleso. Sily akcie a reakcie sa preto vo svojich silových účinkoch nerušia. Súčasne vznikajú a súčasne zanikajú.
 
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/akcia_a_reakcia.png" alt="Sily akcie a reakcie pri pôsobení lopty na ruku" width="500">
+</p>
+
+> **Obr. 1.2.8.** Sila akcie je sila, ktorou pôsobí loptička na ruku, a sila reakcie je sila, ktorou pôsobí ruka na loptičku. Obe sily sú rovnako veľké a opačne orientované.
+
 > [!example] Príklad 3.7: Gravitačná sila
 > Zem priťahuje Mesiac silou približne $2{,}05 \cdot 10^{20}\ \mathrm{N}$. Akou veľkou gravitačnou silou priťahuje Mesiac Zem?
 >

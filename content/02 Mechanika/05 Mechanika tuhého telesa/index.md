@@ -21,4 +21,3 @@ Tuhé teleso môže vykonávať pohyb **posuvný (translačný)**, **otáčavý 
 - [[02 Mechanika/05 Mechanika tuhého telesa/02 Ťažisko|Ťažisko]]
 - [[02 Mechanika/05 Mechanika tuhého telesa/03 Statika tuhého telesa|Statika tuhého telesa]]
 - [[02 Mechanika/05 Mechanika tuhého telesa/04 Dynamika tuhého telesa|Dynamika tuhého telesa]]
-- [[02 Mechanika/05 Mechanika tuhého telesa/05 Pohyb telies v gravitačnom poli Slnka|Pohyb telies v gravitačnom poli Slnka]]

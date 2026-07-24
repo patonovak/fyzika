@@ -10,6 +10,12 @@ $$
 F_g = G \frac{m_1m_2}{r^2}
 $$
 
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/gravitacny_zakon.png" alt="Gravitačné sily medzi dvoma telesami" width="500">
+</p>
+
+> **Obr. 1.4.1.** Gravitačné sily dvoch telies sú rovnako veľké, opačne orientované a závisia od hmotností a vzdialenosti telies.
+
 V tomto vzťahu je
 
 $$

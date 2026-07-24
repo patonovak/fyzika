@@ -49,7 +49,7 @@ $$
 
 Je to bezrozmerná veličina, pre jej hodnoty platí $\eta < 1$, resp. po vyjadrení v percentách $\eta < 100\ \%$. Žiadne reálne zariadenie nepracuje s účinnosťou $100\ \%$.
 
-> [!example] Príklad 3.12: Výkon motora
+> [!example] Príklad 1.3.3: Výkon motora
 > Auto má hmotnosť $3\ \mathrm{t}$, pričom sa pohybuje rovnomerne priamočiaro rýchlosťou $72\ \mathrm{km \cdot h^{-1}}$. Aký je výkon jeho motora, ak súčiniteľ trenia medzi autom a cestou je $0{,}02$?
 >
 > **Riešenie:**

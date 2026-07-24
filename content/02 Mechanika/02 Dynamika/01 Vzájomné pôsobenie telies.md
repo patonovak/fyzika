@@ -57,6 +57,12 @@ $$
 
 <div class="figure-clear"></div>
 
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/tahanie_bremena.png" alt="Rozklad sily na vodorovnú a kolmú zložku" width="500">
+</p>
+
+> **Obr. 1.2.3e.** Rozklad sily na vodorovnú zložku v smere pohybu a kolmú zložku pri pôsobení sily pod uhlom.
+
 ### Rovnobežné sily opačného smeru
 
 <figure class="force-composition-figure no-extra-frame">

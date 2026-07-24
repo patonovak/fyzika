@@ -16,6 +16,12 @@ $$
 W = \Delta E_k.
 $$
 
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/pohybova_energia.png" alt="Závislosť kinetickej energie od rýchlosti" width="500">
+</p>
+
+> **Obr. 1.3.2.** Kinetická energia rastie so štvorcom rýchlosti; pri zdvojnásobení rýchlosti je štvornásobná.
+
 Vzťah pre kinetickú energiu možno odvodiť nasledovnou úvahou. Majme stálu silu veľkosti $F$, ktorá pôsobí na vozík s hmotnosťou $m$ v smere jeho pohybu. Vozík sa pohybuje rovnomerne zrýchleným priamočiarym pohybom a dosiahne z pokoja rýchlosť $v$. Vykoná sa pritom práca
 
 $$
@@ -35,6 +41,12 @@ E_p = mgh.
 $$
 
 Nulovú hladinu potenciálnej energie volíme často na povrchu Zeme. Jej voľba je však ľubovoľná.
+
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/polohova_energia.png" alt="Potenciálna energia v tiažovom poli" width="500">
+</p>
+
+> **Obr. 1.3.3.** Potenciálna energia telesa v tiažovom poli pri dvoch výškach vzhľadom na referenčnú hladinu.
 
 Vzťah pre potenciálnu energiu tiažovú možno odvodiť nasledovnou úvahou. Dvíhajme teleso hmotnosti $m$ stálou silou veľkosti $F = F_G = mg$ do výšky $h$. Ak si zvolíme za počiatočné miesto hladinu nulovej potenciálnej energie, vykonaná práca zvýši hodnotu potenciálnej energie telesa z $0$ na $E_p$:
 
@@ -76,7 +88,7 @@ $$
 
 **Izolovaná sústava** je taká sústava, ktorá si so svojím okolím nevymieňa žiadnu energiu. Zákon zachovania mechanickej energie platí v tomto tvare len pre izolované sústavy.
 
-> [!example] Príklad 3.11: Delostrelecká guľa
+> [!example] Príklad 1.3.2: Delostrelecká guľa
 > Z hradnej veže vysokej $h = 8\ \mathrm{m}$ bola vystrelená delostrelecká guľa rýchlosťou $v_0 = 10\ \mathrm{m \cdot s^{-1}}$ vo vodorovnom smere. Akou rýchlosťou dopadne guľa na zem? Terén pod hradom je vodorovný.
 >
 > **Riešenie:**

@@ -26,7 +26,13 @@ Sily kolmé na smer posunutia nekonajú mechanickú prácu.
 
 Ak je sila konštantná a pôsobí v smere pohybu, možno veľkosť vykonanej práce silou veľkosti $F$ na dráhe $s$ vypočítať ako obsah obdĺžnika v grafe závislosti veľkosti sily od prejdenej dráhy. Táto veta platí aj všeobecne pre časovo premennú silu. Mechanická práca je daná obsahom obrazca pod krivkou grafu závislosti $F = F(s)$. Takýto graf nazývame **pracovný diagram**.
 
-> [!example] Príklad 3.10: Zatĺkanie klincov
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/mechanicka_praca.png" alt="Pracovný diagram mechanickej práce" width="500">
+</p>
+
+> **Obr. 1.3.1.** Pracovný diagram: mechanickú prácu určuje obsah plochy pod grafom závislosti sily od dráhy.
+
+> [!example] Príklad 1.3.1: Zatĺkanie klincov
 > Chlapci v dielni vyrábali búdku pre lesné vtáctvo. Dokopy zatĺkli do dreva 8 klincov, každý z nich do hĺbky $2\ \mathrm{cm}$. Chlapci zatĺkali klince priemernou silou $200\ \mathrm{N}$. Akú celkovú prácu vykonali?
 >
 > **Riešenie:**

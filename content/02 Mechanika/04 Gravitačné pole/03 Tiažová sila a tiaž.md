@@ -65,7 +65,7 @@ $$
 
 Takýto stav nazývame **beztiažový stav** alebo **stav bez tiaže**. V tomto prípade sa tiaž líši od tiažovej sily. Tiaž telesa je nulová, ale stále naň v tiažovom poli Zeme pôsobí tiažová sila s veľkosťou $F_G = mg$. Ak pustíme závažie zavesené na silomere a budú padať voľným pádom, silomer ukáže nulovú výchylku. Na závažie však stále pôsobí tiažová sila.
 
-> [!example] Príklad 3.13: Výška nad zemským povrchom
+> [!example] Príklad 1.4.1: Výška nad zemským povrchom
 > V akej výške nad zemským povrchom sa musí nachádzať teleso, aby naň pôsobila trikrát menšia gravitačná sila ako na zemskom povrchu? Pre polomer Zeme použite $R_Z \approx 6\,378\ \mathrm{km}$.
 >
 > Na zemskom povrchu pôsobí na teleso s hmotnosťou $m$ gravitačná sila s veľkosťou

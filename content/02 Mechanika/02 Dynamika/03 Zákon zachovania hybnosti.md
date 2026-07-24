@@ -24,7 +24,7 @@ $$
 
 Zákon zachovania hybnosti možno ukázať napríklad na zrážke biliardových gulí. Celková hybnosť gulí pred zrážkou je rovná celkovej hybnosti gulí po zrážke. Zrážku, pri ktorej platí zákon zachovania hybnosti aj energie, nazývame **pružná zrážka**.
 
-> [!example] Príklad 3.8: Zrážka dvoch gúľ
+> [!example] Príklad 1.2.2: Zrážka dvoch gúľ
 > Guľa s hmotnosťou $2\ \mathrm{kg}$ sa valí rýchlosťou $4\ \mathrm{m \cdot s^{-1}}$ a narazí do stojacej gule s hmotnosťou $0{,}50\ \mathrm{kg}$. Gule sa po náraze spoja a idú ďalej spolu. Akou rýchlosťou sa pohybuje sústava gúľ po náraze?
 >
 > **Riešenie:**

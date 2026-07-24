@@ -1,16 +1,24 @@
 ---
-title: Mechanika tuhého telesa
+title: Mechanika dokonale tuhého telesa
 ---
 
 > [!abstract] Kľúčové pojmy
-> sila, izolovaná sústava hmotných bodov alebo telies, Newtonove pohybové zákony, hybnosť, zákon zachovania hybnosti, inerciálne a neinerciálne vzťažné sústavy, zotrvačná sila, trenie a trecia sila, dostredivá sila a odstredivá sila
+> dokonale tuhé teleso, otáčavé účinky sily, moment sily, pravidlo pravej ruky, rameno sily, momentová veta, ťažisko a jeho poloha, rovnovážne polohy tuhého telesa, stabilita telesa, kinetická energia rotujúceho telesa, moment zotrvačnosti
 
-Telesá nemenia svoj pohybový stav samovoľne. V kinematike sme sa zaoberali hlavne opisom pohybu bez ohľadu na jeho príčiny. Príčinu zmeny pohybového stavu objasňuje časť mechaniky s názvom **dynamika**. Jej názov je odvodený z gréckeho slova *dynamis*, čo znamená sila. Práve sila je príčinou zmeny pohybového stavu telies.
+Častice telesa na seba navzájom silovo pôsobia silami, ktoré nazývame vnútorné sily. Tie za daných podmienok spôsobujú to, že sa teleso nachádza v istom skupenstve (plynnom, kvapalnom, tuhom).
+
+Tuhé teleso môžeme chápať ako sústavu veľkého počtu hmotných bodov. Častice tuhého telesa sú usporiadané v určitých štruktúrach, pôsobením vonkajších síl sa môže vzdialenosť medzi nimi meniť, hovoríme, že sa teleso deformuje. Doteraz sme skúmali pohyb telesa tak, že sme si ho nahradili hmotným bodom a jeho rozmery sme zanedbali. Nie je to však vždy možné. Skutočné tuhé teleso nahrádzame vo fyzike tzv. dokonale tuhým telesom, pri ktorom predpokladáme, že jeho tvar ani objem sa účinkom ľubovoľne veľkých síl nemení. Je to idealizované teleso, myšlienkový model telesa. V ďalšom texte budeme používať pojem tuhé teleso namiesto celého názvu dokonale tuhé teleso.
+
+Tuhé teleso môže vykonávať pohyb **posuvný (translačný)**, **otáčavý (rotačný)**, poprípade ich kombináciu.
+
+**Posuvný (translačný) pohyb tuhého telesa:** všetky body telesa opisujú rovnaké trajektórie a majú rovnakú veľkosť okamžitej rýchlosti. Smer úsečky pevne spojenej s ľubovoľným bodom telesa sa nemení.
+
+**Otáčavý (rotačný) pohyb tuhého telesa okolo nehybnej osi $o$:** všetky body telesa sa pohybujú po kružnici, ktorá má svoj stred na osi otáčania. Veľkosť okamžitej rýchlosti bodov telesa je rôzna.
 
 ## Podkapitoly
 
-- [[02 Mechanika/02 Dynamika/01 Vzájomné pôsobenie telies|Vzájomné pôsobenie telies]]
-- [[02 Mechanika/02 Dynamika/02 Newtonove pohybové zákony|Newtonove pohybové zákony]]
-- [[02 Mechanika/02 Dynamika/03 Zákon zachovania hybnosti|Zákon zachovania hybnosti]]
-- [[02 Mechanika/02 Dynamika/04 Dostredivá sila|Dostredivá sila]]
-- [[02 Mechanika/02 Dynamika/05 Trenie a trecia sila|Trenie a trecia sila]]
+- [[02 Mechanika/05 Mechanika tuhého telesa/01 Moment sily|Moment sily]]
+- [[02 Mechanika/05 Mechanika tuhého telesa/02 Ťažisko|Ťažisko]]
+- [[02 Mechanika/05 Mechanika tuhého telesa/03 Statika tuhého telesa|Statika tuhého telesa]]
+- [[02 Mechanika/05 Mechanika tuhého telesa/04 Dynamika tuhého telesa|Dynamika tuhého telesa]]
+- [[02 Mechanika/05 Mechanika tuhého telesa/05 Pohyb telies v gravitačnom poli Slnka|Pohyb telies v gravitačnom poli Slnka]]

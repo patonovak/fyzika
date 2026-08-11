@@ -6,6 +6,12 @@ title: Trenie a trecia sila
 
 Príčinou vzniku trenia sú nerovnosti na dotykových plochách oboch telies, ktoré na seba pri pohybe narážajú a zapadajú do seba.
 
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/trenie.png" alt="Trecia sila na vodorovnej a šikmej podložke" width="500">
+</p>
+
+> **Obr. 1.2.10.** Sily pôsobiace na teleso pri pohybe po vodorovnej a šikmej podložke.
+
 Ak sa snažíme uviesť teleso do pohybu, pôsobíme naň istou silou. Túto silu postupne zväčšujeme a teleso najprv zostáva v pokoji. Vtedy pôsobí podložka na teleso **silou pokojového (statického) trenia** $F_{t0}$.
 
 S rastúcou silou, ktorou pôsobíme, rastie aj sila statického trenia, až dosiahne kritickú hodnotu a teleso sa dá do pohybu. Odvtedy už na teleso pôsobí **sila šmykového (dynamického) trenia** $F_t$, ktorá je za daných podmienok vždy menšia ako sila statického trenia.
@@ -54,7 +60,7 @@ $$
 
 V tomto vzťahu je $\xi$ tzv. **rameno valivého odporu**, jeho jednotkou je meter. V menovateli vystupuje $R$, čo je polomer kruhového telesa.
 
-> [!example] Príklad 3.9: Pohyb saní
+> [!example] Príklad 1.2.3: Pohyb saní
 > Sane zišli zo svahu na vodorovnú rovinu, po ktorej sa pohybujú rovnomerným spomaleným pohybom s počiatočnou rýchlosťou $3\ \mathrm{m \cdot s^{-1}}$. Za akú dobu sa sane zastavia a akú dráhu pritom prejdú? Súčiniteľ trenia medzi saňami a snehom je $0{,}03$.
 >
 > **Riešenie:**

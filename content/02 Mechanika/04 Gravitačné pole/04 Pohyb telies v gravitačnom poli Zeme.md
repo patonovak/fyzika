@@ -31,7 +31,13 @@ $$
 h = v_0t - \frac{1}{2}gt^2.
 $$
 
-> [!example] Príklad 3.14: Výška a čas výstupu
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/zvisly_vrh.png" alt="Zvislý vrh nahor" width="500">
+</p>
+
+> **Obr. 1.4.3.** Zvislý vrh nahor v homogénnom tiažovom poli Zeme.
+
+> [!example] Príklad 1.4.2: Výška a čas výstupu
 > Odvoďte vzťahy pre maximálnu výšku, ktorú dosiahne teleso pri zvislom vrhu nahor s počiatočnou rýchlosťou $v_0$, a čas tohto výstupu.
 >
 > Pre veľkosť okamžitej rýchlosti pri zvislom vrhu nahor platí vzťah $v = v_0 - gt$. V čase, keď sa teleso nachádza v maximálnej výške, je veľkosť jeho okamžitej rýchlosti nulová, teda $v = 0$. Odtiaľ máme
@@ -82,6 +88,12 @@ $$
 v = \sqrt{v_0^2 + g^2t^2}.
 $$
 
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/vodorovny_vrh.png" alt="Vodorovný vrh" width="500">
+</p>
+
+> **Obr. 1.4.4.** Vodorovný vrh ako zložený pohyb s vodorovnou a zvislou zložkou.
+
 ## Šikmý vrh nahor
 
 Šikmý vrh nahor koná teleso, ktorému udelíme rýchlosť $\vec v_0$, ktorá zviera s vodorovnou rovinou uhol $\alpha$. Tento uhol nazývame **elevačný uhol**. Trajektóriou je časť paraboly s vrcholom v najvyššom bode vrhu.
@@ -107,6 +119,12 @@ Zložka okamžitej rýchlosti vo zvislom smere sa s časom mení a platí
 $$
 v_y = v_0\sin\alpha - gt.
 $$
+
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/sikmy_vrh.png" alt="Šikmý vrh nahor" width="500">
+</p>
+
+> **Obr. 1.4.5.** Rozklad počiatočnej rýchlosti pri šikmom vrhu nahor.
 
 Dĺžka vrhu $d$ je vzdialenosť miesta dopadu od miesta vrhu vo vodorovnom smere. Vo vákuu pri rovnakej počiatočnej rýchlosti telesa je dĺžka vrhu najväčšia pri elevačnom uhle $45^\circ$.
 
@@ -143,6 +161,12 @@ Pohyby telesa v radiálnom (centrálnom) gravitačnom poli Zeme sú pohyby, ktor
 
 Významné sú najmä tie pohyby, pri ktorých je telesu udelená počiatočná rýchlosť v smere kolmom na smer gravitačnej sily, ktorá na teleso pôsobí. Pri určitej hodnote tejto počiatočnej rýchlosti opisuje teleso kružnicu a voláme ju **kruhová rýchlosť** $\vec v_k$. Pohybujú sa ňou niektoré umelé družice okolo Zeme.
 
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/kruhova_rychlost.png" alt="Kruhová rýchlosť telesa okolo Zeme" width="500">
+</p>
+
+> **Obr. 1.4.6.** Pohyb telesa po kružnici okolo Zeme pri kruhovej rýchlosti.
+
 Majme teleso s hmotnosťou $m$, ktoré sa pohybuje okolo Zeme po kružnici s polomerom $R_Z + h$. Potom na teleso pôsobí Zem gravitačnou silou s veľkosťou
 
 $$
@@ -156,6 +180,12 @@ F_d = m\frac{v_k^2}{R_Z+h}.
 $$
 
 Keďže platí $F_g = F_d$, dostaneme po dosadení a úpravách vzťah pre veľkosť kruhovej rýchlosti
+
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/kruhova_rychlost_gravitacny_zakon.png" alt="Odvodenie kruhovej rýchlosti z gravitačnej a dostredivej sily" width="500">
+</p>
+
+> **Obr. 1.4.7.** Odvodenie kruhovej rýchlosti porovnaním gravitačnej a dostredivej sily.
 
 $$
 v_k = \sqrt{\frac{GM_Z}{R_Z+h}}.
@@ -195,7 +225,7 @@ $$
 
 Po dosadení hodnôt veličín dostávame $v_{pZ} \approx 11{,}2\ \mathrm{km \cdot s^{-1}}$. Túto rýchlosť nazývame **druhá kozmická rýchlosť** alebo niekedy aj úniková rýchlosť z povrchu Zeme.
 
-> [!example] Príklad 3.15: Výška múra
+> [!example] Príklad 1.4.3: Výška múra
 > Aký vysoký bol múr, z ktorého vo vodorovnom smere vystrelený kameň rýchlosťou $20\ \mathrm{m \cdot s^{-1}}$ dopadol na vodorovnú rovinu do vzdialenosti $20\ \mathrm{m}$?
 >
 > Pohyb kameňa môžeme klasifikovať ako vodorovný vrh v tiažovom poli Zeme. Platia vzťahy

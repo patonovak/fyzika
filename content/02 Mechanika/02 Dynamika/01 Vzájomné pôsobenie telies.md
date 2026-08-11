@@ -19,6 +19,12 @@ Výsledkom vzájomného pôsobenia telies môže byť:
 - **deformácia telesa** - pôsobením sily sa mení tvar telesa,
 - **zmena pohybového stavu telesa** - zmena smeru pohybu telesa, jeho zastavenie alebo uvedenie do pohybu, prípadne zmena veľkosti jeho rýchlosti.
 
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/ucinok_sily.png" alt="Účinky sily" width="500">
+</p>
+
+> **Obr. 1.2.2.** Účinky sily môžu byť deformačné alebo pohybové. Stlačená loptička mení svoj tvar, letiaca lopta zas mení svoj pohybový stav.
+
 Pôsobenie sily na teleso sa môže uskutočniť:
 
 - **vzájomným dotykom telies**, napríklad úderom rukou do lopty,
@@ -36,30 +42,70 @@ Pôsobenie sily na teleso sa môže uskutočniť:
 
 Ak na teleso pôsobí v jednom jeho bode súčasne viacero síl $\vec F_1, \vec F_2, \ldots, \vec F_n$, môžeme ich nahradiť jedinou silou $\vec F$, ktorá má na teleso rovnaký pohybový účinok. Túto silu nazývame **výslednica síl** a tento postup **skladanie síl**.
 
-Pre skladanie dvoch rovnobežných síl so spoločným pôsobiskom platí:
+### Rovnobežné sily rovnakého smeru
+
+<figure class="force-composition-figure no-extra-frame">
+  <img src="/static/images/skladanie_sil_rovnobezne_vyslednica.svg" alt="Skladanie dvoch rovnobežných síl rovnakého smeru">
+  <figcaption>Obr. 1.2.3a. Výslednica rovnobežných síl rovnakého smeru má rovnaký smer ako skladané sily.</figcaption>
+</figure>
+
+Ak sily $\vec F_1$ a $\vec F_2$ pôsobia na teleso v rovnakom smere, veľkosť výslednice je súčtom ich veľkostí:
 
 $$
-F = F_1 + F_2
+F = F_1 + F_2.
 $$
 
-ak majú sily rovnaký smer, a
+<div class="figure-clear"></div>
+
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/tahanie_bremena.png" alt="Rozklad sily na vodorovnú a kolmú zložku" width="500">
+</p>
+
+> **Obr. 1.2.3e.** Rozklad sily na vodorovnú zložku v smere pohybu a kolmú zložku pri pôsobení sily pod uhlom.
+
+### Rovnobežné sily opačného smeru
+
+<figure class="force-composition-figure no-extra-frame">
+  <img src="/static/images/skladanie_sil_opacne_vyslednica.svg" alt="Skladanie dvoch rovnobežných síl opačného smeru">
+  <figcaption>Obr. 1.2.3b. Výslednica rovnobežných síl opačného smeru má smer väčšej sily.</figcaption>
+</figure>
+
+Ak sily $\vec F_1$ a $\vec F_2$ pôsobia v opačných smeroch, veľkosť výslednice je rozdiel ich veľkostí. Ak platí $F_1 > F_2$, potom:
 
 $$
-F = F_1 - F_2
+F = F_1 - F_2.
 $$
 
-ak majú sily opačný smer a $F_1 > F_2$.
+Všeobecne môžeme veľkosť výslednice zapísať aj v tvare $F = |F_1 - F_2|$.
 
-Pokiaľ sily so spoločným pôsobiskom nie sú rovnobežné, ale rôznobežné, skladáme ich pomocou **pravidla vektorového rovnobežníka**. Výslednica síl je potom uhlopriečkou vo vektorovom rovnobežníku.
+<div class="figure-clear"></div>
 
-Pre dve navzájom kolmé sily platí:
+### Navzájom kolmé sily
+
+<figure class="force-composition-figure no-extra-frame">
+  <img src="/static/images/skladanie_sil_kolme_vyslednica.svg" alt="Skladanie dvoch navzájom kolmých síl">
+  <figcaption>Obr. 1.2.3c. Výslednica kolmých síl je uhlopriečkou vektorového rovnobežníka.</figcaption>
+</figure>
+
+Ak sily $\vec F_1$ a $\vec F_2$ zvierajú pravý uhol, veľkosť výslednice určíme pomocou Pytagorovej vety:
 
 $$
-F = \sqrt{F_1^2 + F_2^2}
+F = \sqrt{F_1^2 + F_2^2}.
 $$
 
-Ak sily zvierajú uhol $\alpha$, veľkosť výslednice určíme vzťahom:
+<div class="figure-clear"></div>
+
+### Rôznobežné sily
+
+<figure class="force-composition-figure no-extra-frame">
+  <img src="/static/images/skladanie_sil_roznebezne_vyslednica.svg" alt="Skladanie dvoch rôznobežných síl s vyznačeným uhlom alfa">
+  <figcaption>Obr. 1.2.3d. Rôznobežné sily skladáme pomocou pravidla vektorového rovnobežníka. Uhol alfa je uhol medzi skladanými silami.</figcaption>
+</figure>
+
+Ak sily $\vec F_1$ a $\vec F_2$ zvierajú uhol $\alpha$, veľkosť výslednice určíme vzťahom:
 
 $$
-F = \sqrt{F_1^2 + F_2^2 + 2F_1F_2\cos\alpha}
+F = \sqrt{F_1^2 + F_2^2 + 2F_1F_2\cos\alpha}.
 $$
+
+<div class="figure-clear"></div>

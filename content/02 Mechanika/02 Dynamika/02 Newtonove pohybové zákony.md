@@ -8,6 +8,12 @@ title: Newtonove pohybové zákony
 
 **Každé izolované teleso zotrváva v pokoji alebo rovnomernom priamočiarom pohybe, pokiaľ nie je nútené pôsobením vonkajších síl tento svoj pohybový stav zmeniť.**
 
+<p class="measurement-figure">
+  <img src="/static/images/isaac_newton.png" alt="Isaac Newton" width="400">
+</p>
+
+> **Obr. 1.2.4.** Isaac Newton (1643 - 1727).
+
 Pre izolované teleso sú pokoj a rovnomerný priamočiary pohyb dva rovnocenné stavy, pre ktoré platí:
 
 $$
@@ -27,6 +33,12 @@ Dôležitou vlastnosťou telies je ich **zotrvačnosť**, ktorú môžeme charak
 Naopak, sústava, v ktorej izolované teleso alebo jeho model nezotrváva v pokoji alebo v rovnomernom priamočiarom pohybe, sa nazýva **neinerciálna vzťažná sústava**.
 
 Každá vzťažná sústava, ktorá je vzhľadom na danú inerciálnu vzťažnú sústavu v pokoji alebo v rovnomernom priamočiarom pohybe, je tiež inerciálna. Podľa **Galileiho princípu relativity** platia zákony mechaniky rovnako vo všetkých inerciálnych vzťažných sústavách.
+
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/inercialna_vztazna_sustava.png" alt="Inerciálna vzťažná sústava" width="500">
+</p>
+
+> **Obr. 1.2.5.** Inerciálnu vzťažnú sústavu tvoria napríklad steny kabíny vlaku, ktorý sa pohybuje rovnomerne priamočiaro po trati alebo je v pokoji. Podľa Galileiho princípu relativity sú tieto dve sústavy z hľadiska popisu mechanických dejov rovnocenné. Pozorovatelia v obidvoch sústavách budú pozorovať pád voľne pustenej lopty ako pád vo zvislom smere. Pomocou lopty by sme nedokázali rozlíšiť, či sa vagón pohybuje konštantnou rýchlosťou alebo je v pokoji.
 
 ## Hybnosť telesa a jej zmena
 
@@ -50,6 +62,12 @@ m\vec v_2 - m\vec v_1 =
 m(\vec v_2 - \vec v_1) =
 m\Delta \vec v
 $$
+
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/zmena_hybnosti.png" alt="Zmena hybnosti telesa pri zmene rýchlosti" width="500">
+</p>
+
+> **Obr. 1.2.6.** Zmena pohybového stavu telesa je spojená so zmenou jeho hybnosti. Pri nezmenenej hmotnosti sa hybnosť mení zmenou okamžitej rýchlosti.
 
 > [!note] Rozširujúce učivo: Pohyb telesa s premennou hmotnosťou
 > Pri pohybe telesa sa môže meniť aj jeho hmotnosť, napríklad pri pohybe rakety alebo postrekovacieho auta. Zmena hybnosti telesa potom nemusí nastať len zmenou okamžitej rýchlosti, ale aj zmenou hmotnosti alebo oboch veličín naraz.
@@ -80,6 +98,12 @@ m\vec a
 $$
 
 **Výslednica síl pôsobiacich na teleso sa rovná súčinu jeho hmotnosti a zrýchlenia.** Tento zákon preto nazývame aj **zákon sily**.
+
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/druhy_newtonov_zakon.png" alt="Pôsobenie sily na teleso podľa druhého Newtonovho zákona" width="500">
+</p>
+
+> **Obr. 1.2.7.** Z 2. Newtonovho pohybového zákona vyplýva, že sila je príčinou zmeny pohybového stavu telesa. Väčšia sila spôsobí pri rovnakej hmotnosti väčšie zrýchlenie.
 
 Pre veľkosť zrýchlenia platí:
 
@@ -121,7 +145,13 @@ Z tohto dôvodu niekedy nazývame 3. Newtonov pohybový zákon aj **zákon akcie
 
 Každá z týchto síl pôsobí na iné teleso. Sily akcie a reakcie sa preto vo svojich silových účinkoch nerušia. Súčasne vznikajú a súčasne zanikajú.
 
-> [!example] Príklad 3.7: Gravitačná sila
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/akcia_a_reakcia.png" alt="Sily akcie a reakcie pri pôsobení lopty na ruku" width="500">
+</p>
+
+> **Obr. 1.2.8.** Sila akcie je sila, ktorou pôsobí loptička na ruku, a sila reakcie je sila, ktorou pôsobí ruka na loptičku. Obe sily sú rovnako veľké a opačne orientované.
+
+> [!example] Príklad 1.2.1: Gravitačná sila
 > Zem priťahuje Mesiac silou približne $2{,}05 \cdot 10^{20}\ \mathrm{N}$. Akou veľkou gravitačnou silou priťahuje Mesiac Zem?
 >
 > **Riešenie:**

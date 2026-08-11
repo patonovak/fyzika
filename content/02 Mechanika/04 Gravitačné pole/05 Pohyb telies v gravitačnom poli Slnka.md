@@ -4,6 +4,12 @@ title: Pohyb telies v gravitačnom poli Slnka
 
 Keplerove zákony popisujú pohyb telies v centrálnom gravitačnom poli Slnka. Formuloval ich v 17. storočí nemecký matematik a astronóm **Johannes Kepler** na základe meraní astronóma **Tycha de Brahe**.
 
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/kepler.png" alt="Portrét Johannesa Keplera" width="500">
+</p>
+
+> **Obr. 1.4.8.** Johannes Kepler, autor zákonov opisujúcich pohyb planét.
+
 ## 1. Keplerov zákon
 
 **Planéty obiehajú okolo Slnka po elipsách, málo odlišných od kružníc, v ktorých spoločnom ohnisku sa nachádza Slnko.**
@@ -11,6 +17,12 @@ Keplerove zákony popisujú pohyb telies v centrálnom gravitačnom poli Slnka. 
 ## 2. Keplerov zákon
 
 **Obsahy plôch opísané sprievodičom planéty za jednotku času sú konštantné.** Iná formulácia: **plošné rýchlosti planét sú konštantné**.
+
+<p class="measurement-figure figure-wide">
+  <img src="/static/images/druhy_keplerov_zakon.png" alt="Druhý Keplerov zákon" width="500">
+</p>
+
+> **Obr. 1.4.9.** Druhý Keplerov zákon: plochy opísané sprievodičom za rovnaké časy sú rovnaké.
 
 **Elipsa** je rovinná krivka, ktorú zaraďujeme medzi tzv. kužeľosečky. Jej vlastnosťou je, že ľubovoľný bod elipsy má od daných dvoch bodov v rovine rovnaký súčet vzdialeností. Tieto body nazývame **ohniská elipsy**. Veľkosť hlavnej polosi elipsy označujeme $a$ a veľkosť vedľajšej polosi elipsy označujeme $b$.
 

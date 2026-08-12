@@ -28,44 +28,44 @@ V ďalšom texte sa pozrieme bližšie na tieto témy:
 
 #### Kinematika
 
-- [[01 Kinematika/01 Mechanický pohyb|Mechanický pohyb]]
-- [[01 Kinematika/02 Rýchlosť pohybu|Rýchlosť pohybu]]
-- [[01 Kinematika/03 Rovnomerný pohyb po priamke|Rovnomerný pohyb po priamke]]
-- [[01 Kinematika/04 Nerovnomerný pohyb po priamke|Nerovnomerný pohyb po priamke]]
-- [[01 Kinematika/05 Rovnomerný pohyb po kružnici|Rovnomerný pohyb po kružnici]]
+- [[02-mechanika/01-kinematika/01-mechanicky-pohyb/index|Mechanický pohyb]]
+- [[02-mechanika/01-kinematika/02-rychlost-pohybu/index|Rýchlosť pohybu]]
+- [[02-mechanika/01-kinematika/03-rovnomerny-pohyb-po-priamke/index|Rovnomerný pohyb po priamke]]
+- [[02-mechanika/01-kinematika/04-nerovnomerny-pohyb-po-priamke/index|Nerovnomerný pohyb po priamke]]
+- [[02-mechanika/01-kinematika/05-rovnomerny-pohyb-po-kruznici/index|Rovnomerný pohyb po kružnici]]
 
 #### Dynamika
 
-- [[02 Dynamika/01 Vzájomné pôsobenie telies|Vzájomné pôsobenie telies]]
-- [[02 Dynamika/02 Newtonove pohybové zákony|Newtonove pohybové zákony]]
-- [[02 Dynamika/03 Zákon zachovania hybnosti|Zákon zachovania hybnosti]]
-- [[02 Dynamika/04 Dostredivá sila|Dostredivá sila]]
-- [[02 Dynamika/05 Trenie a trecia sila|Trenie a trecia sila]]
+- [[02-mechanika/02-dynamika/01-vzajomne-posobenie-telies/index|Vzájomné pôsobenie telies]]
+- [[02-mechanika/02-dynamika/02-newtonove-pohybove-zakony/index|Newtonove pohybové zákony]]
+- [[02-mechanika/02-dynamika/03-zakon-zachovania-hybnosti/index|Zákon zachovania hybnosti]]
+- [[02-mechanika/02-dynamika/04-dostrediva-sila/index|Dostredivá sila]]
+- [[02-mechanika/02-dynamika/05-trenie-a-trecia-sila/index|Trenie a trecia sila]]
 
 #### Práca a energia
 
-- [[03 Práca a energia/01 Mechanická práca|Mechanická práca]]
-- [[03 Práca a energia/02 Mechanická energia|Mechanická energia]]
-- [[03 Práca a energia/03 Výkon, príkon a účinnosť|Výkon, príkon a účinnosť]]
+- [[02-mechanika/03-praca-a-energia/01-mechanicka-praca/index|Mechanická práca]]
+- [[02-mechanika/03-praca-a-energia/02-mechanicka-energia/index|Mechanická energia]]
+- [[02-mechanika/03-praca-a-energia/03-vykon,-prikon-a-ucinnost/index|Výkon, príkon a účinnosť]]
 
 #### Gravitačné pole
 
-- [[04 Gravitačné pole/01 Newtonov gravitačný zákon|Newtonov gravitačný zákon]]
-- [[04 Gravitačné pole/02 Gravitačné zrýchlenie|Gravitačné zrýchlenie]]
-- [[04 Gravitačné pole/03 Tiažová sila a tiaž|Tiažová sila a tiaž]]
-- [[04 Gravitačné pole/04 Pohyb telies v gravitačnom poli Zeme|Pohyb telies v gravitačnom poli Zeme]]
-- [[04 Gravitačné pole/05 Pohyb telies v gravitačnom poli Slnka|Pohyb telies v gravitačnom poli Slnka]]
+- [[02-mechanika/04-gravitacne-pole/01-newtonov-gravitacny-zakon/index|Newtonov gravitačný zákon]]
+- [[02-mechanika/04-gravitacne-pole/02-gravitacne-zrychlenie/index|Gravitačné zrýchlenie]]
+- [[02-mechanika/04-gravitacne-pole/03-tiazova-sila-a-tiaz/index|Tiažová sila a tiaž]]
+- [[02-mechanika/04-gravitacne-pole/04-pohyb-telies-v-gravitacnom-poli-zeme/index|Pohyb telies v gravitačnom poli Zeme]]
+- [[02-mechanika/04-gravitacne-pole/05-pohyb-telies-v-gravitacnom-poli-slnka/index|Pohyb telies v gravitačnom poli Slnka]]
 
 #### Mechanika tuhého telesa
 
-- [[05 Mechanika tuhého telesa/01 Moment sily|Moment sily]]
-- [[05 Mechanika tuhého telesa/02 Ťažisko|Ťažisko]]
-- [[05 Mechanika tuhého telesa/03 Statika tuhého telesa|Statika tuhého telesa]]
-- [[05 Mechanika tuhého telesa/04 Dynamika tuhého telesa|Dynamika tuhého telesa]]
+- [[02-mechanika/05-mechanika-tuheho-telesa/01-moment-sily/index|Moment sily]]
+- [[02-mechanika/05-mechanika-tuheho-telesa/02-tazisko/index|Ťažisko]]
+- [[02-mechanika/05-mechanika-tuheho-telesa/03-statika-tuheho-telesa/index|Statika tuhého telesa]]
+- [[02-mechanika/05-mechanika-tuheho-telesa/04-dynamika-tuheho-telesa/index|Dynamika tuhého telesa]]
 
 #### Mechanika tekutín
 
-- [[06 Mechanika kvapalín a plynov/01 Tlak v tekutine|Tlak v tekutine]]
-- [[06 Mechanika kvapalín a plynov/02 Archimedov zákon|Archimedov zákon]]
-- [[06 Mechanika kvapalín a plynov/03 Dynamika tekutín|Dynamika tekutín]]
-- [[06 Mechanika kvapalín a plynov/04 Prúdenie reálnej tekutiny|Prúdenie reálnej tekutiny]]
+- [[02-mechanika/06-mechanika-kvapalin-a-plynov/01-tlak-v-tekutine/index|Tlak v tekutine]]
+- [[02-mechanika/06-mechanika-kvapalin-a-plynov/02-archimedov-zakon/index|Archimedov zákon]]
+- [[02-mechanika/06-mechanika-kvapalin-a-plynov/03-dynamika-tekutin/index|Dynamika tekutín]]
+- [[02-mechanika/06-mechanika-kvapalin-a-plynov/04-prudenie-realnej-tekutiny/index|Prúdenie reálnej tekutiny]]

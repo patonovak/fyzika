@@ -6,6 +6,6 @@ Koncom 19. storočia nadobudli fyzici predstavu, že všetko podstatné je objav
 
 ## Podkapitoly
 
-- [[01 Žiarenie absolútne čierneho telesa|Žiarenie absolútne čierneho telesa]]
-- [[02 Fotoelektrický jav|Fotoelektrický jav]]
-- [[03 Fotóny a de Broglieho hypotéza|Fotóny a de Broglieho hypotéza]]
+- [[07-zaklady-fyziky-mikrosveta/01-na-ceste-ku-kvantovej-fyzike/01-ziarenie-absolutne-cierneho-telesa/index|Žiarenie absolútne čierneho telesa]]
+- [[07-zaklady-fyziky-mikrosveta/01-na-ceste-ku-kvantovej-fyzike/02-fotoelektricky-jav/index|Fotoelektrický jav]]
+- [[07-zaklady-fyziky-mikrosveta/01-na-ceste-ku-kvantovej-fyzike/03-fotony-a-de-broglieho-hypoteza/index|Fotóny a de Broglieho hypotéza]]

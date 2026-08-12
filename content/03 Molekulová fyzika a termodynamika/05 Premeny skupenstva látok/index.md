@@ -12,8 +12,8 @@ title: Premeny skupenstva látok
 
 ## Podkapitoly
 
-- [[01 Vyparovanie, var a kondenzácia|Vyparovanie, var a kondenzácia]]
-- [[02 Topenie a tuhnutie|Topenie a tuhnutie]]
-- [[03 Sublimácia a desublimácia|Sublimácia a desublimácia]]
-- [[04 Fázový diagram|Fázový diagram]]
-- [[05 Rosný bod|Rosný bod]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/01-vyparovanie,-var-a-kondenzacia/index|Vyparovanie, var a kondenzácia]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/02-topenie-a-tuhnutie/index|Topenie a tuhnutie]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/03-sublimacia-a-desublimacia/index|Sublimácia a desublimácia]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/04-fazovy-diagram/index|Fázový diagram]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/05-rosny-bod/index|Rosný bod]]

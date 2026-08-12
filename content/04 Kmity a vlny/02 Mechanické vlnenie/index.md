@@ -20,6 +20,6 @@ title: Mechanické vlenie
 
 ## Podkapitoly
 
-- [[01 Postupné mechanické vlnenie|Postupné mechanické vlnenie]]
-- [[02 Stojate vlnenie|Stojate vlnenie]]
-- [[03 Vlnenie v izotropnom prostredí|Vlnenie v izotropnom prostredí]]
+- [[04-kmity-a-vlny/02-mechanicke-vlnenie/01-postupne-mechanicke-vlnenie/index|Postupné mechanické vlnenie]]
+- [[04-kmity-a-vlny/02-mechanicke-vlnenie/02-stojate-vlnenie/index|Stojate vlnenie]]
+- [[04-kmity-a-vlny/02-mechanicke-vlnenie/03-vlnenie-v-izotropnom-prostredi/index|Vlnenie v izotropnom prostredí]]

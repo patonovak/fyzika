@@ -11,200 +11,200 @@ title: Fyzika pre strednú školu
 
 ### 🔬 Úvod do fyziky
 
-- [[01 Úvod do fyziky/01 Predmet fyziky|Predmet fyziky]]
-- [[01 Úvod do fyziky/02 Riešenie fyzikálnych úloh|Riešenie fyzikálnych úloh]]
-- [[01 Úvod do fyziky/03 Meranie fyzikálnych veličín|Meranie fyzikálnych veličín]]
-- [[01 Úvod do fyziky/04 Úlohy na precvičenie učiva|Úlohy na precvičenie učiva]]
+- [[01-uvod-do-fyziky/01-predmet-fyziky/index|Predmet fyziky]]
+- [[01-uvod-do-fyziky/02-riesenie-fyzikalnych-uloh/index|Riešenie fyzikálnych úloh]]
+- [[01-uvod-do-fyziky/03-meranie-fyzikalnych-velicin/index|Meranie fyzikálnych veličín]]
+- [[01-uvod-do-fyziky/04-ulohy-na-precvicenie-uciva/index|Úlohy na precvičenie učiva]]
 
 ### ⚙️ Mechanika
 
 #### Kinematika
 
-- [[02 Mechanika/01 Kinematika/01 Mechanický pohyb|Mechanický pohyb]]
-- [[02 Mechanika/01 Kinematika/02 Rýchlosť pohybu|Rýchlosť pohybu]]
-- [[02 Mechanika/01 Kinematika/03 Rovnomerný pohyb po priamke|Rovnomerný pohyb po priamke]]
-- [[02 Mechanika/01 Kinematika/04 Nerovnomerný pohyb po priamke|Nerovnomerný pohyb po priamke]]
-- [[02 Mechanika/01 Kinematika/05 Rovnomerný pohyb po kružnici|Rovnomerný pohyb po kružnici]]
+- [[02-mechanika/01-kinematika/01-mechanicky-pohyb/index|Mechanický pohyb]]
+- [[02-mechanika/01-kinematika/02-rychlost-pohybu/index|Rýchlosť pohybu]]
+- [[02-mechanika/01-kinematika/03-rovnomerny-pohyb-po-priamke/index|Rovnomerný pohyb po priamke]]
+- [[02-mechanika/01-kinematika/04-nerovnomerny-pohyb-po-priamke/index|Nerovnomerný pohyb po priamke]]
+- [[02-mechanika/01-kinematika/05-rovnomerny-pohyb-po-kruznici/index|Rovnomerný pohyb po kružnici]]
 
 #### Dynamika
 
-- [[02 Mechanika/02 Dynamika/01 Vzájomné pôsobenie telies|Vzájomné pôsobenie telies]]
-- [[02 Mechanika/02 Dynamika/02 Newtonove pohybové zákony|Newtonove pohybové zákony]]
-- [[02 Mechanika/02 Dynamika/03 Zákon zachovania hybnosti|Zákon zachovania hybnosti]]
-- [[02 Mechanika/02 Dynamika/04 Dostredivá sila|Dostredivá sila]]
-- [[02 Mechanika/02 Dynamika/05 Trenie a trecia sila|Trenie a trecia sila]]
+- [[02-mechanika/02-dynamika/01-vzajomne-posobenie-telies/index|Vzájomné pôsobenie telies]]
+- [[02-mechanika/02-dynamika/02-newtonove-pohybove-zakony/index|Newtonove pohybové zákony]]
+- [[02-mechanika/02-dynamika/03-zakon-zachovania-hybnosti/index|Zákon zachovania hybnosti]]
+- [[02-mechanika/02-dynamika/04-dostrediva-sila/index|Dostredivá sila]]
+- [[02-mechanika/02-dynamika/05-trenie-a-trecia-sila/index|Trenie a trecia sila]]
 
 #### Práca a energia
 
-- [[02 Mechanika/03 Práca a energia/01 Mechanická práca|Mechanická práca]]
-- [[02 Mechanika/03 Práca a energia/02 Mechanická energia|Mechanická energia]]
-- [[02 Mechanika/03 Práca a energia/03 Výkon, príkon a účinnosť|Výkon, príkon a účinnosť]]
+- [[02-mechanika/03-praca-a-energia/01-mechanicka-praca/index|Mechanická práca]]
+- [[02-mechanika/03-praca-a-energia/02-mechanicka-energia/index|Mechanická energia]]
+- [[02-mechanika/03-praca-a-energia/03-vykon,-prikon-a-ucinnost/index|Výkon, príkon a účinnosť]]
 
 #### Gravitačné pole
 
-- [[02 Mechanika/04 Gravitačné pole/01 Newtonov gravitačný zákon|Newtonov gravitačný zákon]]
-- [[02 Mechanika/04 Gravitačné pole/02 Gravitačné zrýchlenie|Gravitačné zrýchlenie]]
-- [[02 Mechanika/04 Gravitačné pole/03 Tiažová sila a tiaž|Tiažová sila a tiaž]]
-- [[02 Mechanika/04 Gravitačné pole/04 Pohyb telies v gravitačnom poli Zeme|Pohyb telies v gravitačnom poli Zeme]]
-- [[02 Mechanika/04 Gravitačné pole/05 Pohyb telies v gravitačnom poli Slnka|Pohyb telies v gravitačnom poli Slnka]]
+- [[02-mechanika/04-gravitacne-pole/01-newtonov-gravitacny-zakon/index|Newtonov gravitačný zákon]]
+- [[02-mechanika/04-gravitacne-pole/02-gravitacne-zrychlenie/index|Gravitačné zrýchlenie]]
+- [[02-mechanika/04-gravitacne-pole/03-tiazova-sila-a-tiaz/index|Tiažová sila a tiaž]]
+- [[02-mechanika/04-gravitacne-pole/04-pohyb-telies-v-gravitacnom-poli-zeme/index|Pohyb telies v gravitačnom poli Zeme]]
+- [[02-mechanika/04-gravitacne-pole/05-pohyb-telies-v-gravitacnom-poli-slnka/index|Pohyb telies v gravitačnom poli Slnka]]
 
 #### Mechanika tuhého telesa
 
-- [[02 Mechanika/05 Mechanika tuhého telesa/01 Moment sily|Moment sily]]
-- [[02 Mechanika/05 Mechanika tuhého telesa/02 Ťažisko|Ťažisko]]
-- [[02 Mechanika/05 Mechanika tuhého telesa/03 Statika tuhého telesa|Statika tuhého telesa]]
-- [[02 Mechanika/05 Mechanika tuhého telesa/04 Dynamika tuhého telesa|Dynamika tuhého telesa]]
+- [[02-mechanika/05-mechanika-tuheho-telesa/01-moment-sily/index|Moment sily]]
+- [[02-mechanika/05-mechanika-tuheho-telesa/02-tazisko/index|Ťažisko]]
+- [[02-mechanika/05-mechanika-tuheho-telesa/03-statika-tuheho-telesa/index|Statika tuhého telesa]]
+- [[02-mechanika/05-mechanika-tuheho-telesa/04-dynamika-tuheho-telesa/index|Dynamika tuhého telesa]]
 
 #### Mechanika tekutín
 
-- [[02 Mechanika/06 Mechanika kvapalín a plynov/01 Tlak v tekutine|Tlak v tekutine]]
-- [[02 Mechanika/06 Mechanika kvapalín a plynov/02 Archimedov zákon|Archimedov zákon]]
-- [[02 Mechanika/06 Mechanika kvapalín a plynov/03 Dynamika tekutín|Dynamika tekutín]]
-- [[02 Mechanika/06 Mechanika kvapalín a plynov/04 Prúdenie reálnej tekutiny|Prúdenie reálnej tekutiny]]
+- [[02-mechanika/06-mechanika-kvapalin-a-plynov/01-tlak-v-tekutine/index|Tlak v tekutine]]
+- [[02-mechanika/06-mechanika-kvapalin-a-plynov/02-archimedov-zakon/index|Archimedov zákon]]
+- [[02-mechanika/06-mechanika-kvapalin-a-plynov/03-dynamika-tekutin/index|Dynamika tekutín]]
+- [[02-mechanika/06-mechanika-kvapalin-a-plynov/04-prudenie-realnej-tekutiny/index|Prúdenie reálnej tekutiny]]
 
 ### 🌡️ Molekulová fyzika a termodynamika
 
 #### Základné poznatky
 
-- [[03 Molekulová fyzika a termodynamika/01 Základné poznatky/01 Kinetická teória stavby látok|Kinetická teória stavby látok]]
-- [[03 Molekulová fyzika a termodynamika/01 Základné poznatky/02 Termodynamická sústava|Termodynamická sústava]]
-- [[03 Molekulová fyzika a termodynamika/01 Základné poznatky/03 Vnútorná energia|Vnútorná energia]]
+- [[03-molekulova-fyzika-a-termodynamika/01-zakladne-poznatky/01-kineticka-teoria-stavby-latok/index|Kinetická teória stavby látok]]
+- [[03-molekulova-fyzika-a-termodynamika/01-zakladne-poznatky/02-termodynamicka-sustava/index|Termodynamická sústava]]
+- [[03-molekulova-fyzika-a-termodynamika/01-zakladne-poznatky/03-vnutorna-energia/index|Vnútorná energia]]
 
 #### Štruktúra a vlastnosti plynov
 
-- [[03 Molekulová fyzika a termodynamika/02 Štruktúra a vlastnosti plynov/01 Veličiny popisujúce ideálny plyn|Veličiny popisujúce ideálny plyn]]
-- [[03 Molekulová fyzika a termodynamika/02 Štruktúra a vlastnosti plynov/02 Stavova rovnica ideálneho plynu|Stavova rovnica ideálneho plynu]]
-- [[03 Molekulová fyzika a termodynamika/02 Štruktúra a vlastnosti plynov/03 Deje s ideálnym plynom|Deje s ideálnym plynom]]
-- [[03 Molekulová fyzika a termodynamika/02 Štruktúra a vlastnosti plynov/04 Kruhový dej s ideálnym plynom|Kruhový dej s ideálnym plynom]]
+- [[03-molekulova-fyzika-a-termodynamika/02-struktura-a-vlastnosti-plynov/01-veliciny-popisujuce-idealny-plyn/index|Veličiny popisujúce ideálny plyn]]
+- [[03-molekulova-fyzika-a-termodynamika/02-struktura-a-vlastnosti-plynov/02-stavova-rovnica-idealneho-plynu/index|Stavova rovnica ideálneho plynu]]
+- [[03-molekulova-fyzika-a-termodynamika/02-struktura-a-vlastnosti-plynov/03-deje-s-idealnym-plynom/index|Deje s ideálnym plynom]]
+- [[03-molekulova-fyzika-a-termodynamika/02-struktura-a-vlastnosti-plynov/04-kruhovy-dej-s-idealnym-plynom/index|Kruhový dej s ideálnym plynom]]
 
 #### Štruktúra a vlastnosti tuhých látok
 
-- [[03 Molekulová fyzika a termodynamika/03 Štruktúra a vlastnosti tuhých látok/01 Deformácia tuhého telesa|Deformácia tuhého telesa]]
-- [[03 Molekulová fyzika a termodynamika/03 Štruktúra a vlastnosti tuhých látok/02 Teplotná rozťažnosť tuhých látok|Teplotná rozťažnosť tuhých látok]]
+- [[03-molekulova-fyzika-a-termodynamika/03-struktura-a-vlastnosti-tuhych-latok/01-deformacia-tuheho-telesa/index|Deformácia tuhého telesa]]
+- [[03-molekulova-fyzika-a-termodynamika/03-struktura-a-vlastnosti-tuhych-latok/02-teplotna-roztaznost-tuhych-latok/index|Teplotná rozťažnosť tuhých látok]]
 
 #### Štruktúra a vlastnosti kvapalín
 
-- [[03 Molekulová fyzika a termodynamika/04 Štruktúra a vlastnosti kvapalín/01 Povrchové javy|Povrchové javy]]
-- [[03 Molekulová fyzika a termodynamika/04 Štruktúra a vlastnosti kvapalín/02 Kapilárne javy|Kapilárne javy]]
+- [[03-molekulova-fyzika-a-termodynamika/04-struktura-a-vlastnosti-kvapalin/01-povrchove-javy/index|Povrchové javy]]
+- [[03-molekulova-fyzika-a-termodynamika/04-struktura-a-vlastnosti-kvapalin/02-kapilarne-javy/index|Kapilárne javy]]
 
 #### Premeny skupenstva látok
 
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/01 Vyparovanie, var a kondenzácia|Vyparovanie, var a kondenzácia]]
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/02 Topenie a tuhnutie|Topenie a tuhnutie]]
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/03 Sublimácia a desublimácia|Sublimácia a desublimácia]]
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/04 Fázový diagram|Fázový diagram]]
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/05 Rosný bod|Rosný bod]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/01-vyparovanie,-var-a-kondenzacia/index|Vyparovanie, var a kondenzácia]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/02-topenie-a-tuhnutie/index|Topenie a tuhnutie]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/03-sublimacia-a-desublimacia/index|Sublimácia a desublimácia]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/04-fazovy-diagram/index|Fázový diagram]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/05-rosny-bod/index|Rosný bod]]
 
 ### 🔊 Kmity a vlny
 
 #### Mechanické kmitanie
 
-- [[04 Kmity a vlny/01 Mechanické kmitanie/01 Kinematika kmitavého pohybu|Kinematika kmitavého pohybu]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/02 Skladanie kmitov|Skladanie kmitov]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/03 Dynamika kmitavého pohybu|Dynamika kmitavého pohybu]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/04 Matematické kyvadlo|Matematické kyvadlo]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/05 Premeny energie v mechanickom oscilátore|Premeny energie v mechanickom oscilátore]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/06 Nútené kmitanie mechanického oscilátora|Nútené kmitanie mechanického oscilátora]]
+- [[04-kmity-a-vlny/01-mechanicke-kmitanie/01-kinematika-kmitaveho-pohybu/index|Kinematika kmitavého pohybu]]
+- [[04-kmity-a-vlny/01-mechanicke-kmitanie/02-skladanie-kmitov/index|Skladanie kmitov]]
+- [[04-kmity-a-vlny/01-mechanicke-kmitanie/03-dynamika-kmitaveho-pohybu/index|Dynamika kmitavého pohybu]]
+- [[04-kmity-a-vlny/01-mechanicke-kmitanie/04-matematicke-kyvadlo/index|Matematické kyvadlo]]
+- [[04-kmity-a-vlny/01-mechanicke-kmitanie/05-premeny-energie-v-mechanickom-oscilatore/index|Premeny energie v mechanickom oscilátore]]
+- [[04-kmity-a-vlny/01-mechanicke-kmitanie/06-nutene-kmitanie-mechanickeho-oscilatora/index|Nútené kmitanie mechanického oscilátora]]
 
 #### Mechanické vlenie
 
-- [[04 Kmity a vlny/02 Mechanické vlnenie/01 Postupné mechanické vlnenie|Postupné mechanické vlnenie]]
-- [[04 Kmity a vlny/02 Mechanické vlnenie/02 Stojate vlnenie|Stojate vlnenie]]
-- [[04 Kmity a vlny/02 Mechanické vlnenie/03 Vlnenie v izotropnom prostredí|Vlnenie v izotropnom prostredí]]
+- [[04-kmity-a-vlny/02-mechanicke-vlnenie/01-postupne-mechanicke-vlnenie/index|Postupné mechanické vlnenie]]
+- [[04-kmity-a-vlny/02-mechanicke-vlnenie/02-stojate-vlnenie/index|Stojate vlnenie]]
+- [[04-kmity-a-vlny/02-mechanicke-vlnenie/03-vlnenie-v-izotropnom-prostredi/index|Vlnenie v izotropnom prostredí]]
 
 #### Akustika
 
-- [[04 Kmity a vlny/03 Akustika/01 Zdroje a vlastnosti zvuku|Zdroje a vlastnosti zvuku]]
-- [[04 Kmity a vlny/03 Akustika/02 Šírenie zvuku|Šírenie zvuku]]
-- [[04 Kmity a vlny/03 Akustika/03 Dopplerov jav|Dopplerov jav]]
+- [[04-kmity-a-vlny/03-akustika/01-zdroje-a-vlastnosti-zvuku/index|Zdroje a vlastnosti zvuku]]
+- [[04-kmity-a-vlny/03-akustika/02-sirenie-zvuku/index|Šírenie zvuku]]
+- [[04-kmity-a-vlny/03-akustika/03-dopplerov-jav/index|Dopplerov jav]]
 
 #### Elektromagnetické žiarenie
 
-- [[04 Kmity a vlny/04 Elektromagnetické žiarenie/01 Svetlo a jeho vlastnosti|Svetlo a jeho vlastnosti]]
-- [[04 Kmity a vlny/04 Elektromagnetické žiarenie/02 Geometrická optika|Geometrická optika]]
+- [[04-kmity-a-vlny/04-elektromagneticke-ziarenie/01-svetlo-a-jeho-vlastnosti/index|Svetlo a jeho vlastnosti]]
+- [[04-kmity-a-vlny/04-elektromagneticke-ziarenie/02-geometricka-optika/index|Geometrická optika]]
 
 ### ⚡ Elektrický prúd v látkach
 
 #### Elektrický náboj a elektrické pole
 
-- [[05 Elektrický prúd v látkach/01 Elektrický náboj a elektrické pole/01 Elektrický náboj a jeho vlastnosti|Elektrický náboj a jeho vlastnosti]]
-- [[05 Elektrický prúd v látkach/01 Elektrický náboj a elektrické pole/02 Elektrické pole|Elektrické pole]]
-- [[05 Elektrický prúd v látkach/01 Elektrický náboj a elektrické pole/03 Vodič v elektrickom poli|Vodič v elektrickom poli]]
-- [[05 Elektrický prúd v látkach/01 Elektrický náboj a elektrické pole/04 Izolant v elektrickom poli|Izolant v elektrickom poli]]
-- [[05 Elektrický prúd v látkach/01 Elektrický náboj a elektrické pole/05 Kapacita vodiča a kondenzátor|Kapacita vodiča a kondenzátor]]
+- [[05-elektricky-prud-v-latkach/01-elektricky-naboj-a-elektricke-pole/01-elektricky-naboj-a-jeho-vlastnosti/index|Elektrický náboj a jeho vlastnosti]]
+- [[05-elektricky-prud-v-latkach/01-elektricky-naboj-a-elektricke-pole/02-elektricke-pole/index|Elektrické pole]]
+- [[05-elektricky-prud-v-latkach/01-elektricky-naboj-a-elektricke-pole/03-vodic-v-elektrickom-poli/index|Vodič v elektrickom poli]]
+- [[05-elektricky-prud-v-latkach/01-elektricky-naboj-a-elektricke-pole/04-izolant-v-elektrickom-poli/index|Izolant v elektrickom poli]]
+- [[05-elektricky-prud-v-latkach/01-elektricky-naboj-a-elektricke-pole/05-kapacita-vodica-a-kondenzator/index|Kapacita vodiča a kondenzátor]]
 
 #### Elektrický prúd
 
-- [[05 Elektrický prúd v látkach/02 Elektrický prúd/01 Jednoduchý elektrický obvod|Jednoduchý elektrický obvod]]
-- [[05 Elektrický prúd v látkach/02 Elektrický prúd/02 Elektrický prúd v kovoch|Elektrický prúd v kovoch]]
-- [[05 Elektrický prúd v látkach/02 Elektrický prúd/03 Elektrický prúd v polovodičoch|Elektrický prúd v polovodičoch]]
-- [[05 Elektrický prúd v látkach/02 Elektrický prúd/04 Elektrický prúd v kvapalinách|Elektrický prúd v kvapalinách]]
-- [[05 Elektrický prúd v látkach/02 Elektrický prúd/05 Elektrický prúd v plynoch|Elektrický prúd v plynoch]]
+- [[05-elektricky-prud-v-latkach/02-elektricky-prud/01-jednoduchy-elektricky-obvod/index|Jednoduchý elektrický obvod]]
+- [[05-elektricky-prud-v-latkach/02-elektricky-prud/02-elektricky-prud-v-kovoch/index|Elektrický prúd v kovoch]]
+- [[05-elektricky-prud-v-latkach/02-elektricky-prud/03-elektricky-prud-v-polovodicoch/index|Elektrický prúd v polovodičoch]]
+- [[05-elektricky-prud-v-latkach/02-elektricky-prud/04-elektricky-prud-v-kvapalinach/index|Elektrický prúd v kvapalinách]]
+- [[05-elektricky-prud-v-latkach/02-elektricky-prud/05-elektricky-prud-v-plynoch/index|Elektrický prúd v plynoch]]
 
 ### 🧲 Magnetické pole
 
 #### Stacionárne magnetické pole
 
-- [[06 Magnetické pole/01 Stacionárne magnetické pole/01 Magnetické pole permanentného magnetu|Magnetické pole permanentného magnetu]]
-- [[06 Magnetické pole/01 Stacionárne magnetické pole/02 Magnetické pole vodiča s prúdom|Magnetické pole vodiča s prúdom]]
-- [[06 Magnetické pole/01 Stacionárne magnetické pole/03 Magnetická indukcia|Magnetická indukcia]]
-- [[06 Magnetické pole/01 Stacionárne magnetické pole/04 Vodiče s prúdom a ich vzájomné pôsobenie|Vodiče s prúdom a ich vzájomné pôsobenie]]
-- [[06 Magnetické pole/01 Stacionárne magnetické pole/05 Častica s nábojom v magnetickom poli|Častica s nábojom v magnetickom poli]]
-- [[06 Magnetické pole/01 Stacionárne magnetické pole/06 Magnetické vlastnosti látok|Magnetické vlastnosti látok]]
+- [[06-magneticke-pole/01-stacionarne-magneticke-pole/01-magneticke-pole-permanentneho-magnetu/index|Magnetické pole permanentného magnetu]]
+- [[06-magneticke-pole/01-stacionarne-magneticke-pole/02-magneticke-pole-vodica-s-prudom/index|Magnetické pole vodiča s prúdom]]
+- [[06-magneticke-pole/01-stacionarne-magneticke-pole/03-magneticka-indukcia/index|Magnetická indukcia]]
+- [[06-magneticke-pole/01-stacionarne-magneticke-pole/04-vodice-s-prudom-a-ich-vzajomne-posobenie/index|Vodiče s prúdom a ich vzájomné pôsobenie]]
+- [[06-magneticke-pole/01-stacionarne-magneticke-pole/05-castica-s-nabojom-v-magnetickom-poli/index|Častica s nábojom v magnetickom poli]]
+- [[06-magneticke-pole/01-stacionarne-magneticke-pole/06-magneticke-vlastnosti-latok/index|Magnetické vlastnosti látok]]
 
 #### Nestacionárne magnetické pole
 
-- [[06 Magnetické pole/02 Nestacionárne magnetické pole/01 Magnetický indukčný tok|Magnetický indukčný tok]]
-- [[06 Magnetické pole/02 Nestacionárne magnetické pole/02 Elektromagnetická indukcia|Elektromagnetická indukcia]]
-- [[06 Magnetické pole/02 Nestacionárne magnetické pole/03 Vlastná indukcia|Vlastná indukcia]]
+- [[06-magneticke-pole/02-nestacionarne-magneticke-pole/01-magneticky-indukcny-tok/index|Magnetický indukčný tok]]
+- [[06-magneticke-pole/02-nestacionarne-magneticke-pole/02-elektromagneticka-indukcia/index|Elektromagnetická indukcia]]
+- [[06-magneticke-pole/02-nestacionarne-magneticke-pole/03-vlastna-indukcia/index|Vlastná indukcia]]
 
 #### Striedavý prúd
 
-- [[06 Magnetické pole/03 Striedavý prúd/01 Obvod striedavého prúdu s rezistorom|Obvod striedavého prúdu s rezistorom]]
-- [[06 Magnetické pole/03 Striedavý prúd/02 Obvod striedavého prúdu s cievkou|Obvod stiedavého prúdu s cievkou]]
-- [[06 Magnetické pole/03 Striedavý prúd/03 Obvod striedavého prúdu s kondenzátorom|Obvod striedavého prúdu s kondenzátorom]]
-- [[06 Magnetické pole/03 Striedavý prúd/04 Sériový RLC obvod|Sériový RLC obvod]]
-- [[06 Magnetické pole/03 Striedavý prúd/05 Generátor striedavého napätia|Generátor striedavého napätia]]
-- [[06 Magnetické pole/03 Striedavý prúd/06 Transformátor|Transformátor]]
+- [[06-magneticke-pole/03-striedavy-prud/01-obvod-striedaveho-prudu-s-rezistorom/index|Obvod striedavého prúdu s rezistorom]]
+- [[06-magneticke-pole/03-striedavy-prud/02-obvod-striedaveho-prudu-s-cievkou/index|Obvod stiedavého prúdu s cievkou]]
+- [[06-magneticke-pole/03-striedavy-prud/03-obvod-striedaveho-prudu-s-kondenzatorom/index|Obvod striedavého prúdu s kondenzátorom]]
+- [[06-magneticke-pole/03-striedavy-prud/04-seriovy-rlc-obvod/index|Sériový RLC obvod]]
+- [[06-magneticke-pole/03-striedavy-prud/05-generator-striedaveho-napatia/index|Generátor striedavého napätia]]
+- [[06-magneticke-pole/03-striedavy-prud/06-transformator/index|Transformátor]]
 
 ### ☢️ Základy fyziky mikrosveta
 
 #### Na ceste ku kvantovej fyzike
 
-- [[07 Základy fyziky mikrosveta/01 Na ceste ku kvantovej fyzike/01 Žiarenie absolútne čierneho telesa|Žiarenie absolútne čierneho telesa]]
-- [[07 Základy fyziky mikrosveta/01 Na ceste ku kvantovej fyzike/02 Fotoelektrický jav|Fotoelektrický jav]]
-- [[07 Základy fyziky mikrosveta/01 Na ceste ku kvantovej fyzike/03 Fotóny a de Broglieho hypotéza|Fotóny a de Broglieho hypotéza]]
+- [[07-zaklady-fyziky-mikrosveta/01-na-ceste-ku-kvantovej-fyzike/01-ziarenie-absolutne-cierneho-telesa/index|Žiarenie absolútne čierneho telesa]]
+- [[07-zaklady-fyziky-mikrosveta/01-na-ceste-ku-kvantovej-fyzike/02-fotoelektricky-jav/index|Fotoelektrický jav]]
+- [[07-zaklady-fyziky-mikrosveta/01-na-ceste-ku-kvantovej-fyzike/03-fotony-a-de-broglieho-hypoteza/index|Fotóny a de Broglieho hypotéza]]
 
 #### Atómová fyzika
 
-- [[07 Základy fyziky mikrosveta/02 Atómová fyzika/01 Modely atómu|Modely atómu]]
-- [[07 Základy fyziky mikrosveta/02 Atómová fyzika/02 Laser|Laser]]
+- [[07-zaklady-fyziky-mikrosveta/02-atomova-fyzika/01-modely-atomu/index|Modely atómu]]
+- [[07-zaklady-fyziky-mikrosveta/02-atomova-fyzika/02-laser/index|Laser]]
 
 #### Jadrová fyzika
 
-- [[07 Základy fyziky mikrosveta/03 Jadrová fyzika/01 Vlastnosti a zloženie jadier atómov|Vlastnosti a zloženie jadier atómov]]
-- [[07 Základy fyziky mikrosveta/03 Jadrová fyzika/02 Jadrové reakcie|Jadrové reakcie]]
-- [[07 Základy fyziky mikrosveta/03 Jadrová fyzika/03 Rádioaktivita|Rádioaktivita]]
+- [[07-zaklady-fyziky-mikrosveta/03-jadrova-fyzika/01-vlastnosti-a-zlozenie-jadier-atomov/index|Vlastnosti a zloženie jadier atómov]]
+- [[07-zaklady-fyziky-mikrosveta/03-jadrova-fyzika/02-jadrove-reakcie/index|Jadrové reakcie]]
+- [[07-zaklady-fyziky-mikrosveta/03-jadrova-fyzika/03-radioaktivita/index|Rádioaktivita]]
 
 #### Fyzika elementárnych častíc
 
-- [[07 Základy fyziky mikrosveta/04 Fyzika elementárnych častíc/01 Charakteristiky častíc a ich triedenie|Charakteristiky častíc a ich triedenie]]
-- [[07 Základy fyziky mikrosveta/04 Fyzika elementárnych častíc/02 Základné fyzikálne interakcie|Základné fyzikálne interakcie]]
-- [[07 Základy fyziky mikrosveta/04 Fyzika elementárnych častíc/03 Kvarky a súčasný systém častíc|Kvarky a súčasný systém častíc]]
+- [[07-zaklady-fyziky-mikrosveta/04-fyzika-elementarnych-castic/01-charakteristiky-castic-a-ich-triedenie/index|Charakteristiky častíc a ich triedenie]]
+- [[07-zaklady-fyziky-mikrosveta/04-fyzika-elementarnych-castic/02-zakladne-fyzikalne-interakcie/index|Základné fyzikálne interakcie]]
+- [[07-zaklady-fyziky-mikrosveta/04-fyzika-elementarnych-castic/03-kvarky-a-sucasny-system-castic/index|Kvarky a súčasný systém častíc]]
 
 ### ✍️ Úlohy na precvičenie
 
-- [[08 Úlohy na precvičenie/01 Kinematika|Kinematika]]
-- [[08 Úlohy na precvičenie/02 Dynamika|Dynamika]]
-- [[08 Úlohy na precvičenie/03 Práca a energia|Práca a energia]]
-- [[08 Úlohy na precvičenie/04 Gravitačné pole|Gravitačné pole]]
-- [[08 Úlohy na precvičenie/05 Mechanika dokonale tuhého telesa|Mechanika dokonale tuhého telesa]]
-- [[08 Úlohy na precvičenie/06 Mechanika kvapalín a plynov|Mechanika kvapalín a plynov]]
-- [[08 Úlohy na precvičenie/07 Molekulová fyzika a termodynamika|Molekulová fyzika a termodynamika]]
-- [[08 Úlohy na precvičenie/08 Mechanické kmitanie|Mechanické kmitanie]]
-- [[08 Úlohy na precvičenie/09 Mechanické vlnenie|Mechanické vlnenie]]
-- [[08 Úlohy na precvičenie/10 Akustika|Akustika]]
-- [[08 Úlohy na precvičenie/11 Elektromagnetické žiarenie|Elektromagnetické žiarenie]]
-- [[08 Úlohy na precvičenie/12 Elektrický prúd v látkach|Elektrický prúd v látkach]]
-- [[08 Úlohy na precvičenie/13 Magnetické pole|Magnetické pole]]
-- [[08 Úlohy na precvičenie/14 Základy fyziky mikrosveta|Základy fyziky mikrosveta]]
+- [[08-ulohy-na-precvicenie/01-kinematika/index|Kinematika]]
+- [[08-ulohy-na-precvicenie/02-dynamika/index|Dynamika]]
+- [[08-ulohy-na-precvicenie/03-praca-a-energia/index|Práca a energia]]
+- [[08-ulohy-na-precvicenie/04-gravitacne-pole/index|Gravitačné pole]]
+- [[08-ulohy-na-precvicenie/05-mechanika-dokonale-tuheho-telesa/index|Mechanika dokonale tuhého telesa]]
+- [[08-ulohy-na-precvicenie/06-mechanika-kvapalin-a-plynov/index|Mechanika kvapalín a plynov]]
+- [[08-ulohy-na-precvicenie/07-molekulova-fyzika-a-termodynamika/index|Molekulová fyzika a termodynamika]]
+- [[08-ulohy-na-precvicenie/08-mechanicke-kmitanie/index|Mechanické kmitanie]]
+- [[08-ulohy-na-precvicenie/09-mechanicke-vlnenie/index|Mechanické vlnenie]]
+- [[08-ulohy-na-precvicenie/10-akustika/index|Akustika]]
+- [[08-ulohy-na-precvicenie/11-elektromagneticke-ziarenie/index|Elektromagnetické žiarenie]]
+- [[08-ulohy-na-precvicenie/12-elektricky-prud-v-latkach/index|Elektrický prúd v látkach]]
+- [[08-ulohy-na-precvicenie/13-magneticke-pole/index|Magnetické pole]]
+- [[08-ulohy-na-precvicenie/14-zaklady-fyziky-mikrosveta/index|Základy fyziky mikrosveta]]

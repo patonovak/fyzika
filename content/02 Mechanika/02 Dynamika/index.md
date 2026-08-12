@@ -6,8 +6,8 @@ Telesá nemenia svoj pohybový stav samovoľne. V kinematike sme sa zaoberali hl
 
 ## Podkapitoly
 
-- [[01 Vzájomné pôsobenie telies|Vzájomné pôsobenie telies]]
-- [[02 Newtonove pohybové zákony|Newtonove pohybové zákony]]
-- [[03 Zákon zachovania hybnosti|Zákon zachovania hybnosti]]
-- [[04 Dostredivá sila|Dostredivá sila]]
-- [[05 Trenie a trecia sila|Trenie a trecia sila]]
+- [[02-mechanika/02-dynamika/01-vzajomne-posobenie-telies/index|Vzájomné pôsobenie telies]]
+- [[02-mechanika/02-dynamika/02-newtonove-pohybove-zakony/index|Newtonove pohybové zákony]]
+- [[02-mechanika/02-dynamika/03-zakon-zachovania-hybnosti/index|Zákon zachovania hybnosti]]
+- [[02-mechanika/02-dynamika/04-dostrediva-sila/index|Dostredivá sila]]
+- [[02-mechanika/02-dynamika/05-trenie-a-trecia-sila/index|Trenie a trecia sila]]

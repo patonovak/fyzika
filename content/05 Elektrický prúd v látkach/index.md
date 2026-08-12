@@ -9,16 +9,16 @@ title: Elektrický prúd v látkach
 
 #### Elektrický náboj a elektrické pole
 
-- [[01 Elektrický náboj a elektrické pole/01 Elektrický náboj a jeho vlastnosti|Elektrický náboj a jeho vlastnosti]]
-- [[01 Elektrický náboj a elektrické pole/02 Elektrické pole|Elektrické pole]]
-- [[01 Elektrický náboj a elektrické pole/03 Vodič v elektrickom poli|Vodič v elektrickom poli]]
-- [[01 Elektrický náboj a elektrické pole/04 Izolant v elektrickom poli|Izolant v elektrickom poli]]
-- [[01 Elektrický náboj a elektrické pole/05 Kapacita vodiča a kondenzátor|Kapacita vodiča a kondenzátor]]
+- [[05-elektricky-prud-v-latkach/01-elektricky-naboj-a-elektricke-pole/01-elektricky-naboj-a-jeho-vlastnosti/index|Elektrický náboj a jeho vlastnosti]]
+- [[05-elektricky-prud-v-latkach/01-elektricky-naboj-a-elektricke-pole/02-elektricke-pole/index|Elektrické pole]]
+- [[05-elektricky-prud-v-latkach/01-elektricky-naboj-a-elektricke-pole/03-vodic-v-elektrickom-poli/index|Vodič v elektrickom poli]]
+- [[05-elektricky-prud-v-latkach/01-elektricky-naboj-a-elektricke-pole/04-izolant-v-elektrickom-poli/index|Izolant v elektrickom poli]]
+- [[05-elektricky-prud-v-latkach/01-elektricky-naboj-a-elektricke-pole/05-kapacita-vodica-a-kondenzator/index|Kapacita vodiča a kondenzátor]]
 
 #### Elektrický prúd
 
-- [[02 Elektrický prúd/01 Jednoduchý elektrický obvod|Jednoduchý elektrický obvod]]
-- [[02 Elektrický prúd/02 Elektrický prúd v kovoch|Elektrický prúd v kovoch]]
-- [[02 Elektrický prúd/03 Elektrický prúd v polovodičoch|Elektrický prúd v polovodičoch]]
-- [[02 Elektrický prúd/04 Elektrický prúd v kvapalinách|Elektrický prúd v kvapalinách]]
-- [[02 Elektrický prúd/05 Elektrický prúd v plynoch|Elektrický prúd v plynoch]]
+- [[05-elektricky-prud-v-latkach/02-elektricky-prud/01-jednoduchy-elektricky-obvod/index|Jednoduchý elektrický obvod]]
+- [[05-elektricky-prud-v-latkach/02-elektricky-prud/02-elektricky-prud-v-kovoch/index|Elektrický prúd v kovoch]]
+- [[05-elektricky-prud-v-latkach/02-elektricky-prud/03-elektricky-prud-v-polovodicoch/index|Elektrický prúd v polovodičoch]]
+- [[05-elektricky-prud-v-latkach/02-elektricky-prud/04-elektricky-prud-v-kvapalinach/index|Elektrický prúd v kvapalinách]]
+- [[05-elektricky-prud-v-latkach/02-elektricky-prud/05-elektricky-prud-v-plynoch/index|Elektrický prúd v plynoch]]

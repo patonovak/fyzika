@@ -9,23 +9,23 @@ title: Základy fyziky mikrosveta
 
 #### Na ceste ku kvantovej fyzike
 
-- [[01 Na ceste ku kvantovej fyzike/01 Žiarenie absolútne čierneho telesa|Žiarenie absolútne čierneho telesa]]
-- [[01 Na ceste ku kvantovej fyzike/02 Fotoelektrický jav|Fotoelektrický jav]]
-- [[01 Na ceste ku kvantovej fyzike/03 Fotóny a de Broglieho hypotéza|Fotóny a de Broglieho hypotéza]]
+- [[07-zaklady-fyziky-mikrosveta/01-na-ceste-ku-kvantovej-fyzike/01-ziarenie-absolutne-cierneho-telesa/index|Žiarenie absolútne čierneho telesa]]
+- [[07-zaklady-fyziky-mikrosveta/01-na-ceste-ku-kvantovej-fyzike/02-fotoelektricky-jav/index|Fotoelektrický jav]]
+- [[07-zaklady-fyziky-mikrosveta/01-na-ceste-ku-kvantovej-fyzike/03-fotony-a-de-broglieho-hypoteza/index|Fotóny a de Broglieho hypotéza]]
 
 #### Atómová fyzika
 
-- [[02 Atómová fyzika/01 Modely atómu|Modely atómu]]
-- [[02 Atómová fyzika/02 Laser|Laser]]
+- [[07-zaklady-fyziky-mikrosveta/02-atomova-fyzika/01-modely-atomu/index|Modely atómu]]
+- [[07-zaklady-fyziky-mikrosveta/02-atomova-fyzika/02-laser/index|Laser]]
 
 #### Jadrová fyzika
 
-- [[03 Jadrová fyzika/01 Vlastnosti a zloženie jadier atómov|Vlastnosti a zloženie jadier atómov]]
-- [[03 Jadrová fyzika/02 Jadrové reakcie|Jadrové reakcie]]
-- [[03 Jadrová fyzika/03 Rádioaktivita|Rádioaktivita]]
+- [[07-zaklady-fyziky-mikrosveta/03-jadrova-fyzika/01-vlastnosti-a-zlozenie-jadier-atomov/index|Vlastnosti a zloženie jadier atómov]]
+- [[07-zaklady-fyziky-mikrosveta/03-jadrova-fyzika/02-jadrove-reakcie/index|Jadrové reakcie]]
+- [[07-zaklady-fyziky-mikrosveta/03-jadrova-fyzika/03-radioaktivita/index|Rádioaktivita]]
 
 #### Fyzika elementárnych častíc
 
-- [[04 Fyzika elementárnych častíc/01 Charakteristiky častíc a ich triedenie|Charakteristiky častíc a ich triedenie]]
-- [[04 Fyzika elementárnych častíc/02 Základné fyzikálne interakcie|Základné fyzikálne interakcie]]
-- [[04 Fyzika elementárnych častíc/03 Kvarky a súčasný systém častíc|Kvarky a súčasný systém častíc]]
+- [[07-zaklady-fyziky-mikrosveta/04-fyzika-elementarnych-castic/01-charakteristiky-castic-a-ich-triedenie/index|Charakteristiky častíc a ich triedenie]]
+- [[07-zaklady-fyziky-mikrosveta/04-fyzika-elementarnych-castic/02-zakladne-fyzikalne-interakcie/index|Základné fyzikálne interakcie]]
+- [[07-zaklady-fyziky-mikrosveta/04-fyzika-elementarnych-castic/03-kvarky-a-sucasny-system-castic/index|Kvarky a súčasný systém častíc]]

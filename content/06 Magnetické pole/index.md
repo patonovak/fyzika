@@ -9,24 +9,24 @@ title: Magnetické pole
 
 #### Stacionárne magnetické pole
 
-- [[01 Stacionárne magnetické pole/01 Magnetické pole permanentného magnetu|Magnetické pole permanentného magnetu]]
-- [[01 Stacionárne magnetické pole/02 Magnetické pole vodiča s prúdom|Magnetické pole vodiča s prúdom]]
-- [[01 Stacionárne magnetické pole/03 Magnetická indukcia|Magnetická indukcia]]
-- [[01 Stacionárne magnetické pole/04 Vodiče s prúdom a ich vzájomné pôsobenie|Vodiče s prúdom a ich vzájomné pôsobenie]]
-- [[01 Stacionárne magnetické pole/05 Častica s nábojom v magnetickom poli|Častica s nábojom v magnetickom poli]]
-- [[01 Stacionárne magnetické pole/06 Magnetické vlastnosti látok|Magnetické vlastnosti látok]]
+- [[06-magneticke-pole/01-stacionarne-magneticke-pole/01-magneticke-pole-permanentneho-magnetu/index|Magnetické pole permanentného magnetu]]
+- [[06-magneticke-pole/01-stacionarne-magneticke-pole/02-magneticke-pole-vodica-s-prudom/index|Magnetické pole vodiča s prúdom]]
+- [[06-magneticke-pole/01-stacionarne-magneticke-pole/03-magneticka-indukcia/index|Magnetická indukcia]]
+- [[06-magneticke-pole/01-stacionarne-magneticke-pole/04-vodice-s-prudom-a-ich-vzajomne-posobenie/index|Vodiče s prúdom a ich vzájomné pôsobenie]]
+- [[06-magneticke-pole/01-stacionarne-magneticke-pole/05-castica-s-nabojom-v-magnetickom-poli/index|Častica s nábojom v magnetickom poli]]
+- [[06-magneticke-pole/01-stacionarne-magneticke-pole/06-magneticke-vlastnosti-latok/index|Magnetické vlastnosti látok]]
 
 #### Nestacionárne magnetické pole
 
-- [[02 Nestacionárne magnetické pole/01 Magnetický indukčný tok|Magnetický indukčný tok]]
-- [[02 Nestacionárne magnetické pole/02 Elektromagnetická indukcia|Elektromagnetická indukcia]]
-- [[02 Nestacionárne magnetické pole/03 Vlastná indukcia|Vlastná indukcia]]
+- [[06-magneticke-pole/02-nestacionarne-magneticke-pole/01-magneticky-indukcny-tok/index|Magnetický indukčný tok]]
+- [[06-magneticke-pole/02-nestacionarne-magneticke-pole/02-elektromagneticka-indukcia/index|Elektromagnetická indukcia]]
+- [[06-magneticke-pole/02-nestacionarne-magneticke-pole/03-vlastna-indukcia/index|Vlastná indukcia]]
 
 #### Striedavý prúd
 
-- [[03 Striedavý prúd/01 Obvod striedavého prúdu s rezistorom|Obvod striedavého prúdu s rezistorom]]
-- [[03 Striedavý prúd/02 Obvod striedavého prúdu s cievkou|Obvod stiedavého prúdu s cievkou]]
-- [[03 Striedavý prúd/03 Obvod striedavého prúdu s kondenzátorom|Obvod striedavého prúdu s kondenzátorom]]
-- [[03 Striedavý prúd/04 Sériový RLC obvod|Sériový RLC obvod]]
-- [[03 Striedavý prúd/05 Generátor striedavého napätia|Generátor striedavého napätia]]
-- [[03 Striedavý prúd/06 Transformátor|Transformátor]]
+- [[06-magneticke-pole/03-striedavy-prud/01-obvod-striedaveho-prudu-s-rezistorom/index|Obvod striedavého prúdu s rezistorom]]
+- [[06-magneticke-pole/03-striedavy-prud/02-obvod-striedaveho-prudu-s-cievkou/index|Obvod stiedavého prúdu s cievkou]]
+- [[06-magneticke-pole/03-striedavy-prud/03-obvod-striedaveho-prudu-s-kondenzatorom/index|Obvod striedavého prúdu s kondenzátorom]]
+- [[06-magneticke-pole/03-striedavy-prud/04-seriovy-rlc-obvod/index|Sériový RLC obvod]]
+- [[06-magneticke-pole/03-striedavy-prud/05-generator-striedaveho-napatia/index|Generátor striedavého napätia]]
+- [[06-magneticke-pole/03-striedavy-prud/06-transformator/index|Transformátor]]

@@ -6,8 +6,8 @@ title: Kinematika
 
 ## Podkapitoly
 
-- [[01 Mechanický pohyb|Mechanický pohyb]]
-- [[02 Rýchlosť pohybu|Rýchlosť pohybu]]
-- [[03 Rovnomerný pohyb po priamke|Rovnomerný pohyb po priamke]]
-- [[04 Nerovnomerný pohyb po priamke|Nerovnomerný pohyb po priamke]]
-- [[05 Rovnomerný pohyb po kružnici|Rovnomerný pohyb po kružnici]]
+- [[02-mechanika/01-kinematika/01-mechanicky-pohyb/index|Mechanický pohyb]]
+- [[02-mechanika/01-kinematika/02-rychlost-pohybu/index|Rýchlosť pohybu]]
+- [[02-mechanika/01-kinematika/03-rovnomerny-pohyb-po-priamke/index|Rovnomerný pohyb po priamke]]
+- [[02-mechanika/01-kinematika/04-nerovnomerny-pohyb-po-priamke/index|Nerovnomerný pohyb po priamke]]
+- [[02-mechanika/01-kinematika/05-rovnomerny-pohyb-po-kruznici/index|Rovnomerný pohyb po kružnici]]

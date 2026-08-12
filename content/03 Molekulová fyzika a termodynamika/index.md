@@ -9,31 +9,31 @@ title: Molekulová fyzika a termodynamika
 
 #### Základné poznatky
 
-- [[01 Základné poznatky/01 Kinetická teória stavby látok|Kinetická teória stavby látok]]
-- [[01 Základné poznatky/02 Termodynamická sústava|Termodynamická sústava]]
-- [[01 Základné poznatky/03 Vnútorná energia|Vnútorná energia]]
+- [[03-molekulova-fyzika-a-termodynamika/01-zakladne-poznatky/01-kineticka-teoria-stavby-latok/index|Kinetická teória stavby látok]]
+- [[03-molekulova-fyzika-a-termodynamika/01-zakladne-poznatky/02-termodynamicka-sustava/index|Termodynamická sústava]]
+- [[03-molekulova-fyzika-a-termodynamika/01-zakladne-poznatky/03-vnutorna-energia/index|Vnútorná energia]]
 
 #### Štruktúra a vlastnosti plynov
 
-- [[02 Štruktúra a vlastnosti plynov/01 Veličiny popisujúce ideálny plyn|Veličiny popisujúce ideálny plyn]]
-- [[02 Štruktúra a vlastnosti plynov/02 Stavova rovnica ideálneho plynu|Stavova rovnica ideálneho plynu]]
-- [[02 Štruktúra a vlastnosti plynov/03 Deje s ideálnym plynom|Deje s ideálnym plynom]]
-- [[02 Štruktúra a vlastnosti plynov/04 Kruhový dej s ideálnym plynom|Kruhový dej s ideálnym plynom]]
+- [[03-molekulova-fyzika-a-termodynamika/02-struktura-a-vlastnosti-plynov/01-veliciny-popisujuce-idealny-plyn/index|Veličiny popisujúce ideálny plyn]]
+- [[03-molekulova-fyzika-a-termodynamika/02-struktura-a-vlastnosti-plynov/02-stavova-rovnica-idealneho-plynu/index|Stavova rovnica ideálneho plynu]]
+- [[03-molekulova-fyzika-a-termodynamika/02-struktura-a-vlastnosti-plynov/03-deje-s-idealnym-plynom/index|Deje s ideálnym plynom]]
+- [[03-molekulova-fyzika-a-termodynamika/02-struktura-a-vlastnosti-plynov/04-kruhovy-dej-s-idealnym-plynom/index|Kruhový dej s ideálnym plynom]]
 
 #### Štruktúra a vlastnosti tuhých látok
 
-- [[03 Štruktúra a vlastnosti tuhých látok/01 Deformácia tuhého telesa|Deformácia tuhého telesa]]
-- [[03 Štruktúra a vlastnosti tuhých látok/02 Teplotná rozťažnosť tuhých látok|Teplotná rozťažnosť tuhých látok]]
+- [[03-molekulova-fyzika-a-termodynamika/03-struktura-a-vlastnosti-tuhych-latok/01-deformacia-tuheho-telesa/index|Deformácia tuhého telesa]]
+- [[03-molekulova-fyzika-a-termodynamika/03-struktura-a-vlastnosti-tuhych-latok/02-teplotna-roztaznost-tuhych-latok/index|Teplotná rozťažnosť tuhých látok]]
 
 #### Štruktúra a vlastnosti kvapalín
 
-- [[04 Štruktúra a vlastnosti kvapalín/01 Povrchové javy|Povrchové javy]]
-- [[04 Štruktúra a vlastnosti kvapalín/02 Kapilárne javy|Kapilárne javy]]
+- [[03-molekulova-fyzika-a-termodynamika/04-struktura-a-vlastnosti-kvapalin/01-povrchove-javy/index|Povrchové javy]]
+- [[03-molekulova-fyzika-a-termodynamika/04-struktura-a-vlastnosti-kvapalin/02-kapilarne-javy/index|Kapilárne javy]]
 
 #### Premeny skupenstva látok
 
-- [[05 Premeny skupenstva látok/01 Vyparovanie, var a kondenzácia|Vyparovanie, var a kondenzácia]]
-- [[05 Premeny skupenstva látok/02 Topenie a tuhnutie|Topenie a tuhnutie]]
-- [[05 Premeny skupenstva látok/03 Sublimácia a desublimácia|Sublimácia a desublimácia]]
-- [[05 Premeny skupenstva látok/04 Fázový diagram|Fázový diagram]]
-- [[05 Premeny skupenstva látok/05 Rosný bod|Rosný bod]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/01-vyparovanie,-var-a-kondenzacia/index|Vyparovanie, var a kondenzácia]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/02-topenie-a-tuhnutie/index|Topenie a tuhnutie]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/03-sublimacia-a-desublimacia/index|Sublimácia a desublimácia]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/04-fazovy-diagram/index|Fázový diagram]]
+- [[03-molekulova-fyzika-a-termodynamika/05-premeny-skupenstva-latok/05-rosny-bod/index|Rosný bod]]

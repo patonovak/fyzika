@@ -8,6 +8,6 @@ Na získavanie informácií o okolitom svete používame svoje zmysly, predovše
 
 ## Podkapitoly
 
-- [[01 Zdroje a vlastnosti zvuku|Zdroje a vlastnosti zvuku]]
-- [[02 Šírenie zvuku|Šírenie zvuku]]
-- [[03 Dopplerov jav|Dopplerov jav]]
+- [[04-kmity-a-vlny/03-akustika/01-zdroje-a-vlastnosti-zvuku/index|Zdroje a vlastnosti zvuku]]
+- [[04-kmity-a-vlny/03-akustika/02-sirenie-zvuku/index|Šírenie zvuku]]
+- [[04-kmity-a-vlny/03-akustika/03-dopplerov-jav/index|Dopplerov jav]]

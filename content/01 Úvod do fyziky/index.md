@@ -11,7 +11,7 @@ Fyzika je **exaktná veda**, teda presná veda. Hlavným cieľom štúdia fyziky
 
 ## Podkapitoly
 
-- [[01 Predmet fyziky|Predmet fyziky]]
-- [[02 Riešenie fyzikálnych úloh|Riešenie fyzikálnych úloh]]
-- [[03 Meranie fyzikálnych veličín|Meranie fyzikálnych veličín]]
-- [[04 Úlohy na precvičenie učiva|Úlohy na precvičenie učiva]]
+- [[01-uvod-do-fyziky/01-predmet-fyziky/index|Predmet fyziky]]
+- [[01-uvod-do-fyziky/02-riesenie-fyzikalnych-uloh/index|Riešenie fyzikálnych úloh]]
+- [[01-uvod-do-fyziky/03-meranie-fyzikalnych-velicin/index|Meranie fyzikálnych veličín]]
+- [[01-uvod-do-fyziky/04-ulohy-na-precvicenie-uciva/index|Úlohy na precvičenie učiva]]

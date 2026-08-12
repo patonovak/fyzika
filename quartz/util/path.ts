@@ -39,21 +39,32 @@ export type {
 
 export const QUARTZ = "quartz"
 
+function removeDiacritics(value: string): string {
+  return value.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+}
+
 export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
-  return quartzSlugifyFilePath(fp.normalize("NFC") as FilePath, excludeExt).normalize("NFC") as FullSlug
+  const normalizedPath = removeDiacritics(fp.normalize("NFC")) as FilePath
+  const slug = quartzSlugifyFilePath(normalizedPath, excludeExt).normalize("NFC")
+  const extension = normalizedPath.match(/\.[A-Za-z0-9]+$/)?.[0]
+  const isPagePath = excludeExt || extension === ".md" || extension === ".html" || extension === undefined
+  if (isPagePath && slug !== "index" && slug !== "404" && !slug.endsWith("/index")) {
+    return `${slug}/index` as FullSlug
+  }
+  return slug as FullSlug
 }
 
 export function slugTag(tag: string): string {
-  return quartzSlugTag(tag.normalize("NFC")).normalize("NFC")
+  return quartzSlugTag(removeDiacritics(tag.normalize("NFC"))).normalize("NFC")
 }
 
 export function transformInternalLink(link: string): RelativeURL {
-  return quartzTransformInternalLink(link.normalize("NFC")).normalize("NFC") as RelativeURL
+  return quartzTransformInternalLink(removeDiacritics(link.normalize("NFC"))).normalize("NFC") as RelativeURL
 }
 
 export function transformLink(src: FullSlug, target: string, opts: TransformOptions): RelativeURL {
   const normalizedSlugs = opts.allSlugs.map((slug) => slug.normalize("NFC") as FullSlug)
-  return quartzTransformLink(src.normalize("NFC") as FullSlug, target.normalize("NFC"), {
+  return quartzTransformLink(src.normalize("NFC") as FullSlug, removeDiacritics(target.normalize("NFC")), {
     ...opts,
     allSlugs: normalizedSlugs,
   }).normalize("NFC") as RelativeURL

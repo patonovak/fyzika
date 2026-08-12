@@ -6,5 +6,5 @@ title: Štruktúra a vlastnosti kvapalín
 
 ## Podkapitoly
 
-- [[01 Povrchové javy|Povrchové javy]]
-- [[02 Kapilárne javy|Kapilárne javy]]
+- [[03-molekulova-fyzika-a-termodynamika/04-struktura-a-vlastnosti-kvapalin/01-povrchove-javy/index|Povrchové javy]]
+- [[03-molekulova-fyzika-a-termodynamika/04-struktura-a-vlastnosti-kvapalin/02-kapilarne-javy/index|Kapilárne javy]]

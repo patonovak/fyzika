@@ -10,7 +10,7 @@ Spoločnou vlastnosťou kvapalín a plynov je tekutosť, preto ich nazývame spo
 
 ## Podkapitoly
 
-- [[01 Tlak v tekutine|Tlak v tekutine]]
-- [[02 Archimedov zákon|Archimedov zákon]]
-- [[03 Dynamika tekutín|Dynamika tekutín]]
-- [[04 Prúdenie reálnej tekutiny|Prúdenie reálnej tekutiny]]
+- [[02-mechanika/06-mechanika-kvapalin-a-plynov/01-tlak-v-tekutine/index|Tlak v tekutine]]
+- [[02-mechanika/06-mechanika-kvapalin-a-plynov/02-archimedov-zakon/index|Archimedov zákon]]
+- [[02-mechanika/06-mechanika-kvapalin-a-plynov/03-dynamika-tekutin/index|Dynamika tekutín]]
+- [[02-mechanika/06-mechanika-kvapalin-a-plynov/04-prudenie-realnej-tekutiny/index|Prúdenie reálnej tekutiny]]

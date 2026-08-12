@@ -24,5 +24,5 @@ Väčšina telies, s ktorými sa stretávame, sú vyrobené z tuhých látok. **
 
 ## Podkapitoly
 
-- [[01 Deformácia tuhého telesa|Deformácia tuhého telesa]]
-- [[02 Teplotná rozťažnosť tuhých látok|Teplotná rozťažnosť tuhých látok]]
+- [[03-molekulova-fyzika-a-termodynamika/03-struktura-a-vlastnosti-tuhych-latok/01-deformacia-tuheho-telesa/index|Deformácia tuhého telesa]]
+- [[03-molekulova-fyzika-a-termodynamika/03-struktura-a-vlastnosti-tuhych-latok/02-teplotna-roztaznost-tuhych-latok/index|Teplotná rozťažnosť tuhých látok]]

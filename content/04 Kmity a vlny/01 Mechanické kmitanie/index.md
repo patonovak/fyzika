@@ -38,9 +38,9 @@ Výchylka mechanického oscilátora sa s časom mení, takisto aj rýchlosť hmo
 
 ## Podkapitoly
 
-- [[04 Kmity a vlny/01 Mechanické kmitanie/01 Kinematika kmitavého pohybu|Kinematika kmitavého pohybu]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/02 Skladanie kmitov|Skladanie kmitov]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/03 Dynamika kmitavého pohybu|Dynamika kmitavého pohybu]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/04 Matematické kyvadlo|Matematické kyvadlo]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/05 Premeny energie v mechanickom oscilátore|Premeny energie v mechanickom oscilátore]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/06 Nútené kmitanie mechanického oscilátora|Nútené kmitanie mechanického oscilátora]]
+- [[01 Kinematika kmitavého pohybu|Kinematika kmitavého pohybu]]
+- [[02 Skladanie kmitov|Skladanie kmitov]]
+- [[03 Dynamika kmitavého pohybu|Dynamika kmitavého pohybu]]
+- [[04 Matematické kyvadlo|Matematické kyvadlo]]
+- [[05 Premeny energie v mechanickom oscilátore|Premeny energie v mechanickom oscilátore]]
+- [[06 Nútené kmitanie mechanického oscilátora|Nútené kmitanie mechanického oscilátora]]

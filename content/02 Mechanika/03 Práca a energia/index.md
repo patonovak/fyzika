@@ -6,6 +6,6 @@ Slovo práca používame veľmi často. Hovoríme, že niekto dlho a ťažko pra
 
 ## Podkapitoly
 
-- [[02 Mechanika/03 Práca a energia/01 Mechanická práca|Mechanická práca]]
-- [[02 Mechanika/03 Práca a energia/02 Mechanická energia|Mechanická energia]]
-- [[02 Mechanika/03 Práca a energia/03 Výkon, príkon a účinnosť|Výkon, príkon a účinnosť]]
+- [[01 Mechanická práca|Mechanická práca]]
+- [[02 Mechanická energia|Mechanická energia]]
+- [[03 Výkon, príkon a účinnosť|Výkon, príkon a účinnosť]]

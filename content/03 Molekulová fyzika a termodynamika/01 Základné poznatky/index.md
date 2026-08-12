@@ -8,6 +8,6 @@ title: Základné poznatky
 
 ## Podkapitoly
 
-- [[03 Molekulová fyzika a termodynamika/01 Základné poznatky/01 Kinetická teória stavby látok|Kinetická teória stavby látok]]
-- [[03 Molekulová fyzika a termodynamika/01 Základné poznatky/02 Termodynamická sústava|Termodynamická sústava]]
-- [[03 Molekulová fyzika a termodynamika/01 Základné poznatky/03 Vnútorná energia|Vnútorná energia]]
+- [[01 Kinetická teória stavby látok|Kinetická teória stavby látok]]
+- [[02 Termodynamická sústava|Termodynamická sústava]]
+- [[03 Vnútorná energia|Vnútorná energia]]

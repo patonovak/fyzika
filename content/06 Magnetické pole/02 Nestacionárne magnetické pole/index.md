@@ -12,6 +12,6 @@ Spomínaný pohyb permanentného magnetu, elektromagnetu alebo vodiča s prúdom
 
 ## Podkapitoly
 
-- [[06 Magnetické pole/02 Nestacionárne magnetické pole/01 Magnetický indukčný tok|Magnetický indukčný tok]]
-- [[06 Magnetické pole/02 Nestacionárne magnetické pole/02 Elektromagnetická indukcia|Elektromagnetická indukcia]]
-- [[06 Magnetické pole/02 Nestacionárne magnetické pole/03 Vlastná indukcia|Vlastná indukcia]]
+- [[01 Magnetický indukčný tok|Magnetický indukčný tok]]
+- [[02 Elektromagnetická indukcia|Elektromagnetická indukcia]]
+- [[03 Vlastná indukcia|Vlastná indukcia]]

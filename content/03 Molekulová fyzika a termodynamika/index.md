@@ -9,31 +9,31 @@ title: Molekulová fyzika a termodynamika
 
 #### Základné poznatky
 
-- [[03 Molekulová fyzika a termodynamika/01 Základné poznatky/01 Kinetická teória stavby látok|Kinetická teória stavby látok]]
-- [[03 Molekulová fyzika a termodynamika/01 Základné poznatky/02 Termodynamická sústava|Termodynamická sústava]]
-- [[03 Molekulová fyzika a termodynamika/01 Základné poznatky/03 Vnútorná energia|Vnútorná energia]]
+- [[01 Základné poznatky/01 Kinetická teória stavby látok|Kinetická teória stavby látok]]
+- [[01 Základné poznatky/02 Termodynamická sústava|Termodynamická sústava]]
+- [[01 Základné poznatky/03 Vnútorná energia|Vnútorná energia]]
 
 #### Štruktúra a vlastnosti plynov
 
-- [[03 Molekulová fyzika a termodynamika/02 Štruktúra a vlastnosti plynov/01 Veličiny popisujúce ideálny plyn|Veličiny popisujúce ideálny plyn]]
-- [[03 Molekulová fyzika a termodynamika/02 Štruktúra a vlastnosti plynov/02 Stavova rovnica ideálneho plynu|Stavova rovnica ideálneho plynu]]
-- [[03 Molekulová fyzika a termodynamika/02 Štruktúra a vlastnosti plynov/03 Deje s ideálnym plynom|Deje s ideálnym plynom]]
-- [[03 Molekulová fyzika a termodynamika/02 Štruktúra a vlastnosti plynov/04 Kruhový dej s ideálnym plynom|Kruhový dej s ideálnym plynom]]
+- [[02 Štruktúra a vlastnosti plynov/01 Veličiny popisujúce ideálny plyn|Veličiny popisujúce ideálny plyn]]
+- [[02 Štruktúra a vlastnosti plynov/02 Stavova rovnica ideálneho plynu|Stavova rovnica ideálneho plynu]]
+- [[02 Štruktúra a vlastnosti plynov/03 Deje s ideálnym plynom|Deje s ideálnym plynom]]
+- [[02 Štruktúra a vlastnosti plynov/04 Kruhový dej s ideálnym plynom|Kruhový dej s ideálnym plynom]]
 
 #### Štruktúra a vlastnosti tuhých látok
 
-- [[03 Molekulová fyzika a termodynamika/03 Štruktúra a vlastnosti tuhých látok/01 Deformácia tuhého telesa|Deformácia tuhého telesa]]
-- [[03 Molekulová fyzika a termodynamika/03 Štruktúra a vlastnosti tuhých látok/02 Teplotná rozťažnosť tuhých látok|Teplotná rozťažnosť tuhých látok]]
+- [[03 Štruktúra a vlastnosti tuhých látok/01 Deformácia tuhého telesa|Deformácia tuhého telesa]]
+- [[03 Štruktúra a vlastnosti tuhých látok/02 Teplotná rozťažnosť tuhých látok|Teplotná rozťažnosť tuhých látok]]
 
 #### Štruktúra a vlastnosti kvapalín
 
-- [[03 Molekulová fyzika a termodynamika/04 Štruktúra a vlastnosti kvapalín/01 Povrchové javy|Povrchové javy]]
-- [[03 Molekulová fyzika a termodynamika/04 Štruktúra a vlastnosti kvapalín/02 Kapilárne javy|Kapilárne javy]]
+- [[04 Štruktúra a vlastnosti kvapalín/01 Povrchové javy|Povrchové javy]]
+- [[04 Štruktúra a vlastnosti kvapalín/02 Kapilárne javy|Kapilárne javy]]
 
 #### Premeny skupenstva látok
 
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/01 Vyparovanie, var a kondenzácia|Vyparovanie, var a kondenzácia]]
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/02 Topenie a tuhnutie|Topenie a tuhnutie]]
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/03 Sublimácia a desublimácia|Sublimácia a desublimácia]]
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/04 Fázový diagram|Fázový diagram]]
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/05 Rosný bod|Rosný bod]]
+- [[05 Premeny skupenstva látok/01 Vyparovanie, var a kondenzácia|Vyparovanie, var a kondenzácia]]
+- [[05 Premeny skupenstva látok/02 Topenie a tuhnutie|Topenie a tuhnutie]]
+- [[05 Premeny skupenstva látok/03 Sublimácia a desublimácia|Sublimácia a desublimácia]]
+- [[05 Premeny skupenstva látok/04 Fázový diagram|Fázový diagram]]
+- [[05 Premeny skupenstva látok/05 Rosný bod|Rosný bod]]

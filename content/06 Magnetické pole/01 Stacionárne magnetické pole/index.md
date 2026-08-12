@@ -8,9 +8,9 @@ Stacionárne magnetické pole je magnetické pole, ktorého charakteristické ve
 
 ## Podkapitoly
 
-- [[06 Magnetické pole/01 Stacionárne magnetické pole/01 Magnetické pole permanentného magnetu|Magnetické pole permanentného magnetu]]
-- [[06 Magnetické pole/01 Stacionárne magnetické pole/02 Magnetické pole vodiča s prúdom|Magnetické pole vodiča s prúdom]]
-- [[06 Magnetické pole/01 Stacionárne magnetické pole/03 Magnetická indukcia|Magnetická indukcia]]
-- [[06 Magnetické pole/01 Stacionárne magnetické pole/04 Vodiče s prúdom a ich vzájomné pôsobenie|Vodiče s prúdom a ich vzájomné pôsobenie]]
-- [[06 Magnetické pole/01 Stacionárne magnetické pole/05 Častica s nábojom v magnetickom poli|Častica s nábojom v magnetickom poli]]
-- [[06 Magnetické pole/01 Stacionárne magnetické pole/06 Magnetické vlastnosti látok|Magnetické vlastnosti látok]]
+- [[01 Magnetické pole permanentného magnetu|Magnetické pole permanentného magnetu]]
+- [[02 Magnetické pole vodiča s prúdom|Magnetické pole vodiča s prúdom]]
+- [[03 Magnetická indukcia|Magnetická indukcia]]
+- [[04 Vodiče s prúdom a ich vzájomné pôsobenie|Vodiče s prúdom a ich vzájomné pôsobenie]]
+- [[05 Častica s nábojom v magnetickom poli|Častica s nábojom v magnetickom poli]]
+- [[06 Magnetické vlastnosti látok|Magnetické vlastnosti látok]]

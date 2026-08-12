@@ -14,8 +14,8 @@ Jednotkou elektrického prúdu je **ampér** (A). Je to jedna zo základných fy
 
 ## Podkapitoly
 
-- [[05 Elektrický prúd v látkach/02 Elektrický prúd/01 Jednoduchý elektrický obvod|Jednoduchý elektrický obvod]]
-- [[05 Elektrický prúd v látkach/02 Elektrický prúd/02 Elektrický prúd v kovoch|Elektrický prúd v kovoch]]
-- [[05 Elektrický prúd v látkach/02 Elektrický prúd/03 Elektrický prúd v polovodičoch|Elektrický prúd v polovodičoch]]
-- [[05 Elektrický prúd v látkach/02 Elektrický prúd/04 Elektrický prúd v kvapalinách|Elektrický prúd v kvapalinách]]
-- [[05 Elektrický prúd v látkach/02 Elektrický prúd/05 Elektrický prúd v plynoch|Elektrický prúd v plynoch]]
+- [[01 Jednoduchý elektrický obvod|Jednoduchý elektrický obvod]]
+- [[02 Elektrický prúd v kovoch|Elektrický prúd v kovoch]]
+- [[03 Elektrický prúd v polovodičoch|Elektrický prúd v polovodičoch]]
+- [[04 Elektrický prúd v kvapalinách|Elektrický prúd v kvapalinách]]
+- [[05 Elektrický prúd v plynoch|Elektrický prúd v plynoch]]

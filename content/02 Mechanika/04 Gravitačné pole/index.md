@@ -6,8 +6,8 @@ Gravitačné pole existuje v okolí všetkých hmotných telies a jeho prejavom 
 
 ## Podkapitoly
 
-- [[02 Mechanika/04 Gravitačné pole/01 Newtonov gravitačný zákon|Newtonov gravitačný zákon]]
-- [[02 Mechanika/04 Gravitačné pole/02 Gravitačné zrýchlenie|Gravitačné zrýchlenie]]
-- [[02 Mechanika/04 Gravitačné pole/03 Tiažová sila a tiaž|Tiažová sila a tiaž]]
-- [[02 Mechanika/04 Gravitačné pole/04 Pohyb telies v gravitačnom poli Zeme|Pohyb telies v gravitačnom poli Zeme]]
-- [[02 Mechanika/04 Gravitačné pole/05 Pohyb telies v gravitačnom poli Slnka|Pohyb telies v gravitačnom poli Slnka]]
+- [[01 Newtonov gravitačný zákon|Newtonov gravitačný zákon]]
+- [[02 Gravitačné zrýchlenie|Gravitačné zrýchlenie]]
+- [[03 Tiažová sila a tiaž|Tiažová sila a tiaž]]
+- [[04 Pohyb telies v gravitačnom poli Zeme|Pohyb telies v gravitačnom poli Zeme]]
+- [[05 Pohyb telies v gravitačnom poli Slnka|Pohyb telies v gravitačnom poli Slnka]]

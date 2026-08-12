@@ -12,8 +12,8 @@ title: Premeny skupenstva látok
 
 ## Podkapitoly
 
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/01 Vyparovanie, var a kondenzácia|Vyparovanie, var a kondenzácia]]
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/02 Topenie a tuhnutie|Topenie a tuhnutie]]
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/03 Sublimácia a desublimácia|Sublimácia a desublimácia]]
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/04 Fázový diagram|Fázový diagram]]
-- [[03 Molekulová fyzika a termodynamika/05 Premeny skupenstva látok/05 Rosný bod|Rosný bod]]
+- [[01 Vyparovanie, var a kondenzácia|Vyparovanie, var a kondenzácia]]
+- [[02 Topenie a tuhnutie|Topenie a tuhnutie]]
+- [[03 Sublimácia a desublimácia|Sublimácia a desublimácia]]
+- [[04 Fázový diagram|Fázový diagram]]
+- [[05 Rosný bod|Rosný bod]]

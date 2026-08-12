@@ -6,6 +6,6 @@ Keď v roku 1932 objavil James Chadwick neutrón, zdalo sa, že spolu s protóno
 
 ## Podkapitoly
 
-- [[07 Základy fyziky mikrosveta/04 Fyzika elementárnych častíc/01 Charakteristiky častíc a ich triedenie|Charakteristiky častíc a ich triedenie]]
-- [[07 Základy fyziky mikrosveta/04 Fyzika elementárnych častíc/02 Základné fyzikálne interakcie|Základné fyzikálne interakcie]]
-- [[07 Základy fyziky mikrosveta/04 Fyzika elementárnych častíc/03 Kvarky a súčasný systém častíc|Kvarky a súčasný systém častíc]]
+- [[01 Charakteristiky častíc a ich triedenie|Charakteristiky častíc a ich triedenie]]
+- [[02 Základné fyzikálne interakcie|Základné fyzikálne interakcie]]
+- [[03 Kvarky a súčasný systém častíc|Kvarky a súčasný systém častíc]]

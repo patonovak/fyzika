@@ -6,6 +6,6 @@ title: Jadrová fyzika
 
 ## Podkapitoly
 
-- [[07 Základy fyziky mikrosveta/03 Jadrová fyzika/01 Vlastnosti a zloženie jadier atómov|Vlastnosti a zloženie jadier atómov]]
-- [[07 Základy fyziky mikrosveta/03 Jadrová fyzika/02 Jadrové reakcie|Jadrové reakcie]]
-- [[07 Základy fyziky mikrosveta/03 Jadrová fyzika/03 Rádioaktivita|Rádioaktivita]]
+- [[01 Vlastnosti a zloženie jadier atómov|Vlastnosti a zloženie jadier atómov]]
+- [[02 Jadrové reakcie|Jadrové reakcie]]
+- [[03 Rádioaktivita|Rádioaktivita]]

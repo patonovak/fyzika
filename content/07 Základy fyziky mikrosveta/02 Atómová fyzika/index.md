@@ -14,5 +14,5 @@ Už grécki filozofi Leukippos a jeho žiak Démokritos v 5. storočí pred naš
 
 ## Podkapitoly
 
-- [[07 Základy fyziky mikrosveta/02 Atómová fyzika/01 Modely atómu|Modely atómu]]
-- [[07 Základy fyziky mikrosveta/02 Atómová fyzika/02 Laser|Laser]]
+- [[01 Modely atómu|Modely atómu]]
+- [[02 Laser|Laser]]

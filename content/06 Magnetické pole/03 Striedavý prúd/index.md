@@ -27,9 +27,9 @@ Fázorový diagram je výhodný v tom, že po zakreslení fázorov pre prúd a n
 
 ## Podkapitoly
 
-- [[06 Magnetické pole/03 Striedavý prúd/01 Obvod striedavého prúdu s rezistorom|Obvod striedavého prúdu s rezistorom]]
-- [[06 Magnetické pole/03 Striedavý prúd/02 Obvod striedavého prúdu s cievkou|Obvod stiedavého prúdu s cievkou]]
-- [[06 Magnetické pole/03 Striedavý prúd/03 Obvod striedavého prúdu s kondenzátorom|Obvod striedavého prúdu s kondenzátorom]]
-- [[06 Magnetické pole/03 Striedavý prúd/04 Sériový RLC obvod|Sériový RLC obvod]]
-- [[06 Magnetické pole/03 Striedavý prúd/05 Generátor striedavého napätia|Generátor striedavého napätia]]
-- [[06 Magnetické pole/03 Striedavý prúd/06 Transformátor|Transformátor]]
+- [[01 Obvod striedavého prúdu s rezistorom|Obvod striedavého prúdu s rezistorom]]
+- [[02 Obvod striedavého prúdu s cievkou|Obvod stiedavého prúdu s cievkou]]
+- [[03 Obvod striedavého prúdu s kondenzátorom|Obvod striedavého prúdu s kondenzátorom]]
+- [[04 Sériový RLC obvod|Sériový RLC obvod]]
+- [[05 Generátor striedavého napätia|Generátor striedavého napätia]]
+- [[06 Transformátor|Transformátor]]

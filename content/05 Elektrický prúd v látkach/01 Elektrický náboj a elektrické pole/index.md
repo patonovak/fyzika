@@ -11,8 +11,8 @@ Už v 6. storočí pred naším letopočtom popísal grécky učenec Thales z Mi
 
 ## Podkapitoly
 
-- [[05 Elektrický prúd v látkach/01 Elektrický náboj a elektrické pole/01 Elektrický náboj a jeho vlastnosti|Elektrický náboj a jeho vlastnosti]]
-- [[05 Elektrický prúd v látkach/01 Elektrický náboj a elektrické pole/02 Elektrické pole|Elektrické pole]]
-- [[05 Elektrický prúd v látkach/01 Elektrický náboj a elektrické pole/03 Vodič v elektrickom poli|Vodič v elektrickom poli]]
-- [[05 Elektrický prúd v látkach/01 Elektrický náboj a elektrické pole/04 Izolant v elektrickom poli|Izolant v elektrickom poli]]
-- [[05 Elektrický prúd v látkach/01 Elektrický náboj a elektrické pole/05 Kapacita vodiča a kondenzátor|Kapacita vodiča a kondenzátor]]
+- [[01 Elektrický náboj a jeho vlastnosti|Elektrický náboj a jeho vlastnosti]]
+- [[02 Elektrické pole|Elektrické pole]]
+- [[03 Vodič v elektrickom poli|Vodič v elektrickom poli]]
+- [[04 Izolant v elektrickom poli|Izolant v elektrickom poli]]
+- [[05 Kapacita vodiča a kondenzátor|Kapacita vodiča a kondenzátor]]

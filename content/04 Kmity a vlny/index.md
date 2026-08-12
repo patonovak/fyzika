@@ -9,26 +9,26 @@ title: Kmity a vlny
 
 #### Mechanické kmitanie
 
-- [[04 Kmity a vlny/01 Mechanické kmitanie/01 Kinematika kmitavého pohybu|Kinematika kmitavého pohybu]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/02 Skladanie kmitov|Skladanie kmitov]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/03 Dynamika kmitavého pohybu|Dynamika kmitavého pohybu]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/04 Matematické kyvadlo|Matematické kyvadlo]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/05 Premeny energie v mechanickom oscilátore|Premeny energie v mechanickom oscilátore]]
-- [[04 Kmity a vlny/01 Mechanické kmitanie/06 Nútené kmitanie mechanického oscilátora|Nútené kmitanie mechanického oscilátora]]
+- [[01 Mechanické kmitanie/01 Kinematika kmitavého pohybu|Kinematika kmitavého pohybu]]
+- [[01 Mechanické kmitanie/02 Skladanie kmitov|Skladanie kmitov]]
+- [[01 Mechanické kmitanie/03 Dynamika kmitavého pohybu|Dynamika kmitavého pohybu]]
+- [[01 Mechanické kmitanie/04 Matematické kyvadlo|Matematické kyvadlo]]
+- [[01 Mechanické kmitanie/05 Premeny energie v mechanickom oscilátore|Premeny energie v mechanickom oscilátore]]
+- [[01 Mechanické kmitanie/06 Nútené kmitanie mechanického oscilátora|Nútené kmitanie mechanického oscilátora]]
 
 #### Mechanické vlenie
 
-- [[04 Kmity a vlny/02 Mechanické vlnenie/01 Postupné mechanické vlnenie|Postupné mechanické vlnenie]]
-- [[04 Kmity a vlny/02 Mechanické vlnenie/02 Stojate vlnenie|Stojate vlnenie]]
-- [[04 Kmity a vlny/02 Mechanické vlnenie/03 Vlnenie v izotropnom prostredí|Vlnenie v izotropnom prostredí]]
+- [[02 Mechanické vlnenie/01 Postupné mechanické vlnenie|Postupné mechanické vlnenie]]
+- [[02 Mechanické vlnenie/02 Stojate vlnenie|Stojate vlnenie]]
+- [[02 Mechanické vlnenie/03 Vlnenie v izotropnom prostredí|Vlnenie v izotropnom prostredí]]
 
 #### Akustika
 
-- [[04 Kmity a vlny/03 Akustika/01 Zdroje a vlastnosti zvuku|Zdroje a vlastnosti zvuku]]
-- [[04 Kmity a vlny/03 Akustika/02 Šírenie zvuku|Šírenie zvuku]]
-- [[04 Kmity a vlny/03 Akustika/03 Dopplerov jav|Dopplerov jav]]
+- [[03 Akustika/01 Zdroje a vlastnosti zvuku|Zdroje a vlastnosti zvuku]]
+- [[03 Akustika/02 Šírenie zvuku|Šírenie zvuku]]
+- [[03 Akustika/03 Dopplerov jav|Dopplerov jav]]
 
 #### Elektromagnetické žiarenie
 
-- [[04 Kmity a vlny/04 Elektromagnetické žiarenie/01 Svetlo a jeho vlastnosti|Svetlo a jeho vlastnosti]]
-- [[04 Kmity a vlny/04 Elektromagnetické žiarenie/02 Geometrická optika|Geometrická optika]]
+- [[04 Elektromagnetické žiarenie/01 Svetlo a jeho vlastnosti|Svetlo a jeho vlastnosti]]
+- [[04 Elektromagnetické žiarenie/02 Geometrická optika|Geometrická optika]]

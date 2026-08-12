@@ -12,7 +12,7 @@ Reálne plyny sa svojimi vlastnosťami približujú ideálnemu plynu pri vysokej
 
 ## Podkapitoly
 
-- [[03 Molekulová fyzika a termodynamika/02 Štruktúra a vlastnosti plynov/01 Veličiny popisujúce ideálny plyn|Veličiny popisujúce ideálny plyn]]
-- [[03 Molekulová fyzika a termodynamika/02 Štruktúra a vlastnosti plynov/02 Stavova rovnica ideálneho plynu|Stavova rovnica ideálneho plynu]]
-- [[03 Molekulová fyzika a termodynamika/02 Štruktúra a vlastnosti plynov/03 Deje s ideálnym plynom|Deje s ideálnym plynom]]
-- [[03 Molekulová fyzika a termodynamika/02 Štruktúra a vlastnosti plynov/04 Kruhový dej s ideálnym plynom|Kruhový dej s ideálnym plynom]]
+- [[01 Veličiny popisujúce ideálny plyn|Veličiny popisujúce ideálny plyn]]
+- [[02 Stavova rovnica ideálneho plynu|Stavova rovnica ideálneho plynu]]
+- [[03 Deje s ideálnym plynom|Deje s ideálnym plynom]]
+- [[04 Kruhový dej s ideálnym plynom|Kruhový dej s ideálnym plynom]]

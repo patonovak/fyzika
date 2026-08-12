@@ -110,5 +110,5 @@ V prípade dvojvodičového vedenia je energia šíriaceho sa vlnenia sústreden
 
 ## Podkapitoly
 
-- [[04 Kmity a vlny/04 Elektromagnetické žiarenie/01 Svetlo a jeho vlastnosti|Svetlo a jeho vlastnosti]]
-- [[04 Kmity a vlny/04 Elektromagnetické žiarenie/02 Geometrická optika|Geometrická optika]]
+- [[01 Svetlo a jeho vlastnosti|Svetlo a jeho vlastnosti]]
+- [[02 Geometrická optika|Geometrická optika]]

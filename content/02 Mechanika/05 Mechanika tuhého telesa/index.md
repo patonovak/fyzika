@@ -14,7 +14,7 @@ Tuhé teleso môže vykonávať pohyb **posuvný (translačný)**, **otáčavý 
 
 ## Podkapitoly
 
-- [[02 Mechanika/05 Mechanika tuhého telesa/01 Moment sily|Moment sily]]
-- [[02 Mechanika/05 Mechanika tuhého telesa/02 Ťažisko|Ťažisko]]
-- [[02 Mechanika/05 Mechanika tuhého telesa/03 Statika tuhého telesa|Statika tuhého telesa]]
-- [[02 Mechanika/05 Mechanika tuhého telesa/04 Dynamika tuhého telesa|Dynamika tuhého telesa]]
+- [[01 Moment sily|Moment sily]]
+- [[02 Ťažisko|Ťažisko]]
+- [[03 Statika tuhého telesa|Statika tuhého telesa]]
+- [[04 Dynamika tuhého telesa|Dynamika tuhého telesa]]

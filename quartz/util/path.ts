@@ -1,4 +1,11 @@
 // Re-export shared path utilities from @quartz-community/utils
+import {
+  slugifyFilePath as quartzSlugifyFilePath,
+  slugTag as quartzSlugTag,
+  transformInternalLink as quartzTransformInternalLink,
+  transformLink as quartzTransformLink,
+} from "@quartz-community/utils"
+
 export {
   isFilePath,
   isFullSlug,
@@ -6,7 +13,6 @@ export {
   isRelativeURL,
   isAbsoluteURL,
   getFullSlug,
-  slugifyFilePath,
   simplifySlug,
   joinSegments,
   endsWith,
@@ -18,9 +24,6 @@ export {
   pathToRoot,
   resolveRelative,
   splitAnchor,
-  slugTag,
-  transformInternalLink,
-  transformLink,
   normalizeHastElement,
 } from "@quartz-community/utils"
 
@@ -35,6 +38,26 @@ export type {
 // --- v5-specific exports below ---
 
 export const QUARTZ = "quartz"
+
+export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
+  return quartzSlugifyFilePath(fp.normalize("NFC") as FilePath, excludeExt).normalize("NFC") as FullSlug
+}
+
+export function slugTag(tag: string): string {
+  return quartzSlugTag(tag.normalize("NFC")).normalize("NFC")
+}
+
+export function transformInternalLink(link: string): RelativeURL {
+  return quartzTransformInternalLink(link.normalize("NFC")).normalize("NFC") as RelativeURL
+}
+
+export function transformLink(src: FullSlug, target: string, opts: TransformOptions): RelativeURL {
+  const normalizedSlugs = opts.allSlugs.map((slug) => slug.normalize("NFC") as FullSlug)
+  return quartzTransformLink(src.normalize("NFC") as FullSlug, target.normalize("NFC"), {
+    ...opts,
+    allSlugs: normalizedSlugs,
+  }).normalize("NFC") as RelativeURL
+}
 
 // from micromorph/src/utils.ts
 // https://github.com/natemoo-re/micromorph/blob/main/src/utils.ts#L5

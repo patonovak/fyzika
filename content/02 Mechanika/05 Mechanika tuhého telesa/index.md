@@ -2,9 +2,6 @@
 title: Mechanika dokonale tuhého telesa
 ---
 
-> [!abstract] Kľúčové pojmy
-> dokonale tuhé teleso, otáčavé účinky sily, moment sily, pravidlo pravej ruky, rameno sily, momentová veta, ťažisko a jeho poloha, rovnovážne polohy tuhého telesa, stabilita telesa, kinetická energia rotujúceho telesa, moment zotrvačnosti
-
 Častice telesa na seba navzájom silovo pôsobia silami, ktoré nazývame vnútorné sily. Tie za daných podmienok spôsobujú to, že sa teleso nachádza v istom skupenstve (plynnom, kvapalnom, tuhom).
 
 Tuhé teleso môžeme chápať ako sústavu veľkého počtu hmotných bodov. Častice tuhého telesa sú usporiadané v určitých štruktúrach, pôsobením vonkajších síl sa môže vzdialenosť medzi nimi meniť, hovoríme, že sa teleso deformuje. Doteraz sme skúmali pohyb telesa tak, že sme si ho nahradili hmotným bodom a jeho rozmery sme zanedbali. Nie je to však vždy možné. Skutočné tuhé teleso nahrádzame vo fyzike tzv. dokonale tuhým telesom, pri ktorom predpokladáme, že jeho tvar ani objem sa účinkom ľubovoľne veľkých síl nemení. Je to idealizované teleso, myšlienkový model telesa. V ďalšom texte budeme používať pojem tuhé teleso namiesto celého názvu dokonale tuhé teleso.

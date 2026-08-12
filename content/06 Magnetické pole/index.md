@@ -1,71 +1,32 @@
 ---
-title: VZOR: UPRAV OBSAH ALE ZCHOVAJ ŠTRUKTÚRU
+title: Magnetické pole
 ---
 
 > [!abstract] Kľúčové pojmy
-> hmotný bod, vzťažná sústava, pokoj a pohyb, priemerná a okamžitá rýchlosť, dráha, rovnomerný a nerovnomerný pohyb, zrýchlenie, zrýchlený a spomalený pohyb, voľný pád, rovnomerný pohyb po kružnici, dostredivé zrýchlenie
-
-Spoločne s optikou patrí **mechanika** medzi najstaršie oblasti fyziky. Mechanika je v podstate **náukou o pohybe telies**, zaoberá sa jeho opisom aj jeho príčinami. Základné zákony mechaniky platia len pre rýchlosti telies, ktoré sú omnoho menšie ako je rýchlosť svetla, a pre makroskopické telesá. V prípade malých telies, ako sú atómy alebo elementárne častice, platia zákony kvantovej mechaniky.
-
-Z historického hľadiska môžeme mechaniku rozdeliť na:
-
-- **kinematiku** - opisuje pohyb bez ohľadu na jeho príčiny,
-- **dynamiku** - vysvetľuje príčiny pohybu,
-- **statiku** - vysvetľuje podmienky rovnováhy telies.
-
-Pod pojmom **pohyb** rozumieme premiestňovanie telies vzhľadom k iným telesám v priestore a čase.
-
-V ďalšom texte sa pozrieme bližšie na tieto témy:
-
-- kinematika,
-- dynamika,
-- práca, výkon, energia,
-- gravitačné pole,
-- mechanika tuhého telesa,
-- mechanika tekutín.
+> permanentný magnet, magnetické indukčné čiary, prúdová slučka, magnetka, magnetické pole, magnetická sila, magnetická indukcia, Ampérovo pravidlo pravej ruky, Flemingovo pravidlo ľavej ruky, cievka s prúdom, permeabilita, elektromagnet, feromagnetizmus, paramagnetizmus, diamagnetizmus, magnetický indukčný tok, elektromagnetická indukcia, Faradayov zákon, Lenzov zákon, vlastná indukcia, indukčnosť, energia magnetického poľa cievky, vznik striedavého napätia a prúdu, okamžitá hodnota striedavého napätia a prúdu, výkon striedavého prúdu, efektívna hodnota napätia a prúdu, generátor striedavého prúdu, transformátor, transformačný pomer, trojfázová sústava striedavých napätí, nulovací vodič, trojfázový elektromotor.  
 
 ## Podkapitoly
 
-#### Kinematika
+#### Stacionárne magnetické pole
 
-- [[02 Mechanika/01 Kinematika/01 Mechanický pohyb|Mechanický pohyb]]
-- [[02 Mechanika/01 Kinematika/02 Rýchlosť pohybu|Rýchlosť pohybu]]
-- [[02 Mechanika/01 Kinematika/03 Rovnomerný pohyb po priamke|Rovnomerný pohyb po priamke]]
-- [[02 Mechanika/01 Kinematika/04 Nerovnomerný pohyb po priamke|Nerovnomerný pohyb po priamke]]
-- [[02 Mechanika/01 Kinematika/05 Rovnomerný pohyb po kružnici|Rovnomerný pohyb po kružnici]]
+- [[06 Magnetické pole/01 Stacionárne magnetické pole/01 Magnetické pole permanentného magnetu|Magnetické pole permanentného magnetu]]
+- [[06 Magnetické pole/01 Stacionárne magnetické pole/02 Magnetické pole vodiča s prúdom|Magnetické pole vodiča s prúdom]]
+- [[06 Magnetické pole/01 Stacionárne magnetické pole/03 Magnetická indukcia|Magnetická indukcia]]
+- [[06 Magnetické pole/01 Stacionárne magnetické pole/04 Vodiče s prúdom a ich vzájomné pôsobenie|Vodiče s prúdom a ich vzájomné pôsobenie]]
+- [[06 Magnetické pole/01 Stacionárne magnetické pole/05 Častica s nábojom v magnetickom poli|Častica s nábojom v magnetickom poli]]
+- [[06 Magnetické pole/01 Stacionárne magnetické pole/06 Magnetické vlastnosti látok|Magnetické vlastnosti látok]]
 
-#### Dynamika
+#### Nestacionárne magnetické pole
 
-- [[02 Mechanika/02 Dynamika/01 Vzájomné pôsobenie telies|Vzájomné pôsobenie telies]]
-- [[02 Mechanika/02 Dynamika/02 Newtonove pohybové zákony|Newtonove pohybové zákony]]
-- [[02 Mechanika/02 Dynamika/03 Zákon zachovania hybnosti|Zákon zachovania hybnosti]]
-- [[02 Mechanika/02 Dynamika/04 Dostredivá sila|Dostredivá sila]]
-- [[02 Mechanika/02 Dynamika/05 Trenie a trecia sila|Trenie a trecia sila]]
+- [[06 Magnetické pole/02 Nestacionárne magnetické pole/01 Magnetický indukčný tok|Magnetický indukčný tok]]
+- [[06 Magnetické pole/02 Nestacionárne magnetické pole/02 Elektromagnetická indukcia|Elektromagnetická indukcia]]
+- [[06 Magnetické pole/02 Nestacionárne magnetické pole/03 Vlastná indukcia|Vlastná indukcia]]
 
-#### Práca a energia
+#### Striedavý prúd
 
-- [[02 Mechanika/03 Práca a energia/01 Mechanická práca|Mechanická práca]]
-- [[02 Mechanika/03 Práca a energia/02 Mechanická energia|Mechanická energia]]
-- [[02 Mechanika/03 Práca a energia/03 Výkon, príkon a účinnosť|Výkon, príkon a účinnosť]]
-
-#### Gravitačné pole
-
-- [[02 Mechanika/04 Gravitačné pole/01 Newtonov gravitačný zákon|Newtonov gravitačný zákon]]
-- [[02 Mechanika/04 Gravitačné pole/02 Gravitačné zrýchlenie|Gravitačné zrýchlenie]]
-- [[02 Mechanika/04 Gravitačné pole/03 Tiažová sila a tiaž|Tiažová sila a tiaž]]
-- [[02 Mechanika/04 Gravitačné pole/04 Pohyb telies v gravitačnom poli Zeme|Pohyb telies v gravitačnom poli Zeme]]
-- [[02 Mechanika/04 Gravitačné pole/05 Pohyb telies v gravitačnom poli Slnka|Pohyb telies v gravitačnom poli Slnka]]
-
-#### Mechanika tuhého telesa
-
-- [[02 Mechanika/05 Mechanika tuhého telesa/01 Moment sily|Moment sily]]
-- [[02 Mechanika/05 Mechanika tuhého telesa/02 Ťažisko|Ťažisko]]
-- [[02 Mechanika/05 Mechanika tuhého telesa/03 Statika tuhého telesa|Statika tuhého telesa]]
-- [[02 Mechanika/05 Mechanika tuhého telesa/04 Dynamika tuhého telesa|Dynamika tuhého telesa]]
-
-#### Mechanika tekutín
-
-- [[02 Mechanika/06 Mechanika kvapalín a plynov/01 Tlak v tekutine|Tlak v tekutine]]
-- [[02 Mechanika/06 Mechanika kvapalín a plynov/02 Archimedov zákon|Archimedov zákon]]
-- [[02 Mechanika/06 Mechanika kvapalín a plynov/03 Dynamika tekutín|Dynamika tekutín]]
-- [[02 Mechanika/06 Mechanika kvapalín a plynov/04 Prúdenie reálnej tekutiny|Prúdenie reálnej tekutiny]]
+- [[06 Magnetické pole/03 Striedavý prúd/01 Obvod striedavého prúdu s rezistorom|Obvod striedavého prúdu s rezistorom]]
+- [[06 Magnetické pole/03 Striedavý prúd/02 Obvod striedavého prúdu s cievkou|Obvod stiedavého prúdu s cievkou]]
+- [[06 Magnetické pole/03 Striedavý prúd/03 Obvod striedavého prúdu s kondenzátorom|Obvod striedavého prúdu s kondenzátorom]]
+- [[06 Magnetické pole/03 Striedavý prúd/04 Sériový RLC obvod|Sériový RLC obvod]]
+- [[06 Magnetické pole/03 Striedavý prúd/05 Generátor striedavého napätia|Generátor striedavého napätia]]
+- [[06 Magnetické pole/03 Striedavý prúd/06 Transformátor|Transformátor]]

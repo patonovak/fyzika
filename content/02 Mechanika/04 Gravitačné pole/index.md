@@ -2,9 +2,6 @@
 title: Gravitačné pole
 ---
 
-> [!abstract] Kľúčové pojmy
-> Newtonov gravitačný zákon, gravitačná sila, gravitačná konštanta, gravitačné a tiažové pole, gravitačné a tiažové zrýchlenie, tiaž, stav bez tiaže, voľný pád, zvislý vrh nahor, vodorovný vrh, šikmý vrh nahor, pohyb v radiálnom gravitačnom poli, prvá a druhá kozmická rýchlosť, Keplerove zákony
-
 Gravitačné pole existuje v okolí všetkých hmotných telies a jeho prejavom je silové pôsobenie na iné telesá. Nám je najznámejšie gravitačné pole Zeme. Gravitácia je všeobecná vlastnosť telies, resp. fyzikálny jav vzájomného pôsobenia hmotných objektov na diaľku sprostredkovaného vlastným gravitačným poľom.
 
 ## Podkapitoly

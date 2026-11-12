@@ -6,7 +6,7 @@ const layouts: Record<string, { tag: string; classes: string[] }> = figureLayout
 
 // Keep the Markdown native to Obsidian. Restore the legacy website layout
 // for migrated illustrations without putting formatting markers in the notes.
-export function restoreFigureLayout(tree: Root) {
+export function restoreFigureLayout(tree: Root, file?: { data: { slug?: string } }) {
   function walk(parent: Root | Element) {
     for (const node of parent.children) {
       if (node.type !== "element") continue
@@ -17,6 +17,10 @@ export function restoreFigureLayout(tree: Root) {
           const src = image.properties.src
           const key = src.slice(src.indexOf("images/"))
           const layout = layouts[key]
+          if (layout && file?.data.slug && !/^[a-z]+:/i.test(src)) {
+            const depth = file.data.slug.split("/").length - 1
+            image.properties.src = (depth ? "../".repeat(depth) : "./") + key
+          }
           // Only style standalone image paragraphs, never inline illustrations.
           const before = node.children.slice(0, index)
           if (layout && before.every((c) => c.type === "text" && !c.value.trim())) {

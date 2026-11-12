@@ -35,9 +35,7 @@ V tomto vzťahu je $R = k \cdot N_\mathrm{A} \approx 8{,}314\ \mathrm{J \cdot K^
 > \bar v = \sqrt{\frac{8kT}{\pi m_0}} = \sqrt{\frac{8RT}{\pi M_\mathrm{m}}}
 > $$
 >
-> <p class="measurement-figure callout-figure no-extra-frame">
->   <img src="/static/images/maxwellovo_boltzmannovo_rozdelenie.png" alt="Maxwellovo-Boltzmannovo rozdelenie rýchlostí molekúl plynu" width="400">
-> </p>
+> ![[images/maxwellovo_boltzmannovo_rozdelenie.png|Maxwellovo-Boltzmannovo rozdelenie rýchlostí molekúl plynu|400]]
 >
 > **Obr. 2.2.1.** Maxwellovo-Boltzmannovo rozdelenie rýchlostí molekúl plynu.
 >

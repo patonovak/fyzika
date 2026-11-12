@@ -10,7 +10,5 @@ $$
 
 Veličinu $X_L$ nazývame **induktancia** cievky a jej jednotkou je **ohm** ($\Omega$). Vidíme, že súvisí s indukčnosťou danej cievky $L$ a uhlovou frekvenciou striedavého prúdu.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-2-cievka.png" alt="Obvod striedavého prúdu s cievkou, fázorový a časový diagram">
-  <figcaption>Obr. 5.3.2: Obvod striedavého prúdu s cievkou, prúd sa oneskoruje za napätím, resp. napätie predbieha prúd, pričom fázový posun je $\varphi = \pi/2$.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-2-cievka.png|Obvod striedavého prúdu s cievkou, fázorový a časový diagram]]
+Obr. 5.3.2: Obvod striedavého prúdu s cievkou, prúd sa oneskoruje za napätím, resp. napätie predbieha prúd, pričom fázový posun je $\varphi = \pi/2$.

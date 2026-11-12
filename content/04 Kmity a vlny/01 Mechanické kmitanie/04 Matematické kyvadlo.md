@@ -8,9 +8,7 @@ title: Matematické kyvadlo
 
 Na závažie kyvadla pôsobí vlákno ťahovou silou $\vec F_\mathrm{t}$ a Zem tiažovou silou $\vec F_\mathrm{G}$, ktorú je vhodné rozložiť na radiálnu zložku $\vec F_\mathrm{G1}$ a normálovú zložku $\vec F_\mathrm{G2}$. Práve radiálna zložka tiažovej sily $\vec F_\mathrm{G1}$ je príčinou vlastných kmitov kyvadla.
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/matematicke_kyvadlo.png" alt="Sily pôsobiace na závažie matematického kyvadla" width="400">
-</p>
+![[images/matematicke_kyvadlo.png|Sily pôsobiace na závažie matematického kyvadla|400]]
 
 > **Obr. 3.1.8.** Na závažie kyvadla pôsobí Zem tiažovou silou, ktorú rozkladáme na dve zložky, a vlákno ťahovou silou.
 

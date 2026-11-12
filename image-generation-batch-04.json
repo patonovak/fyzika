@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-11",
+  "batch": "04-gravitacne-pole",
+  "mode": "deterministic scientific diagrams rendered from SVG to PNG with sharp",
+  "generator": "scripts/generate-gravity-batch-04.mjs",
+  "assets": [
+    "gravitacny_zakon.png",
+    "radialne_vs_homogenne_g.png",
+    "zvisly_vrh.png",
+    "vodorovny_vrh.png",
+    "sikmy_vrh.png",
+    "kruhova_rychlost.png",
+    "kruhova_rychlost_gravitacny_zakon.png"
+  ],
+  "validation": [
+    "Equal opposite attractive gravitational force arrows; distance measured between centers.",
+    "Vertical throw: v0=20, g=10 -> H=20, ascent time=2, total flight=4.",
+    "Horizontal throw: h=20, vx=10, g=10 -> impact t=2, range=20; origin on ground, vy=-gt.",
+    "Oblique throw: vx0=10, vy0=15, g=10 -> range=30, H=11.25, angle=56.31 degrees.",
+    "Circular orbit: v tangent, F inward and perpendicular; v^2=GM/r."
+  ],
+  "notes": "Instructional schematics; body sizes not to astronomical scale."
+}

@@ -4,9 +4,7 @@ title: Mechanický pohyb
 
 **Pokoj** aj **pohyb** telesa sú relatívne pojmy. Otázka, či je teleso v pokoji alebo v pohybe, nemá zmysel, kým sa nespýtame, vzhľadom na čo má pohyb prebiehať. Teleso, vzhľadom ku ktorému určujeme pohyb alebo pokoj telesa, je **vzťažné teleso**.
 
-<p class="measurement-figure">
-  <img src="/static/images/pohyb_pokoj.png" alt="Pohyb a pokoj" width="400">
-</p>
+![[images/pohyb_pokoj.png|Pohyb a pokoj|400]]
 
 > **Obr. 1.1.1.** Dievča sediace vo vlaku je vzhľadom k vlaku v pokoji, ale vzhľadom k miestu na povrchu Zeme je v pohybe.
 
@@ -20,9 +18,7 @@ Mechanický pohyb súvisí so zmenou polohy telesa. Popísať presne polohu makr
 **Polohu hmotného bodu v priestore** určíme pomocou troch súradnicových osí $x$, $y$ a $z$, ktoré sú navzájom kolmé a pretínajú sa vo vzťažnom bode O. Bod O nazývame počiatok súradnicovej sústavy O$xyz$. Poloha hmotného bodu je tak jednoznačne určená jeho súradnicami.
 
 
-<p class="measurement-figure">
-  <img src="/static/images/polohahb.png" alt="Poloha hmotného bodu" width="400">
-</p>
+![[images/polohahb.png|Poloha hmotného bodu|400]]
 
 > **Obr. 1.1.2.** Poloha hmotného bodu v rovine (priestore) je jednoznačne určená jeho súradnicami $x$ a $y$ ($x$, $y$ a $z$) v pravouhlej sústave súradníc.
 
@@ -31,9 +27,7 @@ Vzťažné teleso spojené so súradnicovou sústavou tvorí tzv. **vzťažnú s
 > [!note] Rozširujúce učivo: Polohový vektor
 > Polohu hmotného bodu vzhľadom na zvolený vzťažný bod O môžeme určiť pomocou vektora, ktorého počiatočný bod je v bode O. Koncový bod tohto vektora ukazuje polohu telesa v rovine alebo priestore. Takýto vektor nazývame **polohový vektor**.
 >
-> <p class="measurement-figure callout-figure">
->   <img src="/static/images/polohovy_vektor.png" alt="Polohový vektor" width="400">
-> </p>
+> ![[images/polohovy_vektor.png|Polohový vektor|400]]
 >
 > **Obr. 1.1.3.** Polohový vektor $\vec r$.
 >
@@ -48,8 +42,6 @@ Fyzikálna veličina, ktorá udáva **dĺžku trajektórie**, sa nazýva **dráh
 
 Graf závislosti dráhy od času je graf, na ktorého vodorovnú os nanášame údaje o **čase** ako nezávislej premennej veličine. Na zvislú os vynášame **dráhu** prejdenú hmotným bodom v konkrétnom čase pohybu ako závislú premennú veličinu. Vykreslená funkcia tak predstavuje závislosť dráhy prejdenej hmotným bodom od času, teda $s(t)$.
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/draha.png" alt="Prejdená dráha" width="500">
-</p>
+![[images/draha.png|Prejdená dráha|500]]
 
 > **Obr. 1.1.4.** Zaznamenané prejdené dráhy v jednotlivých časoch môžeme vyniesť do grafu závislosti dráhy od času.

@@ -12,10 +12,8 @@ title: Mechanické vlenie
 
 2. **Stojaté mechanické vlnenie** vzniká zložením priamej a odrazenej vlny, ktoré postupujú proti sebe. Toto vlnenie je obmedzené na určitý priestor, neprenáša energiu, len sa pri ňom premieňa kinetická energia na potenciálnu a opačne (príkladom je napr. vlnenie gitarovej struny).
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/postupne_priecne_a_pozdlzne_mechanicke_vlnenie.png" alt="Postupné priečne a postupné pozdĺžne mechanické vlnenie">
-  <figcaption>Obr. 3.2.1. Postupné priečne mechanické vlnenie (vľavo) a postupné pozdĺžne mechanické vlnenie (vpravo).</figcaption>
-</figure>
+![[images/postupne_priecne_a_pozdlzne_mechanicke_vlnenie.png|Postupné priečne a postupné pozdĺžne mechanické vlnenie]]
+Obr. 3.2.1. Postupné priečne mechanické vlnenie (vľavo) a postupné pozdĺžne mechanické vlnenie (vpravo).
 
 
 ## Podkapitoly

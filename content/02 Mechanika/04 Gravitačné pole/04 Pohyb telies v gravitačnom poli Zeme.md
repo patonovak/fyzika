@@ -31,9 +31,7 @@ $$
 h = v_0t - \frac{1}{2}gt^2.
 $$
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/zvisly_vrh.png" alt="Zvislý vrh nahor" width="500">
-</p>
+![[images/zvisly_vrh.png|Zvislý vrh nahor|500]]
 
 > **Obr. 1.4.3.** Zvislý vrh nahor v homogénnom tiažovom poli Zeme.
 
@@ -88,9 +86,7 @@ $$
 v = \sqrt{v_0^2 + g^2t^2}.
 $$
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/vodorovny_vrh.png" alt="Vodorovný vrh" width="500">
-</p>
+![[images/vodorovny_vrh.png|Vodorovný vrh|500]]
 
 > **Obr. 1.4.4.** Vodorovný vrh ako zložený pohyb s vodorovnou a zvislou zložkou.
 
@@ -120,9 +116,7 @@ $$
 v_y = v_0\sin\alpha - gt.
 $$
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/sikmy_vrh.png" alt="Šikmý vrh nahor" width="500">
-</p>
+![[images/sikmy_vrh.png|Šikmý vrh nahor|500]]
 
 > **Obr. 1.4.5.** Rozklad počiatočnej rýchlosti pri šikmom vrhu nahor.
 
@@ -161,9 +155,7 @@ Pohyby telesa v radiálnom (centrálnom) gravitačnom poli Zeme sú pohyby, ktor
 
 Významné sú najmä tie pohyby, pri ktorých je telesu udelená počiatočná rýchlosť v smere kolmom na smer gravitačnej sily, ktorá na teleso pôsobí. Pri určitej hodnote tejto počiatočnej rýchlosti opisuje teleso kružnicu a voláme ju **kruhová rýchlosť** $\vec v_k$. Pohybujú sa ňou niektoré umelé družice okolo Zeme.
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/kruhova_rychlost.png" alt="Kruhová rýchlosť telesa okolo Zeme" width="500">
-</p>
+![[images/kruhova_rychlost.png|Kruhová rýchlosť telesa okolo Zeme|500]]
 
 > **Obr. 1.4.6.** Pohyb telesa po kružnici okolo Zeme pri kruhovej rýchlosti.
 
@@ -181,9 +173,7 @@ $$
 
 Keďže platí $F_g = F_d$, dostaneme po dosadení a úpravách vzťah pre veľkosť kruhovej rýchlosti
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/kruhova_rychlost_gravitacny_zakon.png" alt="Odvodenie kruhovej rýchlosti z gravitačnej a dostredivej sily" width="500">
-</p>
+![[images/kruhova_rychlost_gravitacny_zakon.png|Odvodenie kruhovej rýchlosti z gravitačnej a dostredivej sily|500]]
 
 > **Obr. 1.4.7.** Odvodenie kruhovej rýchlosti porovnaním gravitačnej a dostredivej sily.
 

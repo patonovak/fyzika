@@ -4,9 +4,7 @@ title: Pohyb telies v gravitačnom poli Slnka
 
 Keplerove zákony popisujú pohyb telies v centrálnom gravitačnom poli Slnka. Formuloval ich v 17. storočí nemecký matematik a astronóm **Johannes Kepler** na základe meraní astronóma **Tycha de Brahe**.
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/kepler.png" alt="Portrét Johannesa Keplera" width="500">
-</p>
+![[images/kepler.png|Portrét Johannesa Keplera|500]]
 
 > **Obr. 1.4.8.** Johannes Kepler, autor zákonov opisujúcich pohyb planét.
 
@@ -18,9 +16,7 @@ Keplerove zákony popisujú pohyb telies v centrálnom gravitačnom poli Slnka. 
 
 **Obsahy plôch opísané sprievodičom planéty za jednotku času sú konštantné.** Iná formulácia: **plošné rýchlosti planét sú konštantné**.
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/druhy_keplerov_zakon.png" alt="Druhý Keplerov zákon" width="500">
-</p>
+![[images/druhy_keplerov_zakon.png|Druhý Keplerov zákon|500]]
 
 > **Obr. 1.4.9.** Druhý Keplerov zákon: plochy opísané sprievodičom za rovnaké časy sú rovnaké.
 

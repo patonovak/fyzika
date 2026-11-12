@@ -34,8 +34,6 @@ $$
 
 Celková energia kmitania mechanického oscilátora je konštantná a v každom okamihu sa rovná súčtu kinetickej a potenciálnej energie, ak neberieme do úvahy straty energie. Takéto kmitanie, pri ktorom sa amplitúda kmitov nemení, sa nazýva **netlmené kmitanie**. V skutočnosti však vždy dochádza ku stratám energie a amplitúda kmitov sa postupne zmenšuje, až kmitanie oscilátora zanikne. Takéto kmitanie nazývame **tlmené kmitanie** oscilátora.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/energia_a_tlmene_kmitanie_oscilatora.png" alt="Premeny energie a tlmené kmity mechanického oscilátora" width="500">
-</p>
+![[images/energia_a_tlmene_kmitanie_oscilatora.png|Premeny energie a tlmené kmity mechanického oscilátora|500]]
 
 > **Obr. 3.1.9.** Časový diagram potenciálnej a kinetickej energie netlmených kmitov mechanického oscilátora (vľavo). Časový diagram tlmených kmitov mechanického oscilátora (vpravo).

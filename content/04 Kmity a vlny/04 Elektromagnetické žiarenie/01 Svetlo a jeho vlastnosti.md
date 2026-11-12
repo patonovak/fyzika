@@ -26,10 +26,8 @@ Rozlišujeme preto niekoľko druhov prostredí:
 - **Priesvitné prostredie.** Svetlo týmto prostredím prechádza, je však rozptýlené do mnohých smerov. Priesvitným prostredím je napr. matné sklo.
 - **Nepriehľadné prostredie.** Svetlo neprepúšťa, buď ho pohlcuje alebo ho odráža. Medzi nepriehľadné optické prostredia patrí napr. drevená doska.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/opticke_prostredia.png" alt="Priehľadné a priesvitné optické prostredie">
-  <figcaption>Obr. 3.4.8. Priehľadné optické prostredie (sklo) a priesvitné optické prostredie (matné sklo).</figcaption>
-</figure>
+![[images/opticke_prostredia.png|Priehľadné a priesvitné optické prostredie]]
+Obr. 3.4.8. Priehľadné optické prostredie (sklo) a priesvitné optické prostredie (matné sklo).
 
 ## Odraz a lom svetla
 
@@ -43,10 +41,8 @@ $$
 
 Uhol odrazu svetla sa rovná uhlu dopadu. Odrazený lúč leží v rovine dopadu. Uhol dopadu a odrazu meriame od kolmice dopadu.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/zakon_odrazu_svetla.png" alt="Zákon odrazu svetla">
-  <figcaption>Obr. 3.4.9. K zákonu odrazu svetla.</figcaption>
-</figure>
+![[images/zakon_odrazu_svetla.png|Zákon odrazu svetla]]
+Obr. 3.4.9. K zákonu odrazu svetla.
 
 **Zákon lomu svetla (Snellov zákon)**
 
@@ -58,10 +54,8 @@ $$
 
 Ak svetlo prechádza z opticky redšieho prostredia (s menším absolútnym indexom lomu) do opticky hustejšieho prostredia, dochádza k lomu ku kolmici a platí $\beta < \alpha$. Ak svetlo prechádza z opticky hustejšieho do opticky redšieho prostredia, dochádza k lomu od kolmice a platí uhol $\beta > \alpha$.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/lom_svetla.png" alt="Lom svetla ku kolmici, od kolmice a medzný uhol">
-  <figcaption>Obr. 3.4.10. Lom svetla ku kolmici, od kolmice a prípad medzného uhla.</figcaption>
-</figure>
+![[images/lom_svetla.png|Lom svetla ku kolmici, od kolmice a medzný uhol]]
+Obr. 3.4.10. Lom svetla ku kolmici, od kolmice a prípad medzného uhla.
 
 V prípade lomu od kolmice (pri prechode svetla z opticky hustejšieho do opticky redšieho prostredia) možno nájsť taký uhol dopadu $\alpha_m$, kedy uhol lomu je pravý $\beta = 90^\circ$. Nazývame ho **medzný uhol**. Pri uhloch dopadu väčších ako je medzný uhol $\alpha > \alpha_m$ sa svetlo už neláme, ale celé sa od daného prostredia odrazí. Tomuto javu hovoríme **úplný odraz** (totálna reflexia). Ak je redším prostredím vzduch s indexom lomu $n_2 \doteq 1$, pre medzný uhol platí vzťah
 
@@ -73,10 +67,8 @@ $$
 
 Pri dopade bieleho svetla na optický hranol sa svetlo láme a vzniká sústava farebných pruhov, ktorú nazývame **svetelné spektrum**. Svetlo rôznych farieb (teda aj frekvencií) sa v danom prostredí šíri rôznou rýchlosťou, má rôzne indexy lomu. Monofrekvenčné zložky sa preto lámu pod rôznymi uhlami lomu, najviac sa láme lúč fialového svetla, najmenej lúč červeného svetla. **Disperzia svetla** je závislosť veľkosti rýchlosti svetla v danom prostredí (jeho indexu lomu) od frekvencie svetla. Pri tzv. normálnej disperzii sa index lomu s rastúcou frekvenciou zväčšuje.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/disperzia_svetla.png" alt="Disperzia svetla">
-  <figcaption>Obr. 3.4.11. Disperzia svetla.</figcaption>
-</figure>
+![[images/disperzia_svetla.png|Disperzia svetla]]
+Obr. 3.4.11. Disperzia svetla.
 
 Zložením farebných zložiek vzniká opäť biele svetlo. Svetlo s jednou frekvenciou je **monofrekvenčné svetlo** (monochromatické svetlo). Prechodom svetla rôznymi prostrediami sa jeho frekvencia nemení. Pre farebný vnem je podstatná frekvencia svetla, nie jeho vlnová dĺžka. Tá sa totiž prechodom do iného prostredia mení. Ak je vlnová dĺžka svetla vo vákuu $\lambda_0$, je vlnová dĺžka $\lambda$ v prostredí s indexom lomu $n$
 
@@ -92,10 +84,8 @@ Podobne ako pri mechanickom vlnení, aj dve a viaceré elektromagnetické vlny (
 
 Pri osvetlení dvojštrbiny (dvoch štrbín, každá s šírkou $d$) monofrekvenčným svetlom s vlnovou dĺžkou $\lambda$ sa stávajú tieto štrbiny zdrojom dvoch koherentných vlnení, ktoré sa skladajú na tienidle. Za podmienky $d \sim \lambda$ vzniká **interferenčný obrazec** a na tienidle pozorujeme tmavé a svetlé pruhy. Ide o interferenčné minimá a maximá.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/interferencia_na_dvojstrbine.png" alt="Interferencia svetla na dvojštrbine">
-  <figcaption>Obr. 3.4.12. Štrbiny Š<sub>1</sub> a Š<sub>2</sub> sa stávajú zdrojom monofrekvenčných vlnení, ktoré na tienidle vytvárajú interferenčný obrazec.</figcaption>
-</figure>
+![[images/interferencia_na_dvojstrbine.png|Interferencia svetla na dvojštrbine]]
+Obr. 3.4.12. Štrbiny Š<sub>1</sub> a Š<sub>2</sub> sa stávajú zdrojom monofrekvenčných vlnení, ktoré na tienidle vytvárajú interferenčný obrazec.
 
 Ak sa vlnenia stretávajú s rovnakou fázou, pozorujeme na tienidle svetlé miesto, ide o interferenčné maximum. Za predpokladu, že dráhový rozdiel vlnení je $\Delta l$, je podmienka pre vznik maxima
 
@@ -115,10 +105,8 @@ Odraz svetla na rozhraní dvoch prostredí môže mať v závislosti od ich inde
 
 Pri odraze na opticky redšom prostredí ani pri lome vlnenia nedochádza k fázovému posunu. Možno tak pozorovať interferenciu aj na tenkej vrstve hrúbky $d$ (môže to byť napr. tenká vrstvička vody na povrchu bubliny). Lúč A dopadá na horné rozhranie, čiastočne sa odráža (lúč B) a čiastočne prechádza vrstvou s indexom lomu $n$ a odráža sa od dolného rozhrania (lúč C).
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/interferencia_na_tenkej_vrstve.png" alt="Interferencia na tenkej vrstve">
-  <figcaption>Obr. 3.4.13. Interferencia na tenkej vrstve. Jej prejavom sú napr. dúhové farby na mydlových bublinách, dúhové farby vo vrstvičke oleja vyliateho na ceste alebo sfarbenie krídiel malého hmyzu.</figcaption>
-</figure>
+![[images/interferencia_na_tenkej_vrstve.png|Interferencia na tenkej vrstve]]
+Obr. 3.4.13. Interferencia na tenkej vrstve. Jej prejavom sú napr. dúhové farby na mydlových bublinách, dúhové farby vo vrstvičke oleja vyliateho na ceste alebo sfarbenie krídiel malého hmyzu.
 
 Lúč B sa odráža na opticky hustejšom prostredí a prináša tak so sebou dodatočný fázový posun rovný polovici vlnovej dĺžky. Následne môžu lúče B a C spolu interferovať. Ak sa lúče B a C stretnú s rovnakou fázou, vzniká interferenčné maximum. Podmienkou vzniku interferenčného maxima je
 
@@ -134,10 +122,8 @@ $$
 
 V týchto vzťahoch $k = 1, 2, 3, ...$ určuje **rád interferenčného maxima (minima)**. Jav interferencie svetla využívame pri meraní vlnovej dĺžky svetla Newtonovými sklami, kontrole rovinných a guľových plôch a mnohých ďalších situáciách.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/newtonove_skla.png" alt="Newtonove sklá">
-  <figcaption>Obr. 3.4.14. Newtonove sklá sú tvorené sklenenou doskou s rovnobežnými doskami a šošovkou, medzi ktorými je vrstvička vzduchu. Interferenčný obrazec má podobu kruhov, ktoré nazývame Newtonove kruhy.</figcaption>
-</figure>
+![[images/newtonove_skla.png|Newtonove sklá]]
+Obr. 3.4.14. Newtonove sklá sú tvorené sklenenou doskou s rovnobežnými doskami a šošovkou, medzi ktorými je vrstvička vzduchu. Interferenčný obrazec má podobu kruhov, ktoré nazývame Newtonove kruhy.
 
 ## Difrakcia svetla
 
@@ -151,10 +137,8 @@ $$
 
 V tomto vzťahu $k = 0, \pm 1, \pm 2, ...$ určuje **rád maxima** a $\alpha_k$ určuje smer, v ktorom maximum vznikne. Ak na mriežku dopadá biele svetlo, je nulté maximum biele, ale v ďalších interferenčných maximách možno pozorovať rozklad svetla.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/difrakcia_svetla_na_optickej_mriezke.png" alt="Difrakcia svetla na optickej mriežke">
-  <figcaption>Obr. 3.4.15. Difrakcia svetla na optickej mriežke. V prípade bieleho svetla je nulté maximum biele a v ďalších maximách možno pozorovať rozklad svetla na farebné zložky.</figcaption>
-</figure>
+![[images/difrakcia_svetla_na_optickej_mriezke.png|Difrakcia svetla na optickej mriežke]]
+Obr. 3.4.15. Difrakcia svetla na optickej mriežke. V prípade bieleho svetla je nulté maximum biele a v ďalších maximách možno pozorovať rozklad svetla na farebné zložky.
 
 > [!example] Príklad 3.4.1: Interferencia na tenkej vrstve
 > Index lomu tenkej interferenčnej doštičky je 1,5. Vypočítajte, ktorá farba svetla sa interferenciou naruší, ak doštičku osvetlíme bielym svetlom. Pre akú vlnovú dĺžku nastane naopak zosilnenie v odrazenom smere? Hrúbka doštičky je 0,125 μm.
@@ -181,10 +165,8 @@ V tomto vzťahu $k = 0, \pm 1, \pm 2, ...$ určuje **rád maxima** a $\alpha_k$ 
 
 Svetlo je elektromagnetické vlnenie, ktoré je postupné a priečne. Vektor intenzity elektrického poľa $\vec{E}$ kmitá kolmo na smer šírenia vlnenia. Ak je svetlo **nepolarizované**, mení tento vektor svoj smer. V prípade **lineárne polarizovaného svetla** kmitá vektor intenzity elektrického poľa v jednej rovine.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/polarizacia_svetla.png" alt="Správanie vektora intenzity elektrického poľa">
-  <figcaption>Obr. 3.4.16. Správanie vektora intenzity elektrického poľa v prípade nepolarizovaného svetla a v prípade svetla lineárne polarizovaného (kmitá v jednej rovine).</figcaption>
-</figure>
+![[images/polarizacia_svetla.png|Správanie vektora intenzity elektrického poľa]]
+Obr. 3.4.16. Správanie vektora intenzity elektrického poľa v prípade nepolarizovaného svetla a v prípade svetla lineárne polarizovaného (kmitá v jednej rovine).
 
 Nepolarizované svetlo možno polarizovať hneď niekoľkými spôsobmi, najznámejšie sú polarizácia odrazom, polarizácia polaroidom a polarizácia dvojlomom.
 
@@ -192,25 +174,19 @@ Nepolarizované svetlo možno polarizovať hneď niekoľkými spôsobmi, najzná
 
 Pri odraze nepolarizovaného svetla na rozhraní dvoch prostredí možno získať svetlo lineárne polarizované, ak dopadne pod určitým uhlom, ktorý nazývame **Brewsterov uhol** $\alpha_B$. Vektor intenzity elektrického poľa odrazeného vlnenia kmitá v rovine kolmej na rovinu dopadu. Pri lome je svetlo polarizované len čiastočne, a to rovnobežne s rovinou dopadu.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/polarizacia_svetla_odrazom.png" alt="Polarizácia svetla odrazom">
-  <figcaption>Obr. 3.4.17. Pri odraze svetla pod Brewsterovým uhlom dopadu je odrazené svetlo lineárne polarizované.</figcaption>
-</figure>
+![[images/polarizacia_svetla_odrazom.png|Polarizácia svetla odrazom]]
+Obr. 3.4.17. Pri odraze svetla pod Brewsterovým uhlom dopadu je odrazené svetlo lineárne polarizované.
 
 - **Polarizácia svetla polaroidom**
 
 Na polarizáciu svetla sa používajú špeciálne polarizačné filtre, ktoré nazývame **polaroidy**. Sú to tenké fólie polymérnych látok s molekulami usporiadanými tak, aby boli navzájom čo najviac rovnobežné. Svetlo prechádzajúce takýmto **polarizátorom** je lineárne polarizované. Po priložení a natočení druhého polarizačného filtra (**analyzátor**) pozorujeme, že svetlo prakticky neprechádza.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/polarizacia_svetla_polarizacnym_filtrom.png" alt="Polarizácia svetla polarizačným filtrom">
-  <figcaption>Obr. 3.4.18. Polarizácia svetla polarizačným filtrom.</figcaption>
-</figure>
+![[images/polarizacia_svetla_polarizacnym_filtrom.png|Polarizácia svetla polarizačným filtrom]]
+Obr. 3.4.18. Polarizácia svetla polarizačným filtrom.
 
 - **Polarizácia svetla dvojlomom**
 
 Kryštály niektorých látok sú anizotropné (rýchlosť šírenia svetla je v rôznych smeroch rôzna). Ak na takýto kryštál dopadá svetlo, rozdelí sa na dva lúče: **lúč riadny** a **lúč mimoriadny**. Obidva lúče sú lineárne polarizované, vektory intenzity elektrického poľa však kmitajú v rovinách na seba kolmých. Minerál, ktorý má takúto vlastnosť, je napr. islandský vápenec. Kresbu pod týmto kryštálom vidíme zdvojenú. Známym polarizátorom je tzv. Nikolov hranol. Ide o kosý hranol islandského vápenca, ktorý je diagonálne prerezaný a následne zlepený kanadským balzamom. Index lomu riadneho lúča je v tomto hranole taký veľký, že na rozhraní hranola a balzamu dochádza k jeho úplnému odrazu a absorpcii. Hranolom tak prechádza len lúč mimoriadny, ktorý je lineárne polarizovaný.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/polarizacia_dvojlomom.png" alt="Polarizácia dvojlomom islandským vápencom">
-  <figcaption>Obr. 3.4.19. Polarizácia dvojlomom islandským vápencom.</figcaption>
-</figure>
+![[images/polarizacia_dvojlomom.png|Polarizácia dvojlomom islandským vápencom]]
+Obr. 3.4.19. Polarizácia dvojlomom islandským vápencom.

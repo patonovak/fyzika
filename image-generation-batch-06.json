@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-11",
+  "batch": "06-idealny-plyn",
+  "mode": "Scientific plots calculated from equations, SVG rendered to PNG with sharp",
+  "assets": [
+    "adiabata.png",
+    "izobara.png",
+    "izochora.png",
+    "izoterma_praca_plynu.png",
+    "maxwellovo_boltzmannovo_rozdelenie.png",
+    "praca_plynu.png"
+  ],
+  "generator": "scripts/generate-gases-batch-06.mjs",
+  "validation": [
+    "Maxwell density: 4/sqrt(pi)*u^2*t^(-3/2)*exp(-u^2/t), t=1,2,4; numerical integrals over [0,16] all within 1e-12 of one.",
+    "Constant p=200 kPa, V=1 to 3 L -> W=400 J. Linear pressure 300 to 100 kPa on same interval -> W=400 J.",
+    "Isotherm p=300/V kPa -> W=300 ln 3=329.5836866 J.",
+    "Isochore V=2 L, p/T=0.5 kPa/K; isobar p=200 kPa, V/T=0.005 L/K.",
+    "Adiabatic expansion p=300/V^1.4 compared to isotherm p=300/V from common initial V=1 L."
+  ],
+  "notes": "PNG names unchanged; no source lesson text edited."
+}

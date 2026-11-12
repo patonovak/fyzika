@@ -8,9 +8,7 @@ title: Newtonove pohybové zákony
 
 **Každé izolované teleso zotrváva v pokoji alebo rovnomernom priamočiarom pohybe, pokiaľ nie je nútené pôsobením vonkajších síl tento svoj pohybový stav zmeniť.**
 
-<p class="measurement-figure">
-  <img src="/static/images/isaac_newton.png" alt="Isaac Newton" width="400">
-</p>
+![[images/isaac_newton.png|Isaac Newton|400]]
 
 > **Obr. 1.2.4.** Isaac Newton (1643 - 1727).
 
@@ -34,9 +32,7 @@ Naopak, sústava, v ktorej izolované teleso alebo jeho model nezotrváva v poko
 
 Každá vzťažná sústava, ktorá je vzhľadom na danú inerciálnu vzťažnú sústavu v pokoji alebo v rovnomernom priamočiarom pohybe, je tiež inerciálna. Podľa **Galileiho princípu relativity** platia zákony mechaniky rovnako vo všetkých inerciálnych vzťažných sústavách.
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/inercialna_vztazna_sustava.png" alt="Inerciálna vzťažná sústava" width="500">
-</p>
+![[images/inercialna_vztazna_sustava.png|Inerciálna vzťažná sústava|500]]
 
 > **Obr. 1.2.5.** Inerciálnu vzťažnú sústavu tvoria napríklad steny kabíny vlaku, ktorý sa pohybuje rovnomerne priamočiaro po trati alebo je v pokoji. Podľa Galileiho princípu relativity sú tieto dve sústavy z hľadiska popisu mechanických dejov rovnocenné. Pozorovatelia v obidvoch sústavách budú pozorovať pád voľne pustenej lopty ako pád vo zvislom smere. Pomocou lopty by sme nedokázali rozlíšiť, či sa vagón pohybuje konštantnou rýchlosťou alebo je v pokoji.
 
@@ -63,9 +59,7 @@ m(\vec v_2 - \vec v_1) =
 m\Delta \vec v
 $$
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/zmena_hybnosti.png" alt="Zmena hybnosti telesa pri zmene rýchlosti" width="500">
-</p>
+![[images/zmena_hybnosti.png|Zmena hybnosti telesa pri zmene rýchlosti|500]]
 
 > **Obr. 1.2.6.** Zmena pohybového stavu telesa je spojená so zmenou jeho hybnosti. Pri nezmenenej hmotnosti sa hybnosť mení zmenou okamžitej rýchlosti.
 
@@ -99,9 +93,7 @@ $$
 
 **Výslednica síl pôsobiacich na teleso sa rovná súčinu jeho hmotnosti a zrýchlenia.** Tento zákon preto nazývame aj **zákon sily**.
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/druhy_newtonov_zakon.png" alt="Pôsobenie sily na teleso podľa druhého Newtonovho zákona" width="500">
-</p>
+![[images/druhy_newtonov_zakon.png|Pôsobenie sily na teleso podľa druhého Newtonovho zákona|500]]
 
 > **Obr. 1.2.7.** Z 2. Newtonovho pohybového zákona vyplýva, že sila je príčinou zmeny pohybového stavu telesa. Väčšia sila spôsobí pri rovnakej hmotnosti väčšie zrýchlenie.
 
@@ -145,9 +137,7 @@ Z tohto dôvodu niekedy nazývame 3. Newtonov pohybový zákon aj **zákon akcie
 
 Každá z týchto síl pôsobí na iné teleso. Sily akcie a reakcie sa preto vo svojich silových účinkoch nerušia. Súčasne vznikajú a súčasne zanikajú.
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/akcia_a_reakcia.png" alt="Sily akcie a reakcie pri pôsobení lopty na ruku" width="500">
-</p>
+![[images/akcia_a_reakcia.png|Sily akcie a reakcie pri pôsobení lopty na ruku|500]]
 
 > **Obr. 1.2.8.** Sila akcie je sila, ktorou pôsobí loptička na ruku, a sila reakcie je sila, ktorou pôsobí ruka na loptičku. Obe sily sú rovnako veľké a opačne orientované.
 

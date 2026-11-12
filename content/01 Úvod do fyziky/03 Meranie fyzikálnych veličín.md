@@ -9,9 +9,7 @@ title: Meranie fyzikálnych veličín
 
 **Fyzikálne veličiny** charakterizujú fyzikálne vlastnosti, stavy alebo zmeny telies, ktoré môžeme **merať**, teda stanoviť ich **veľkosť**. Sú nimi napríklad hmotnosť, teplota, dĺžka alebo tlak.
 
-<p class="measurement-figure">
-  <img src="/static/images/vahy.png" alt="Porovnanie hmotnosti futbalovej lopty na váhach" width="400">
-</p>
+![[images/vahy.png|Porovnanie hmotnosti futbalovej lopty na váhach|400]]
 
 > **Obr. 1.1.** Fyzikálnu veličinu meriame tak, že porovnávame jej veľkosť s dohodnutou jednotkou tejto veličiny. Na príklade hmotnosti to znamená, že porovnávame hmotnosť telesa s telesom, ktorého hmotnosť stanovíme presne na 1 kilogram. Ak zistíme, že lopta je o polovici ľahšia ako 1 kilogram, napíšeme $m=0,5\;\mathrm{kg}$.
 
@@ -76,9 +74,7 @@ Doplnkové fyzikálne jednotky sú dve, jednotka rovinného uhla **radián** $(\
 | rovinný uhol | napr. $\alpha, \varphi$ | radián | $\mathrm{rad}$ |
 | priestorový uhol | napr. $\Omega$ | steradián | $\mathrm{sr}$ |
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/radian.png" alt="Radián a steradián" width="400">
-</p>
+![[images/radian.png|Radián a steradián|400]]
 
 > **Obr. 1.2.** Jeden radián je rovinný uhol, ktorý na kružnici s polomerom $r$ vytne oblúk rovnakej dĺžky, ako je polomer kružnice $l = r$. Jeden steradián je priestorový uhol, ktorý s vrcholom v strede gule s polomerom $r$ vytína na povrchu tejto gule plochu rovnú druhej mocnine polomeru tejto gule $S = r^{2}$.
 
@@ -141,9 +137,7 @@ Tvoria sa zo základných a odvodených jednotiek pomocou mocnín so základom $
 
 **Vektorové fyzikálne veličiny** (skrátene vektory) sú fyzikálne veličiny, ktoré sú jednoznačne určené číselnou hodnotou, meracou jednotkou a **smerom**. Patrí medzi ne napríklad sila, zrýchlenie, okamžitá rýchlosť, moment sily atď. Značíme ich šípkou nad značkou veličiny, napríklad vektor sily píšeme $\vec{F}$. Graficky ich znázorňujeme pomocou orientovanej úsečky, ktorá leží na **vektorovej priamke**. Veľkosť orientovanej úsečky zodpovedá veľkosti danej fyzikálnej veličiny. Začiatok tejto úsečky predstavuje **pôsobisko** vektorovej fyzikálnej veličiny.
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/vektor.png" alt="Znázornenie vektorovej veličiny" width="400">
-</p>
+![[images/vektor.png|Znázornenie vektorovej veličiny|400]]
 
 > **Obr. 1.3.** Znázornenie vektorovej veličiny: Ak jeden dielik zodpovedá sile $1\,\mathrm{N}$ a orientovaná úsečka má dĺžku šesť dielikov, potom $|\vec{F}| = F = 6\,\mathrm{N}$.
 

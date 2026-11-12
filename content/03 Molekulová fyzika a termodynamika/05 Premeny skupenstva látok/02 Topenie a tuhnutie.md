@@ -17,9 +17,7 @@ V tomto vzťahu je $m$ hmotnosť tuhého telesa. Jednotkou hmotnostného skupens
 - **Kryštalické látky** majú presne určenú teplotu (bod) topenia, počas topenia sa teplota kryštalickej látky nemení, kým sa celá neroztopí. Dodávané teplo sa spotrebúva výhradne na zmenu skupenstva tuhej látky. Keď sa celá látka roztopí, potom sa dodávaním tepla zvyšuje teplota vzniknutej kvapaliny.
 - **Amorfné látky** nemajú presne určenú teplotu (bod) topenia, topia sa v istom teplotnom intervale. Pri dodávaní tepla amorfnej látke sa pri topení jej teplota postupne zväčšuje, látka mäkne.
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/topenie_krystalickej_a_amorfnej_latky.png" alt="Topenie kryštalickej a amorfnej látky" width="400">
-</p>
+![[images/topenie_krystalickej_a_amorfnej_latky.png|Topenie kryštalickej a amorfnej látky|400]]
 
 > **Obr. 2.5.3.** Topenie kryštalickej látky (obr. hore) a amorfnej látky (obr. dole).
 

@@ -14,10 +14,8 @@ $$
 
 V tomto vzťahu je $\vec{F_e}$ sila, ktorá pôsobí na kladný bodový (testovací) náboj $Q_0$. Intenzita elektrického poľa má smer elektrickej sily pôsobiacej v tomto poli na kladný bodový náboj. Jednotkou intenzity elektrického poľa je newton na coulomb ($\mathrm{N \cdot C^{-1}}$) alebo volt na meter ($\mathrm{V \cdot m^{-1}}$).
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/radialne_a_homogenne_elektricke_pole.png" alt="Radiálne a homogénne elektrické pole">
-  <figcaption>Obr. 4.1.5: Prvé dva obrázky predstavujú radiálne elektrické pole kladného a záporného bodového náboja. Tretí obrázok znázorňuje homogénne radiálne pole medzi dvoma rovnobežnými nesúhlasne nabitými platňami.</figcaption>
-</figure>
+![[images/radialne_a_homogenne_elektricke_pole.png|Radiálne a homogénne elektrické pole]]
+Obr. 4.1.5: Prvé dva obrázky predstavujú radiálne elektrické pole kladného a záporného bodového náboja. Tretí obrázok znázorňuje homogénne radiálne pole medzi dvoma rovnobežnými nesúhlasne nabitými platňami.
 
 V okolí bodových elektrických nábojov pozorujeme radiálne elektrické pole. Intenzita elektrického poľa má v ňom smer lúčov vystupujúcich (pri kladnom náboji) a vstupujúcich (pri zápornom náboji). Medzi dvoma rovnobežnými nesúhlasne nabitými platňami vzniká homogénne (rovnorodé) elektrické pole. Intenzita elektrického poľa má vo všetkých miestach poľa rovnaký smer aj veľkosť. Takýmto znázornením elektrického poľa dostávame matematický model nazývaný vektorové pole.
 
@@ -33,10 +31,8 @@ Elektrická siločiara je myslená orientovaná čiara, ktorej dotyčnica v kaž
 
 Siločiary elektrického poľa vychádzajú z kladného náboja a vchádzajú do záporného náboja. Nikdy sa nepretínajú a v prípade vodičov sú kolmé na ich povrch. Priebeh siločiar pre dva súhlasné a pre dva nesúhlasné elektrické bodové náboje je na obr. 4.1.6.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/silociary_dvoch_nabojov.png" alt="Siločiary elektrického poľa dvoch nábojov">
-  <figcaption>Obr. 4.1.6: Priebeh elektrických siločiar pre dva súhlasné (vľavo) a nesúhlasné elektrické náboje (vpravo).</figcaption>
-</figure>
+![[images/silociary_dvoch_nabojov.png|Siločiary elektrického poľa dvoch nábojov]]
+Obr. 4.1.6: Priebeh elektrických siločiar pre dva súhlasné (vľavo) a nesúhlasné elektrické náboje (vpravo).
 
 ## ELEKTRICKÝ POTENCIÁL
 
@@ -48,19 +44,15 @@ $$
 
 Táto veličina je potom nezávislá na veľkosti testovacieho náboja $Q_0$. Jednotkou elektrického potenciálu je volt (V). Potenciálna energia náboja $Q_0$ v bode P poľa od náboja $Q$ je rovná práci, ktorú vykoná elektrická sila pri premiestnení náboja z bodu P na zem.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/elektricky_potencial.png" alt="Elektrický potenciál a potenciálna energia">
-  <figcaption>Obr. 4.1.7: K výkladu elektrického potenciálu a potenciálnej energie.</figcaption>
-</figure>
+![[images/elektricky_potencial.png|Elektrický potenciál a potenciálna energia]]
+Obr. 4.1.7: K výkladu elektrického potenciálu a potenciálnej energie.
 
 Elektrický potenciál tak môže nadobúdať kladné aj záporné hodnoty. Potenciál zeme a uzemnených telies volíme nulový. V určitom mieste elektrického poľa je potenciál jeden volt (1 V), ak sily elektrického poľa vykonajú pri premiestnení jednotkového náboja z tohto miesta na zem prácu jeden joule.
 
 Ekvipotenciálne plochy (alebo aj hladiny potenciálu) sú množiny bodov elektrického poľa s rovnakým elektrickým potenciálom. V prípade radiálneho poľa sú ekvipotenciálnymi plochami sústredné guľové plochy. Ekvipotenciálne plochy v homogénnom elektrickom poli medzi dvoma nesúhlasne nabitými doskami sú rovnobežné s doskami. Siločiary sú v každom bode kolmé na ekvipotenciálne plochy.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/ekvipotencialne_plochy.png" alt="Ekvipotenciálne plochy radiálneho a homogénneho elektrického poľa">
-  <figcaption>Obr. 4.1.8: Ekvipotenciálne plochy radiálneho elektrického poľa (vľavo) a homogénneho elektrického poľa (vpravo). V prípade homogénneho poľa, ak je jedna z dosiek uzemnená, je hladina najvyššieho potenciálu na kladnej doske. Na uzemnenej doske je nulová.</figcaption>
-</figure>
+![[images/ekvipotencialne_plochy.png|Ekvipotenciálne plochy radiálneho a homogénneho elektrického poľa]]
+Obr. 4.1.8: Ekvipotenciálne plochy radiálneho elektrického poľa (vľavo) a homogénneho elektrického poľa (vpravo). V prípade homogénneho poľa, ak je jedna z dosiek uzemnená, je hladina najvyššieho potenciálu na kladnej doske. Na uzemnenej doske je nulová.
 
 ## ELEKTRICKÉ NAPÄTIE
 
@@ -84,10 +76,8 @@ $$
 
 Veľkosť tejto práce závisí v elektrostatickom poli len na polohe bodov A a B. Nezávisí na trajektórii náboja, po ktorej bol do koncového bodu prenesený (porovnajte s gravitačným poľom).
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/elektricke_napatie.png" alt="Elektrické napätie medzi dvoma bodmi elektrického poľa">
-  <figcaption>Obr. 4.1.9: Elektrické napätie medzi dvoma bodmi elektrického poľa je definované ako rozdiel potenciálov v týchto bodoch.</figcaption>
-</figure>
+![[images/elektricke_napatie.png|Elektrické napätie medzi dvoma bodmi elektrického poľa]]
+Obr. 4.1.9: Elektrické napätie medzi dvoma bodmi elektrického poľa je definované ako rozdiel potenciálov v týchto bodoch.
 
 V prípade homogénneho poľa medzi dvoma nesúhlasne nabitými platňami pôsobí na kladný bodový náboj $Q_0$ elektrická sila $F_e = Q_0 E$, ktorá ho prenesie z kladnej dosky na uzemnenú. Ak je vzdialenosť medzi doskami $d$, je napätie medzi doskami
 

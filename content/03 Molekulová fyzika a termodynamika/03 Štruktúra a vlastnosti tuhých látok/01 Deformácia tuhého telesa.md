@@ -12,9 +12,7 @@ Medzi jednoduché typy deformácie môžeme zaradiť deformáciu:
 - **šmykom** - na teleso pôsobia dve rovnako veľké sily so smermi von z telesa, vektorové priamky síl nie sú totožné (napr. nastohované dosky),
 - **krútením** - na koncoch tyče pôsobia dve silové dvojice, ich momenty síl sú rovnako veľké, ale majú opačný smer (napr. skrutka).
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/typy_deformacie.png" alt="Typy deformácie tuhého telesa" width="500">
-</p>
+![[images/typy_deformacie.png|Typy deformácie tuhého telesa|500]]
 
 > **Obr. 2.3.2.** a) deformácia ťahom, b) deformácia tlakom, c) deformácia ohybom, d) deformácia šmykom, e) deformácia krútením (torzná deformácia).
 
@@ -24,9 +22,7 @@ $$
 \sigma_\mathrm{n} = \frac{F_\mathrm{p}}{S}
 $$
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/sily_pruznosti_v_tuhom_telese.png" alt="Sily pružnosti v tuhom telese" width="400">
-</p>
+![[images/sily_pruznosti_v_tuhom_telese.png|Sily pružnosti v tuhom telese|400]]
 
 > **Obr. 2.3.3.** Sily pružnosti v tuhom telese.
 
@@ -46,9 +42,7 @@ $$
 \varepsilon = \frac{\Delta l}{l_0}.
 $$
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/predlzenie_tyce.png" alt="Predĺženie tyče" width="400">
-</p>
+![[images/predlzenie_tyce.png|Predĺženie tyče|400]]
 
 > **Obr. 2.3.4.** Predĺženie tyče.
 
@@ -71,9 +65,7 @@ Závislosť normálového napätia od relatívneho predĺženia sa nazýva **kri
 - **ČASŤ BE.** Ide o nepružnú (plastickú) deformáciu tyče. Úsek CD na obrázku nazývame aj tečenie materiálu. Napätie $\sigma_\mathrm{k}$ nazývame medza klzu (prieťažnosti).
 - **ČASŤ DE.** Ide o spevnenie materiálu. Hraničným napätím je medza pevnosti $\sigma_\mathrm{p}$. Po jej prekonaní sa tyč nenávratne pretrhne.
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/krivka_deformacie.png" alt="Krivka deformácie" width="400">
-</p>
+![[images/krivka_deformacie.png|Krivka deformácie|400]]
 
 > **Obr. 2.3.5.** Krivka deformácie.
 

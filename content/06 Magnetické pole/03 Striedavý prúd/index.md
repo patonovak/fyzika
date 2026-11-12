@@ -18,10 +18,8 @@ $$
 
 Na grafické vyjadrenie veličín pri striedavom prúde využívame **fázorový diagram** (nie fázový!). **Fázor** je symbolicky rotujúci vektor, ktorý znázorňuje veličinu striedavého prúdu. Jeho priemet na zvislú os predstavuje okamžitú hodnotu striedavej veličiny a jeho veľkosť predstavuje jej amplitúdu. Pri znázornení priebehu veličín striedavého prúdu možno použiť aj klasický časový diagram, kde na zvislej osi nanášame okamžité hodnoty striedavej veličiny.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-1-fazorovy-casovy-diagram.png" alt="Priebeh striedavej veličiny znázornený fázorovým a časovým diagramom">
-  <figcaption>Obr. 5.3.1: Priebeh striedavej veličiny možno znázorniť buď fázorovým alebo časovým diagramom. Ich vzájomná súvislosť je priblížená na obrázku.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-1-fazorovy-casovy-diagram.png|Priebeh striedavej veličiny znázornený fázorovým a časovým diagramom]]
+Obr. 5.3.1: Priebeh striedavej veličiny možno znázorniť buď fázorovým alebo časovým diagramom. Ich vzájomná súvislosť je priblížená na obrázku.
 
 Fázorový diagram je výhodný v tom, že po zakreslení fázorov pre prúd a napätie možno určiť ich fázový rozdiel ako veľkosť uhla medzi týmito fázormi.
 

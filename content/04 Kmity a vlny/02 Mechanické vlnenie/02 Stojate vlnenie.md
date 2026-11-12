@@ -8,10 +8,8 @@ title: Stojaté vlnenie
 
 Všetky body stojatého vlnenia medzi dvoma uzlami kmitajú s rovnakou fázou, ale s rôznou amplitúdou výchylky. Tým sa odlišuje od postupného vlnenia, kde všetky jeho body kmitajú s rovnakou amplitúdou, ale s rôznou fázou. Pri stojatom vlnení sa neprenáša do priestoru energia, tak ako to je pri vlnení postupnom, periodicky sa len mení potenciálna energia na kinetickú energiu a naopak.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/stojate_vlnenie_kmitne_uzly.png" alt="Stojaté vlnenie, vznik kmitní a uzlov">
-  <figcaption>Obr. 3.2.6. Stojaté vlnenie. Vznik kmitní a uzlov stojatého vlnenia.</figcaption>
-</figure>
+![[images/stojate_vlnenie_kmitne_uzly.png|Stojaté vlnenie, vznik kmitní a uzlov]]
+Obr. 3.2.6. Stojaté vlnenie. Vznik kmitní a uzlov stojatého vlnenia.
 
 Ak vznikne kmitaním na strune jedna polovlna (obr. 3.2.6), je dĺžka struny $l = \lambda/2$, pre vlnovú dĺžku potom máme $\lambda = 2l$. Frekvencia kmitania v tomto prípade je určená vzťahom
 

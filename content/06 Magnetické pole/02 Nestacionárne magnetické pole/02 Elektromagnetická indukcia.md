@@ -6,10 +6,8 @@ Ak budeme pohybovať permanentným magnetom v okolí vodivého závitu, začne z
 
 Elektromagnetická indukcia je jav, pri ktorom je nestacionárne (časovo premenné) magnetické pole príčinou vzniku indukovaného elektrického poľa. Medzi koncami vodiča vzniká indukované napätie $U_i$ a obvodom tečie indukovaný prúd $I_i$.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/nestacionarne-magneticke-pole/obr-5-2-2.png" alt="Elektromagnetická indukcia pri pohybe magnetu v okolí vodivého závitu">
-  <figcaption>Obr. 5.2.2: Ak sa približujeme magnetom k vodivému závitu, začne obvodom prechádzať indukovaný prúd. Ak sa s magnetom vzďaľujeme od závitu, preteká obvodom indukovaný prúd opačným smerom.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/nestacionarne-magneticke-pole/obr-5-2-2.png|Elektromagnetická indukcia pri pohybe magnetu v okolí vodivého závitu]]
+Obr. 5.2.2: Ak sa približujeme magnetom k vodivému závitu, začne obvodom prechádzať indukovaný prúd. Ak sa s magnetom vzďaľujeme od závitu, preteká obvodom indukovaný prúd opačným smerom.
 
 Jav elektromagnetickej indukcie možno pozorovať, aj keď bude magnet v pokoji a budeme so závitom hýbať, otáčať ním alebo ho deformovať. Dôležité je, aby sa s časom menil magnetický indukčný tok plochou závitu, len vtedy možno pozorovať vznik indukovaného napätia a prúdu.
 
@@ -34,10 +32,8 @@ Lenzov zákon je vo Faradayovom zákone elektromagnetickej indukcie vyjadrený z
 > [!example] Príklad 5.2.2: Vodič na koľajničkách
 > Vodič dĺžky 1 m s elektrickým odporom 5 $\Omega$ sa nachádza na vodivých koľajničkách pripojených ku zdroju napätia 2 V. Celá sústava sa nachádza v homogénnom magnetickom poli s magnetickou indukciou 0,2 T. Popíšte, čo sa stane, ak sa vodič začne pohybovať rovnomerne doprava, pričom veľkosť jeho rýchlosti je $4\ \mathrm{m}\cdot\mathrm{s^{-1}}$. Aký celkový prúd prechádza vtedy vodičom?
 >
-> <figure class="measurement-figure callout-figure no-extra-frame">
->   <img src="/static/images/fyzika/magneticke-pole/nestacionarne-magneticke-pole/obr-priklad-5-2-2.png" alt="Vodič na koľajničkách v homogénnom magnetickom poli">
->   <figcaption>Obr. 5.2.2: Vodič na koľajničkách v homogénnom magnetickom poli.</figcaption>
-> </figure>
+> ![[images/fyzika/magneticke-pole/nestacionarne-magneticke-pole/obr-priklad-5-2-2.png|Vodič na koľajničkách v homogénnom magnetickom poli]]
+> Obr. 5.2.2: Vodič na koľajničkách v homogénnom magnetickom poli.
 >
 > **RIEŠENIE:**
 > $l = 1\ \mathrm{m},\ R = 5\ \Omega,\ U = 2\ \mathrm{V},\ B = 0{,}2\ \mathrm{T},\ v = 4\ \mathrm{m}\cdot\mathrm{s^{-1}};\ I = ?$

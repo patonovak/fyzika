@@ -10,17 +10,13 @@ Pojmom **základné fyzikálne interakcie** označujeme najjednoduchší typ vz�
 
 - **Slabá interakcia** sa prejavuje univerzálne pri všetkých typoch elementárnych častíc. Na rozdiel od ostatných troch interakcií nie je zodpovedná za stabilitu systémov častíc, ale za ich rozpad. Je druhou najslabšou interakciou a má veľmi krátky dosah, rádovo $10^{-18}\ \mathrm{m}$. Slabá interakcia spôsobuje napr. premenu beta. Sprostredkujúcimi časticami sú v tomto prípade **intermediálne bozóny** $\mathrm{W^+}$, $\mathrm{W^-}$, $\mathrm{Z^0}$, pričom $s = 1$.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-2-zakladne-interakcie.png" alt="Základné štyri fyzikálne interakcie">
-  <figcaption>Obr. 6.4.2: Základné štyri fyzikálne interakcie.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-2-zakladne-interakcie.png|Základné štyri fyzikálne interakcie]]
+Obr. 6.4.2: Základné štyri fyzikálne interakcie.
 
 - **Gravitačná interakcia** sa prejavuje univerzálne medzi všetkými hmotnými objektami. Je najslabšou zo všetkých interakcií a má nekonečný dosah. Pri popise elementárnych častíc sa často zanedbáva, výrazne sa prejavuje až u častíc s väčšími hmotnosťami. Je sprostredkovaná časticami s názvom **gravitóny**, ktoré však zatiaľ neboli experimentálne dokázané, mali by však mať nulovú pokojovú hmotnosť a $s = 2$.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-2-tabulka-interakcii.png" alt="Štyri základné fyzikálne interakcie">
-  <figcaption>Obr. 6.4.2: Štyri základné fyzikálne interakcie, ich relatívna sila a dosah.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-2-tabulka-interakcii.png|Štyri základné fyzikálne interakcie]]
+Obr. 6.4.2: Štyri základné fyzikálne interakcie, ich relatívna sila a dosah.
 
 | typ interakcie | relatívna sila | dosah interakcie (m) |
 | --- | --- | --- |

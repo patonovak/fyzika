@@ -14,10 +14,8 @@ $$
 I = G \cdot U
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/elektricky-prud/georg-ohm.png" alt="Georg Ohm">
-  <figcaption>Obr. 4.2.3: Georg Ohm (1789 – 1854).</figcaption>
-</figure>
+![[images/fyzika/elektricky-prud/georg-ohm.png|Georg Ohm]]
+Obr. 4.2.3: Georg Ohm (1789 – 1854).
 
 Konštantou $G$ vo vzťahu vyššie pre daný vodič je tzv. **elektrická vodivosť**. Jej jednotkou je **siemens** (S). Častejšie sa však používa jej prevrátená hodnota – **elektrický odpor** $R$, pre ktorý platí vzťah $R = 1/G$. Jednotkou elektrického odporu je **ohm** ($\Omega$). Ohmov zákon potom prejde na známy tvar
 
@@ -55,10 +53,8 @@ $$
 
 Celkové napätie na rezistoroch sa rovná súčtu napätí na všetkých rezistoroch, teda $U = U_1 + U_2 + \ldots U_n$. Všetkými sériovo zapojenými rezistormi preteká rovnaký elektrický prúd $I$.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/elektricky-prud/seriove-zapojenie-rezistorov.png" alt="Sériové zapojenie rezistorov">
-  <figcaption>Obr. 4.2.4: Sériové zapojenie (za sebou) dvoch rezistorov.</figcaption>
-</figure>
+![[images/fyzika/elektricky-prud/seriove-zapojenie-rezistorov.png|Sériové zapojenie rezistorov]]
+Obr. 4.2.4: Sériové zapojenie (za sebou) dvoch rezistorov.
 
 - Rezistory možno spájať aj **paralelne** (vedľa seba). Výsledný odpor zapojenia je daný vzťahom
 
@@ -68,10 +64,8 @@ $$
 
 Elektrické prúdy sa rozdelia vo vetvách tak, že celkový elektrický prúd je rovný súčtu prúdov vo vetvách $I = I_1 + I_2 + \ldots I_n$. Na všetkých paralelne zapojených rezistoroch je rovnako veľké elektrické napätie $U$.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/elektricky-prud/paralelne-zapojenie-rezistorov.png" alt="Paralelné zapojenie rezistorov">
-  <figcaption>Obr. 4.2.5: Paralelné zapojenie (vedľa seba) dvoch rezistorov.</figcaption>
-</figure>
+![[images/fyzika/elektricky-prud/paralelne-zapojenie-rezistorov.png|Paralelné zapojenie rezistorov]]
+Obr. 4.2.5: Paralelné zapojenie (vedľa seba) dvoch rezistorov.
 
 ## OHMOV ZÁKON PRE UZAVRETÝ OBVOD
 
@@ -110,10 +104,8 @@ Ako už bolo spomenuté, svorkové napätie je vždy menšie ako elektromotorick
 - **Tvrdý zdroj** napätia má malý vnútorný odpor. Svorkové napätie klesá v závislosti od odoberaného prúdu len nepatrne. Takýmto zdrojom je napr. autobatéria.
 - **Mäkký zdroj** napätia má veľký vnútorný odpor. Svorkové napätie klesá v závislosti od odoberaného prúdu veľmi prudko. Takýmto zdrojom je napr. tužková baterka.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/elektricky-prud/typy-zdrojov.png" alt="Typy zdrojov napätia">
-  <figcaption>Obr. 4.2.6: Typy zdrojov.</figcaption>
-</figure>
+![[images/fyzika/elektricky-prud/typy-zdrojov.png|Typy zdrojov napätia]]
+Obr. 4.2.6: Typy zdrojov.
 
 Ak spojíme spojovacím vodičom svorky zdroja elektrického napätia, nastane **skrat** (spojenie nakrátko). Odpor vonkajšej časti obvodu je nulový, preto prúd v obvode dosahuje maximálnu, skratovú hodnotu.
 
@@ -154,10 +146,8 @@ $$
 R_p = (n - 1)R_v.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/elektricky-prud/predradeny-rezistor-voltmeter.png" alt="Predradený rezistor pri voltmetri">
-  <figcaption>Obr. 4.2.7: Predradený rezistor zapájame sériovo k voltmetru a meníme tak jeho merací rozsah.</figcaption>
-</figure>
+![[images/fyzika/elektricky-prud/predradeny-rezistor-voltmeter.png|Predradený rezistor pri voltmetri]]
+Obr. 4.2.7: Predradený rezistor zapájame sériovo k voltmetru a meníme tak jeho merací rozsah.
 
 - **Meranie elektrického prúdu.** Zariadenie na meranie elektrického prúdu nazývame ampérmeter. Už vieme, že ho zapájame sériovo so spotrebičom. Vnútorný odpor ampérmetra $R_a$ musí byť veľmi malý, aby sa pridaním ampérmetra nezvýšil až príliš odpor obvodu. Merací rozsah ampérmetra mení pomocou tzv. **bočníka**, čo je rezistor zapojený **paralelne** k ampérmetru. Tým odvedieme časť prúdu do inej vetvy. Ak chceme zväčšiť merací rozsah ampérmetra $n$-krát, pripojíme k nemu paralelne bočník s odporom
 
@@ -165,10 +155,8 @@ $$
 R_b = \frac{R_a}{n - 1}.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/elektricky-prud/bocnik-ampermeter.png" alt="Bočník pri ampérmetri">
-  <figcaption>Obr. 4.2.8: Bočník zapájame paralelne k ampérmetru a meníme tak jeho merací rozsah.</figcaption>
-</figure>
+![[images/fyzika/elektricky-prud/bocnik-ampermeter.png|Bočník pri ampérmetri]]
+Obr. 4.2.8: Bočník zapájame paralelne k ampérmetru a meníme tak jeho merací rozsah.
 
 > [!example] Príklad 4.2.2: Predradený rezistor
 > Voltmeter má rozsah 150 V. Aký predradený rezistor musíme k nemu zapojiť, aby sme s ním mohli merať napätia do 1 500 V? Vnútorný odpor voltmetra je 10 k$\Omega$.
@@ -189,10 +177,8 @@ $$
 
 Zložitejšie zapojenia než sú jednoduché elektrické obvody nazývame **elektrické siete**. Miesto, v ktorom sa stretávajú aspoň tri vodiče, nazývame **uzol**. Vodivé spojenie susedných uzlov nazývame **vetva**. Časť elektrickej siete, pripomínajúca jednoduchý elektrický obvod, sa nazýva **slučka**. Skúmať budeme len elektrické siete so zdrojmi napätia a rezistormi. Zákony potrebné na riešenie elektrických sietí sformuloval v roku 1841 nemecký fyzik **Gustav Robert Kirchhoff** a voláme ich **Kirchhoffove zákony**.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/elektricky-prud/gustav-kirchhoff.png" alt="Gustav Kirchhoff">
-  <figcaption>Obr. 4.2.9: Gustav Kirchhoff (1824 – 1887).</figcaption>
-</figure>
+![[images/fyzika/elektricky-prud/gustav-kirchhoff.png|Gustav Kirchhoff]]
+Obr. 4.2.9: Gustav Kirchhoff (1824 – 1887).
 
 **1. Kirchhoffov zákon**
 

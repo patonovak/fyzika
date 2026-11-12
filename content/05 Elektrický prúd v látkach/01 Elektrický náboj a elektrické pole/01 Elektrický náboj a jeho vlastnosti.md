@@ -6,10 +6,8 @@ Pôvodcom vyššie opísaného elektrického pôsobenia je elektrický náboj, r
 
 Elektrický náboj ako fyzikálnu veličinu označujeme písmenom $Q$. Jednotkou v sústave SI je coulomb (C). Ide o pomerne veľkú jednotku, preto často používame jej diely: mikrocoulomb ($\mu$C), nanocoulomb (nC).
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/charles_augustin_de_coulomb.png" alt="Charles Augustin de Coulomb">
-  <figcaption>Obr. 4.1.2: Charles Augustin de Coulomb (1736 – 1806).</figcaption>
-</figure>
+![[images/charles_augustin_de_coulomb.png|Charles Augustin de Coulomb]]
+Obr. 4.1.2: Charles Augustin de Coulomb (1736 – 1806).
 
 ## VLASTNOSTI ELEKTRICKÉHO NÁBOJA
 
@@ -18,10 +16,8 @@ Základné vlastnosti elektrického náboja boli formulované na základe skúse
 1. **V prírode sa vyskytujú dva druhy elektrického náboja: kladný (+) a záporný (–).**  
 Priradenie znamienka druhu elektrického náboja je čisto historickou záležitosťou. Dnes už vieme, že nositeľom kladného elektrického náboja je protón a záporného elektrického náboja je elektrón. Ak sa teleso javí ako elektricky neutrálne, sú na ňom kladné a záporné náboje vykompenzované.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/elektrometer.png" alt="Elektrometer">
-  <figcaption>Obr. 4.1.3: Elektrometer.</figcaption>
-</figure>
+![[images/elektrometer.png|Elektrometer]]
+Obr. 4.1.3: Elektrometer.
 
 2. **Elektrický náboj je deliteľný. Najmenším nábojom, ďalej nedeliteľným, je elementárny náboj e.**  
 Nosičmi elementárneho náboja v atóme sú protón a elektrón. Protón má náboj $+e$ a elektrón $-e$. Jeho hodnota je pritom
@@ -48,10 +44,8 @@ Silové pôsobenie elektricky nabitých telies je vzájomné. Bodový elektrick�
 
 Dva elektrické bodové náboje v pokoji sa navzájom priťahujú (odpudzujú) rovnako veľkými elektrickými silami opačného smeru. Veľkosť elektrickej sily je priamo úmerná absolútnej hodnote súčinu nábojov $Q_1$, $Q_2$ a nepriamo úmerná druhej mocnine ich vzdialenosti $r$.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/elektricke_silove_posobenie.png" alt="Elektrické silové pôsobenie medzi bodovými nábojmi">
-  <figcaption>Obr. 4.1.4: Elektrické silové pôsobenie je vzájomné, dva bodové elektrické náboje sa navzájom priťahujú alebo aj odpudzujú rovnako veľkými elektrickými silami opačného smeru.</figcaption>
-</figure>
+![[images/elektricke_silove_posobenie.png|Elektrické silové pôsobenie medzi bodovými nábojmi]]
+Obr. 4.1.4: Elektrické silové pôsobenie je vzájomné, dva bodové elektrické náboje sa navzájom priťahujú alebo aj odpudzujú rovnako veľkými elektrickými silami opačného smeru.
 
 Matematicky možno Coulombov zákon zapísať v nasledovnom tvare
 

@@ -10,10 +10,8 @@ $$
 
 V tomto vzťahu je $\{t\}$ číselná hodnota teploty vzduchu v stupňoch Celzia. Aj keď teplota je výrazným faktorom, ktorý ovplyvňuje rýchlosť šírenia zvuku vo vzduchu, v malej miere závisí aj na samotnom zložení vzduchu (vlhkosť, nečistoty...). Zvuk sa šíri prevažne ako postupné pozdĺžne vlnenie, pričom výnimkou sú tuhé látky, kde vzhľadom na silné väzby častíc prostredia môže dochádzať k šíreniu zvuku aj vo forme postupného vlnenia priečneho.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/rychlost_zvuku_pri_20_c.png" alt="Tabuľka hodnôt rýchlosti zvuku pri 20 stupňoch Celzia">
-  <figcaption>Obr. 3.3.2. Tabuľka s hodnotami rýchlosti zvuku v niektorých prostrediach pri teplote 20 °C.</figcaption>
-</figure>
+![[images/rychlost_zvuku_pri_20_c.png|Tabuľka hodnôt rýchlosti zvuku pri 20 stupňoch Celzia]]
+Obr. 3.3.2. Tabuľka s hodnotami rýchlosti zvuku v niektorých prostrediach pri teplote 20 °C.
 
 | Látka | Rýchlosť zvuku pri 20 °C | Látka | Rýchlosť zvuku pri 20 °C |
 |---|---:|---|---:|
@@ -23,10 +21,8 @@ V tomto vzťahu je $\{t\}$ číselná hodnota teploty vzduchu v stupňoch Celzia
 
 **Odraz zvuku** od väčšej prekážky môže spôsobiť **ozvenu** (echo). Ľudské ucho rozlíši dva po sebe nasledujúce zvuky ako rôzne, ak je medzi nimi časový interval aspoň 0,1 s. Pre vznik ozveny je preto potrebné, aby bola prekážka vo vzdialenosti aspoň 17 m. Pri menších vzdialenostiach počujeme zvuk odrazený od prekážky ešte potom, čo ho zdroj prestal vydávať. Hovoríme o **dozvuku**.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/ozvena_a_odraz_zvuku.png" alt="Ozvena a odraz zvuku od prekážky">
-  <figcaption>Obr. 3.3.3. Ozvena je jav, ktorý vzniká, keď pozorovateľ počuje zvuk priamo od zdroja a zvuk odrazený od prekážky tak, že ich počuje oddelene. Odraz zvuku od predmetov sa používa napr. pri meraní hĺbky morí.</figcaption>
-</figure>
+![[images/ozvena_a_odraz_zvuku.png|Ozvena a odraz zvuku od prekážky]]
+Obr. 3.3.3. Ozvena je jav, ktorý vzniká, keď pozorovateľ počuje zvuk priamo od zdroja a zvuk odrazený od prekážky tak, že ich počuje oddelene. Odraz zvuku od predmetov sa používa napr. pri meraní hĺbky morí.
 
 > [!example] Príklad 3.3.2: Meranie hĺbky mora
 > Na meranie hĺbky mora v danom mieste bol použitý ultrazvuk. Aká hĺbka bola zistená, ak sa ultrazvukový signál vrátil na loď za 0,6 s? Ultrazvuk sa vo vode šíri rýchlosťou $1\,450\,\mathrm{m\,s^{-1}}$.
@@ -45,17 +41,13 @@ V tomto vzťahu je $\{t\}$ číselná hodnota teploty vzduchu v stupňoch Celzia
 
 **Ultrazvuk** je mechanické vlnenie, ktorého frekvencia je vyššia než 20 000 Hz. Vlnové dĺžky týchto vĺn sú veľmi malé, ultrazvuk postupujúci okolo bežných prekážok sa tak takmer vôbec neohýba, zo smeru jeho šírenia tak možno určiť presne polohu zdroja alebo telesa, od ktorého sa ultrazvuk odráža. Pre ľudské ucho je nepočuteľný, vnímať a vydávať ho však môžu niektoré živočíchy ako netopiere a delfíny. Pomocou ultrazvukového signálu a jeho odrazu sa dokážu orientovať v priestore (**echolokácia**). V praxi využívame napr. ultrazvukovú sonografiu, ktorá je bezpečnou alternatívou röntgenového žiarenia. Medzi zdroje ultrazvuku patria napr. píšťaly (pre psy), sirény a elektromagnetické generátory.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/vyuzitie_a_vyskyt_ultrazvuku.png" alt="Využitie a výskyt ultrazvuku v praxi a v prírode">
-  <figcaption>Obr. 3.3.4. Využitie a výskyt ultrazvuku v praxi a v prírode.</figcaption>
-</figure>
+![[images/vyuzitie_a_vyskyt_ultrazvuku.png|Využitie a výskyt ultrazvuku v praxi a v prírode]]
+Obr. 3.3.4. Využitie a výskyt ultrazvuku v praxi a v prírode.
 
 **Infrazvuk** je mechanické vlnenie, ktorého frekvencia je nižšia ako 16 Hz. Pre ľudské ucho je prakticky nepočuteľné, vnímajú ho však niektoré živočíchy (medúzy, niektoré druhy rýb), pre ktoré predstavuje akési varovanie pred búrkami a vlnobitím. Pre človeka je v istých frekvenciách nebezpečné, a aj v pomerne nízkych intenzitách môže vyvolávať únavu, závraty či zvracanie. Infrazvuk s frekvenciou 7 až 8 Hz, čo je približná frekvencia srdca, spôsobuje mechanické poškodenie buniek svalu. To, že ho človek nepočuje, mu umožňuje pokojne spávať, keďže sluchom neregistruje vlastný krvný obeh. Zdrojom infrazvuku je zemetrasenie, chvenie budov, stroje či hladina mora pri vlnobití.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/zdroje_infrazvuku_v_prirode.png" alt="Niektoré zdroje infrazvuku v prírode">
-  <figcaption>Obr. 3.3.5. Niektoré zdroje infrazvuku v prírode.</figcaption>
-</figure>
+![[images/zdroje_infrazvuku_v_prirode.png|Niektoré zdroje infrazvuku v prírode]]
+Obr. 3.3.5. Niektoré zdroje infrazvuku v prírode.
 
 ## Ochrana sluchu pred hlukom
 

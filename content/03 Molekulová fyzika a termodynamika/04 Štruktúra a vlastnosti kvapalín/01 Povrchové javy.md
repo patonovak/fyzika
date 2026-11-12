@@ -6,9 +6,7 @@ Minca po vložení do nádoby s vodou klesá ku dnu. Ak ju však na hladinu polo
 
 Ak je sféra molekulového pôsobenia celá vo vnútri kvapaliny, výslednica všetkých príťažlivých síl je nulová. Na molekulu, ktorej vzdialenosť od povrchu je menšia ako $r_\mathrm{m}$, pôsobí výslednica príťažlivých síl kolmo na povrch smerom do vnútra kvapaliny. Tieto sily majú za následok, že molekuly na okraji vytvárajú tzv. **povrchovú vrstvu**. V povrchovej vrstve sa prejavujú tzv. povrchové sily, ktoré spôsobujú, že povrch sa chová ako pružná blana. Povrchové sily ležia v rovine povrchovej vrstvy.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/povrchova_vrstva_a_povrchove_sily.png" alt="Povrchová vrstva a povrchové sily" width="500">
-</p>
+![[images/povrchova_vrstva_a_povrchove_sily.png|Povrchová vrstva a povrchové sily|500]]
 
 > **Obr. 2.4.1.** Na molekuly v povrchovej vrstve pôsobí výsledná príťažlivá sila smerom do kvapaliny. Povrchové sily pôsobia v rovine povrchovej vrstvy, ak na mydlovú blanu položíme uzavretú slučku z nite a prepichneme jej stred, napnú povrchové sily túto niť do tvaru kružnice.
 

@@ -11,9 +11,7 @@ Podľa rýchlosti, teda podľa toho, či sa mení veľkosť okamžitej rýchlost
 
 **Rovnomerný pohyb** koná teleso vtedy, ak za rovnako veľké, ale inak ľubovoľné časové intervaly, prejde rovnako veľké úseky dráhy. Pri rovnomernom pohybe má veľkosť okamžitej rýchlosti konštantnú hodnotu. Ak je pohyb ešte aj priamočiary, nemení sa ani smer vektora okamžitej rýchlosti.
 
-<p class="measurement-figure">
-  <img src="/static/images/rpp.png" alt="Rovnomerný priamočiary pohyb" width="400">
-</p>
+![[images/rpp.png|Rovnomerný priamočiary pohyb|400]]
 
 > **Obr. 1.1.8.** Rovnomerný priamočiary pohyb.
 
@@ -36,9 +34,7 @@ s = s_0 + vt
 $$
 
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/grafy_rpp.png" alt="Grafy rovnomerného priamočiareho pohybu" width="500">
-</p>
+![[images/grafy_rpp.png|Grafy rovnomerného priamočiareho pohybu|500]]
 
 > **Obr. 1.1.9.** Grafy závislosti rýchlosti a dráhy od času pri rovnomernom priamočiarom pohybe.
 

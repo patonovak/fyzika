@@ -6,9 +6,7 @@ title: Trenie a trecia sila
 
 Príčinou vzniku trenia sú nerovnosti na dotykových plochách oboch telies, ktoré na seba pri pohybe narážajú a zapadajú do seba.
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/trenie.png" alt="Trecia sila na vodorovnej a šikmej podložke" width="500">
-</p>
+![[images/trenie.png|Trecia sila na vodorovnej a šikmej podložke|500]]
 
 > **Obr. 1.2.10.** Sily pôsobiace na teleso pri pohybe po vodorovnej a šikmej podložke.
 

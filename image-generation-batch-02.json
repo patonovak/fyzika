@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-11",
+  "batch": "02-newtonove-pohybove-zakony",
+  "mode": "built-in image_gen",
+  "prompts": [
+    {
+      "name": "isaac_newton.png",
+      "prompt": "Use case: historical-scene. Asset isaac_newton.png for a secondary-school physics textbook. Create a respectful historically informed painted bust portrait of Isaac Newton as a mature man: recognizable long wavy silver-grey hair reaching shoulders, clean-shaven face, long nose, thoughtful expression, dark late-seventeenth/early-eighteenth-century coat with a simple white shirt at the neck. Three-quarter view, head and shoulders, restrained classical oil-painting realism on a softly muted warm neutral background. No modern clothing, no apple, no equations, no props, no text, no border, no watermark. A new educational portrait illustration, not a claim to be an authentic historical painting. Portrait aspect ratio, clear facial detail readable at 400px wide."
+    },
+    {
+      "name": "inercialna_vztazna_sustava.png",
+      "prompt": "Use case: scientific-educational. Landscape Slovak physics textbook illustration in clean softly shaded blue-orange style on white, two equal panels. Explain Galilean relativity from INSIDE a train carriage. Draw the same simple cutaway carriage interior and standing observer releasing an orange ball in both panels, one hand extended. Under the release point show exactly three ghost ball positions vertically aligned, progressing downward to the floor, and a vertical downward trajectory arrow. Both panels have IDENTICAL vertical trajectories relative to carriage. Left heading exactly 'Vlak v pokoji', right heading exactly 'Rovnomerný priamočiary pohyb'. Above left carriage small label 'v = 0'; above right carriage outside the interior a horizontal rightward blue arrow labelled 'v = konšt.'. Carriages on straight level rails. No diagonal or parabolic ball paths, no horizontal force on ball, no acceleration of train, no arrows that could be mistaken for ball motion except vertical downward ones. Both observers and balls comove with carriage initially. Natural anatomy, clear large labels, no clutter, no decorative scenery, no watermark. This is an idealized diagram of a dropped ball seen by an observer inside each carriage."
+    },
+    {
+      "name": "zmena_hybnosti.png",
+      "prompt": "Use case: scientific-educational. Create a clean landscape Slovak textbook infographic on white illustrating change of momentum at constant mass. Two equal side-by-side panels with identical small orange wheeled laboratory carts on horizontal track, both moving right. LEFT heading 'Pred zrýchlením', cart labelled 'm = 2 kg', above it blue right arrow labelled 'v₁ = 1 m/s', below it orange right arrow labelled 'p₁ = 2 kg·m/s'. RIGHT heading 'Po zrýchlení', cart same size labelled 'm = 2 kg', blue right arrow labelled 'v₂ = 3 m/s', orange right arrow labelled 'p₂ = 6 kg·m/s'. For each color, right-panel arrow length exactly three times left-panel arrow length. Both panels maintain same scale. Bottom centered clearly separated calculation exactly 'Δp = p₂ − p₁ = 4 kg·m/s'. All quantities collinear and positive to the right; no force arrows, no extra equations, no different masses. Crisp large readable labels with correct Slovak accents, restrained blue/orange, subtle shading on carts, ample white space, no watermark. This is a schematic example not a photograph."
+    },
+    {
+      "name": "druhy_newtonov_zakon.png",
+      "prompt": "Use case: scientific-educational. Landscape Slovak school physics textbook illustration of Newton's second law with two horizontal rows on white. Two IDENTICAL orange wheeled laboratory carts, same size and mass label 'm = 2 kg', on frictionless horizontal tracks. TOP ROW: orange rightward resultant force arrow attached to cart, label 'F = 2 N'; separately ABOVE cart blue rightward acceleration arrow labelled 'a = 1 m/s²'. BOTTOM ROW: orange rightward resultant force arrow twice top orange arrow length labelled 'F = 4 N'; separately above cart blue rightward acceleration arrow twice top blue arrow length labelled 'a = 2 m/s²'. Precisely aligned rows, cart on left and arrows to right; no people or irrelevant equipment. Bottom statement exactly 'Rovnaká hmotnosť: dvojnásobná sila → dvojnásobné zrýchlenie'. Small centered formula 'F = ma'. Use the values exactly, acceleration superscript 2 legible. All forces and accelerations point right. Horizontal resultant forces only, no gravity or normal arrows, no motion trails or velocity arrows. Clean crisp vectorlike lines with gentle textbook shading, blue-orange palette, readable at 500px, no watermark."
+    },
+    {
+      "name": "druhy_newtonov_zakon.png",
+      "revision": "Edit only the arrow lengths in this image to correct their ratios. Keep ALL text, carts, colors, composition and background unchanged. Top blue acceleration arrow starts around x=288 and ends x=434: length 146. Bottom blue acceleration arrow must start at same x=288 and end at x=580: length 292, exactly twice the top. Top orange force arrow begins around x=542 and ends x=758: length 216. Bottom orange force arrow must begin same x=542 and end x=974: length 432, exactly twice top. Preserve arrowhead style, place labels above their associated arrows with no overlap. Do not lengthen the top arrows. The only intended correction is shorten the bottom blue and bottom orange arrows so the two ratios are exactly 2:1. Keep F=2N, F=4N, a=1m/s², a=2m/s² and all Slovak wording unchanged."
+    },
+    {
+      "name": "druhy_newtonov_zakon.png",
+      "revision": "Preserve this illustration exactly including the carts, arrows, labels, formulas, panel headings and all colors. Add one small but clearly readable dark-grey Slovak note at the bottom in a new white margin, centered: 'Dĺžky šípok sú schematické, nie sú v mierke.' Do not crop existing content. This explicit note is needed because numeric values are authoritative while arrow lengths are schematic. Make no other changes."
+    },
+    {
+      "name": "zmena_hybnosti.png",
+      "revision": "Preserve this textbook illustration and all numeric values exactly. Add a clear dark grey Slovak note centered in a white bottom margin: 'Dĺžky šípok sú schematické, nie sú v mierke.' Do not crop or remove existing labels. All values remain m=2kg, v1=1m/s, v2=3m/s, p1=2kg·m/s, p2=6kg·m/s, delta p=4kg·m/s. This note identifies the arrows as schematic directions rather than quantitative scale lengths. No other changes."
+    },
+    {
+      "name": "akcia_a_reakcia.png",
+      "prompt": "Use case: scientific-educational. Landscape Slovak physics textbook illustration of Newton's third law for a BALL AND HAND, on white background with soft textbook shading and crisp arrows. One central large orange ball at right, a natural open vertical human palm immediately left of the ball pressing horizontally against its leftmost surface, forearm extends to left. At contact, two equal-length thick collinear horizontal arrows point in opposite directions: BLUE arrow from contact toward LEFT into the hand, ORANGE arrow from contact toward RIGHT into the ball. The arrows represent forces on DIFFERENT bodies, never two forces on one body. Place labels away from drawing with no overlap: above left arrow 'Lopta pôsobí na ruku', above right arrow 'Ruka pôsobí na loptu'. Below the whole drawing exactly 'Rovnaká veľkosť, opačný smer. Každá sila pôsobí na iné teleso.' No gravity arrows, no supporting horizontal palm underneath, no floor, no formulas, no extra force arrows, no motion trails, no titles or watermarks. Force arrows must have equal length. Show clearly identifiable ball-hand contact and natural anatomy. The blue left-pointing arrow is the ball's force on the hand; the orange right-pointing arrow is the hand's force on the ball."
+    },
+    {
+      "name": "akcia_a_reakcia.png",
+      "revision": "Correct only the BLUE leftward arrow length. The common origin is the hand/ball contact at x≈842. Orange rightward tip is x≈1134, length≈292. Extend BLUE arrow tip leftward to x≈550 so its length also≈292. The two arrows must be equal-length mirror images from their common origin at x842, same thickness and arrowhead dimensions. Keep the orange arrow, hand, ball, every Slovak word, background and all other features unchanged. This equality is essential to Newton's third law; do not keep unequal arrow lengths."
+    }
+  ],
+  "selected": {
+    "isaac_newton.png": "exec-8b9edf37-c2a4-4a54-8c22-330c5f44f86c.png",
+    "inercialna_vztazna_sustava.png": "exec-98d9e451-1e7a-46d2-a920-1e9373efe619.png",
+    "zmena_hybnosti.png": "exec-8456c684-fb6e-48d6-8daa-aa975cc9f347.png",
+    "druhy_newtonov_zakon.png": "exec-689dd4d1-9420-4ffc-bb23-cecdf732fc48.png",
+    "akcia_a_reakcia.png": "exec-3028c3f5-4bef-4a28-824d-f382c05c4363.png"
+  },
+  "notes": "Newton is a generated interpretive portrait, not an archival painting. Momentum and second-law arrows explicitly schematic, not to scale."
+}

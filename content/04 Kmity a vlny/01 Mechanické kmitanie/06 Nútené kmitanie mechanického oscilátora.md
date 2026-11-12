@@ -6,9 +6,7 @@ Aby kmitanie reálneho oscilátora časom nezaniklo, musí mu byť zvonka dodáv
 
 Ak je frekvencia nútených kmitov $f$ zhodná s frekvenciou vlastného kmitania oscilátora $f_0$, nastane jav, ktorý nazývame **rezonancia**. Pri rezonančnom zosilnení kmitov dosahuje amplitúda okamžitej výchylky maximálnu hodnotu. V oscilátore teda možno vyvolať značné kmitanie aj malou silou, ktorej frekvencia je však blízka frekvencii vlastných kmitov oscilátora. Graf, ktorý vyjadruje závislosť amplitúdy núteného kmitania $y_\mathrm{m}$ od jeho frekvencie, sa nazýva **rezonančná krivka**.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/nutene_kmitanie_a_rezonancna_krivka.png" alt="Nútené kmitanie pružinového oscilátora a rezonančná krivka" width="500">
-</p>
+![[images/nutene_kmitanie_a_rezonancna_krivka.png|Nútené kmitanie pružinového oscilátora a rezonančná krivka|500]]
 
 > **Obr. 3.1.10.** Vznik núteného kmitania pružinového oscilátora (vľavo) a rezonančná krivka (vpravo).
 

@@ -18,9 +18,7 @@ $$
 
 Uhol $\vartheta$ sa nazýva **stykový uhol** a je to uhol medzi povrchovou vrstvou a stenou nádoby.
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/povrchova_vrstva_kvapaliny.png" alt="Povrchová vrstva kvapaliny pri stenách nádoby" width="400">
-</p>
+![[images/povrchova_vrstva_kvapaliny.png|Povrchová vrstva kvapaliny pri stenách nádoby|400]]
 
 > **Obr. 2.4.2.** Povrchová vrstva.
 
@@ -30,9 +28,7 @@ $$
 p_\mathrm{k} = \frac{2\sigma}{r}.
 $$
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/povrchove_sily.png" alt="Povrchové sily" width="400">
-</p>
+![[images/povrchove_sily.png|Povrchové sily|400]]
 
 > **Obr. 2.4.3.** Povrchové sily.
 
@@ -44,9 +40,7 @@ $$
 h = \frac{2\sigma}{R\varrho g}.
 $$
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/kapilarna_elevacia_a_depresia.png" alt="Kapilárna elevácia a depresia" width="400">
-</p>
+![[images/kapilarna_elevacia_a_depresia.png|Kapilárna elevácia a depresia|400]]
 
 > **Obr. 2.4.4.** Kapilárna elevácia (vľavo) a depresia (vpravo).
 
@@ -91,9 +85,7 @@ U väčšiny kvapalín ich objem rastie s rastúcou teplotou. Voda má medzi vš
 
 Anomália vody je veľmi dôležitý jav najmä v prírode. Spôsobuje, že v zime sa voda s teplotou $4\ ^\circ\mathrm{C}$ drží pri dne (pretože má najväčšiu hustotu), čo umožňuje prežiť zimu vodným živočíchom a rastlinám. Dôsledkom anomálie vody je teda aj fakt, že voda zamŕza od hladiny.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/teplotna_zavislost_hustoty_vody.png" alt="Teplotná závislosť hustoty vody" width="500">
-</p>
+![[images/teplotna_zavislost_hustoty_vody.png|Teplotná závislosť hustoty vody|500]]
 
 > **Obr. 2.4.5.** Teplotná závislosť hustoty vody.
 

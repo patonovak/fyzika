@@ -4,10 +4,8 @@ title: Vodič v elektrickom poli
 
 Ak vložíme do elektrického poľa (napr. záporne nabitej tyče) elektrický vodič (na obr. 4.1.10 kovová guľa), elektrické náboje na vodiči sa preskupia tak, že na strane, kde sa približujeme s tyčou, sa objaví opačný elektrický náboj. Na druhej strane vodiča sa objaví rovnaký náboj, s ktorým sa približujeme. Na oboch koncoch vodiča sa indukuje elektrický náboj. Tento jav nazývame elektrostatická indukcia. Je to jav, ktorý nastáva po vložení vodiča do vonkajšieho elektrického poľa a v dôsledku premiestnenia voľných nosičov náboja vedie k vzniku tzv. indukovaného náboja.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/elektrostaticka_indukcia.png" alt="Elektrostatická indukcia">
-  <figcaption>Obr. 4.1.10: Elektrostatická indukcia.</figcaption>
-</figure>
+![[images/elektrostaticka_indukcia.png|Elektrostatická indukcia]]
+Obr. 4.1.10: Elektrostatická indukcia.
 
 Elektricky neutrálny vodič (guľa na obr. 4.1.10) obsahuje vykompenzovaný kladný a záporný náboj. Po priblížení kladne nabitej tyče začne táto tyč svojím elektrickým poľom pôsobiť na kladné aj záporné elektrické náboje vo vodiči. Ak sa záporné elektrické náboje (reprezentované elektrónmi) môžu voľne pohybovať, začnú sa premiestňovať do blízkosti kladne nabitej tyče, táto časť vodiča sa javí ako záporne nabitá. Naopak, na opačnej strane vodiča zostane kladný náboj, táto časť vodiča sa javí kladne nabitá.
 

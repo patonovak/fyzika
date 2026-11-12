@@ -20,10 +20,8 @@ $$
 a + X \rightarrow b + Y;\ E_r
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-binarna-zrazka.png" alt="Binárna zrážka častice s jadrom">
-  <figcaption>Obr. 6.3.2: Binárna zrážka častice $a$ s jadrom $X$. Častice $b$ a $Y$ sú vo všeobecnosti iné ako $a$ a $X$.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-binarna-zrazka.png|Binárna zrážka častice s jadrom]]
+Obr. 6.3.2: Binárna zrážka častice $a$ s jadrom $X$. Častice $b$ a $Y$ sú vo všeobecnosti iné ako $a$ a $X$.
 
 V prípade, že $b = a$, $Y = X$, je zrážka častíc **pružná** a nemení sa štruktúra častíc. Vo všeobecnom prípade, kedy dochádza k zmene štruktúry častíc, hovoríme o **nepružnej zrážke**. Binárne zrážky s uvedeným zápisom možno zaznačiť aj ako $X(a, b)Y$. Pri jadrových reakciách platí **zákon zachovania hmotnosti a energie**. Celková relativistická energia resp. hmotnosť častíc vstupujúcich do reakcie sa zachováva. Pre všetky jadrové reakcie bolo experimentálne overené, že v platnosti je aj **zákon zachovania elektrického náboja** a **zákon zachovania celkového počtu nukleónov**.
 
@@ -47,17 +45,13 @@ $$
 {}^{235}_{92}\mathrm{U} + {}^{1}_{0}\mathrm{n} \rightarrow {}^{236}_{92}\mathrm{U} \rightarrow {}^{139}_{56}\mathrm{Ba} + {}^{95}_{36}\mathrm{Kr} + 2\,{}^{1}_{0}\mathrm{n}
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-stiepenie-uranu.png" alt="Štiepenie uránového jadra pohltením neutrónu">
-  <figcaption>Obr. 6.3.2: Štiepenie uránového jadra pohltením neutrónu.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-stiepenie-uranu.png|Štiepenie uránového jadra pohltením neutrónu]]
+Obr. 6.3.2: Štiepenie uránového jadra pohltením neutrónu.
 
 Vzniknuté neutróny sú však veľmi rýchle. K štiepeniu dôjde len v prípade, že sa neutrón zachytí v jadre. Podmienkou vzniku štiepnej jadrovej reakcie tak musí byť ich spomalenie, tzv. **moderácia neutrónov**. Na zníženie kinetickej energie neutrónov sa využíva ich prechod vhodnou látkou - **moderátorom**. Využíva sa hlavne grafit, ľahká voda $\mathrm{H_2O}$ či ťažká voda $\mathrm{D_2O}$. Reťazovú reakciu je možné technickými postupmi riadiť. Pri reakcii vzniká určitý **stredný počet účinných neutrónov** $k$. Pre $k > 1$ hovoríme, že reakcia lavínovito narastá a pre $k < 1$, že reakcia vyhasína.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-jaslovske-bohunice-mochovce.png" alt="Jaslovské Bohunice a Mochovce">
-  <figcaption>Obr. 6.3.2: Jaslovské Bohunice a Mochovce.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-jaslovske-bohunice-mochovce.png|Jaslovské Bohunice a Mochovce]]
+Obr. 6.3.2: Jaslovské Bohunice a Mochovce.
 
 Technický význam má tzv. **stacionárna riadená reťazová reakcia** pre $k = 1$, ktorá prebieha v **jadrovom reaktore**. Na riadenie reakcií sa využíva absorbovanie neutrónov vhodným **absorbátorom**, čo môžu byť napr. jadrá bóru alebo kadmia. **Jadrová elektráreň** je elektráreň, v ktorej sa ako zdroj energie využíva jadrový reaktor. Teplo vzniknuté pri štiepení jadier v reaktore je využité k výrobe pary pre parné turbíny poháňajúce generátor elektrickej energie. Na ilustráciu účinnosti elektrární uveďme, že energia, ktorá sa získa z $1\ \mathrm{kg}$ uránu zodpovedá energii, ktorú by sme dostali spálením $3\ 000\ 000\ \mathrm{kg}$ uhlia. Na Slovensku fungujú dve jadrové elektrárne, jedna v **Jaslovských Bohuniciach** a druhá v **Mochovciach**.
 
@@ -65,10 +59,8 @@ Technický význam má tzv. **stacionárna riadená reťazová reakcia** pre $k 
 
 **Jadrový reaktor** je technologické zariadenie, v ktorom prebieha štiepenie jadier. Sú v ňom uložené palivové články so štiepnym materiálom. **Primárnym okruhom** je pomocou moderátora - vody - odvádzané teplo z reaktora. Nadbytočné neutróny sú pohlcované **regulačnými tyčami** zasunutými v **aktívnej zóne**. Para vyrobená v generátore prúdi **sekundárnym okruhom**. Celý reaktor a jeho primárny okruh je pre bezpečnosť umiestnený v ochrannom betónovom obale.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-zlozenie-jadroveho-reaktora.png" alt="Zloženie jadrového reaktora">
-  <figcaption>Obr. 6.3.2: Zloženie jadrového reaktora.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-zlozenie-jadroveho-reaktora.png|Zloženie jadrového reaktora]]
+Obr. 6.3.2: Zloženie jadrového reaktora.
 
 ## JADROVÁ SYNTÉZA
 
@@ -88,9 +80,7 @@ $$
 3\,{}^{2}_{1}\mathrm{H} \rightarrow {}^{4}_{2}\mathrm{He} + {}^{1}_{0}\mathrm{n} + {}^{1}_{1}\mathrm{p} + 21{,}6\ \mathrm{MeV}
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-jadrova-synteza-deuteria.png" alt="Jadrová syntéza deutéria na hélium">
-  <figcaption>Obr. 6.3.2: Jadrová syntéza deutéria na hélium prebieha v dvoch fázach, pričom sa uvoľňuje energia.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-jadrova-synteza-deuteria.png|Jadrová syntéza deutéria na hélium]]
+Obr. 6.3.2: Jadrová syntéza deutéria na hélium prebieha v dvoch fázach, pričom sa uvoľňuje energia.
 
 **Riadenú reťazovú jadrovú fúziu** sa zatiaľ nepodarilo technicky ovládnuť, je však sľubným zdrojom energie do budúcnosti. Experimenty prebiehajú v zariadeniach nazvaných **Tokamak**, kde sa vysoká teplota dosahuje pomocou horúcej plazmy v nádobe tvaru prstenca. **Neriadená reťazová jadrová fúzia** bola využitá pri konštruovaní vodíkovej bomby.

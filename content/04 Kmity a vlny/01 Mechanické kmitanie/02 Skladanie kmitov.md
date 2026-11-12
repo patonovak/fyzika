@@ -28,9 +28,7 @@ $$
 
 Zložením takýchto kmitov vzniká kmitanie s rovnakou frekvenciou, ale s rozdielnou amplitúdou. Časový diagram možno získať za pomoci fázorového diagramu, kde fázory kmitov znázorníme polohovými vektormi $\vec r_1$ a $\vec r_2$. Polohový vektor výsledného kmitania nájdeme ako vektorový súčet $\vec r = \vec r_1 + \vec r_2$.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/skladanie_izochronnych_kmitov.png" alt="Izochrónne kmity, fázorový a časový diagram" width="500">
-</p>
+![[images/skladanie_izochronnych_kmitov.png|Izochrónne kmity, fázorový a časový diagram|500]]
 
 > **Obr. 3.1.3.** Izochrónne kmity, fázorový a časový diagram. Postup pri konštrukcii časového diagramu.
 
@@ -94,9 +92,7 @@ Amplitúda výsledných kmitov je zjavne závislá od fázového rozdielu $\Delt
 > y = y_1 + y_2 = 2y_\mathrm{m}\cos\frac{(\omega_2 - \omega_1)t}{2}\sin\frac{(\omega_1 + \omega_2)t}{2} = 2y_\mathrm{m}\cos(\Delta\omega t)\sin\omega t.
 > $$
 >
-> <p class="measurement-figure callout-figure no-extra-frame">
->   <img src="/static/images/razy_zazneje.png" alt="Skladanie kmitov blízkej frekvencie" width="500">
-> </p>
+> ![[images/razy_zazneje.png|Skladanie kmitov blízkej frekvencie|500]]
 >
 > **Obr. 3.1.4.** Príklad skladania kmitov blízkej frekvencie.
 >
@@ -112,9 +108,7 @@ Amplitúda výsledných kmitov je zjavne závislá od fázového rozdielu $\Delt
 
 Skladaním kmitov s rôznymi frekvenciami vzniká kmitanie **neharmonické**. Môže byť však periodické a to len v tom prípade, že frekvencie kmitov sú v pomere celých čísel, teda keď platí $f_1/f_2 = k_1/k_2$. Na obrázku dole je príklad pre pomer frekvencií $1 : 2$ ($\omega_2 = 2\omega_1$).
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/skladanie_kmitov_roznych_frekvencii.png" alt="Skladanie kmitov s rôznymi frekvenciami" width="500">
-</p>
+![[images/skladanie_kmitov_roznych_frekvencii.png|Skladanie kmitov s rôznymi frekvenciami|500]]
 
 > **Obr. 3.1.5.** Skladanie kmitov s rôznymi frekvenciami.
 
@@ -150,8 +144,6 @@ $$
 
 Hmotný bod sa v tomto prípade pohybuje po zložitej trajektórii, len ak sú frekvencie kmitov v pomere celých čísel, vzniká periodické kmitanie a obrazce, ktoré nazývame **Lissajousove krivky** (obrazce). Príklady týchto obrazcov pre pomery frekvencií sú na nasledujúcej strane.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/lissajousove_krivky.png" alt="Lissajousove krivky" width="500">
-</p>
+![[images/lissajousove_krivky.png|Lissajousove krivky|500]]
 
 > **Obr. 3.1.6.** Lissajousove krivky.

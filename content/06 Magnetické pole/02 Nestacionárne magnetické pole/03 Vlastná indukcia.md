@@ -6,10 +6,8 @@ V obvode na obr. 5.2.3 sú v dvoch paralelných vetvách zapojené rezistor a ci
 
 Po zopnutí spínača spolu s rastúcim elektrickým prúdom rastie aj magnetická indukcia magnetického poľa, pole je nestacionárne. Toto pole tak indukuje v cievke elektrické pole a podľa Lenzovho zákona pôsobí proti zmene, ktorá ho vyvolala. To má za následok, že na cievke sa indukuje elektromotorické napätie s opačnou polaritou, akú má napätie na zdroji. Kvôli tomu prúd pretekajúci cievkou pomaly narastá, až dosiahne svoju maximálnu hodnotu. Vtedy nastáva ustálený stav, indukované pole zaniká. Po rozpojení obvodu sa v cievke indukuje napätie s rovnakou polaritou ako má zdroj, to má za následok pomalé „dohasínanie“ žiarovky vo vetve s cievkou.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/nestacionarne-magneticke-pole/obr-5-2-3.png" alt="Vlastná indukcia v obvode s rezistorom a cievkou">
-  <figcaption>Obr. 5.2.3: Ak zopneme spínač, žiarovka vo vetve s rezistorom sa rozsvieti ihneď, zatiaľ čo žiarovka vo vetve s cievkou sa rozsvieti neskôr. Časový priebeh prúdov v oboch vetvách je na obrázku vpravo.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/nestacionarne-magneticke-pole/obr-5-2-3.png|Vlastná indukcia v obvode s rezistorom a cievkou]]
+Obr. 5.2.3: Ak zopneme spínač, žiarovka vo vetve s rezistorom sa rozsvieti ihneď, zatiaľ čo žiarovka vo vetve s cievkou sa rozsvieti neskôr. Časový priebeh prúdov v oboch vetvách je na obrázku vpravo.
 
 **Vlastná indukcia** je jav, pri ktorom indukované elektrické pole vzniká v uzavretom vodiči aj pri zmenách magnetického poľa, ktoré sú vyvolané zmenami prúdu vo vlastnom vodiči. Ak prechádza cievkou elektrický prúd $I$, vznikne v jej dutine magnetické pole. Magnetický indukčný tok $\Phi$ plochou závitov cievky je
 

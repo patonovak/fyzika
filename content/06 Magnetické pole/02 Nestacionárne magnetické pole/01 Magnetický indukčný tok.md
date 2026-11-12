@@ -8,10 +8,8 @@ $$
 \Phi = B S \cos \alpha .
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/nestacionarne-magneticke-pole/obr-5-2-1.png" alt="Magnetický indukčný tok">
-  <figcaption>Obr. 5.2.1: Magnetický indukčný tok.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/nestacionarne-magneticke-pole/obr-5-2-1.png|Magnetický indukčný tok]]
+Obr. 5.2.1: Magnetický indukčný tok.
 
 Jednotkou tejto veličiny je **weber** ($\mathrm{Wb} = \mathrm{T}\cdot\mathrm{m^2}$). Uhol $\alpha$ meriame medzi vektorom magnetickej indukcie a normálou k danej ploche v magnetickom poli.
 

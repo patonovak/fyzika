@@ -10,7 +10,5 @@ $$
 
 Veličina $X_C$ sa nazýva **kapacitancia** kondenzátora a jej jednotkou je **ohm** ($\Omega$). Súvisí s kapacitou $C$ daného kondenzátora a s uhlovou frekvenciou striedavého prúdu. Kondenzátor v obvode striedavého prúdu sa teda správa opačne ako cievka.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-3-kondenzator.png" alt="Obvod striedavého prúdu s kondenzátorom, fázorový a časový diagram">
-  <figcaption>Obr. 5.3.3: Obvod striedavého prúdu s kondenzátorom, prúd predbieha napätie, resp. napätie sa oneskoruje za prúdom, pričom fázový posun je $\varphi = -\pi/2$.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-3-kondenzator.png|Obvod striedavého prúdu s kondenzátorom, fázorový a časový diagram]]
+Obr. 5.3.3: Obvod striedavého prúdu s kondenzátorom, prúd predbieha napätie, resp. napätie sa oneskoruje za prúdom, pričom fázový posun je $\varphi = -\pi/2$.

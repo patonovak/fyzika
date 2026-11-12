@@ -4,17 +4,13 @@ title: Žiarenie absolútne čierneho telesa
 
 Tuhé telesá zahriate na dostatočnú teplotu sa rozžeravujú, vydávajú viditeľné svetlo. Pri akomkoľvek zahriatom telese, ktoré zo svojho povrchu vyžaruje energiu, hovoríme o **tepelnom žiarení**. Tepelný pohyb atómov je spojený so zrýchleným pohybom častíc s elektrickým nábojom, dochádza k vyžarovaniu elektromagnetického vlnenia. **Tepelné žiarenie je elektromagnetické žiarenie so spojitým spektrom.** Telesá žiarenie nielen vydávajú, ale ho aj pohlcujú. Na popis týchto dejov je vhodné zaviesť hypotetické teleso - abstrakciu telesa, ktoré by pohltilo všetko naň dopadajúce žiarenie. Nazývame ho **(absolútne) čierne teleso**.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-1-cierne-teleso.png" alt="Absolútne čierne teleso ako dutina s malým otvorom">
-  <figcaption>Obr. 6.1.1: Absolútne čierne teleso je hypotetické teleso, ktoré by bolo schopné pohltiť všetko naň dopadajúce elektromagnetické žiarenie. Takéto teleso by bolo zároveň aj dokonalým žiaričom.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-1-cierne-teleso.png|Absolútne čierne teleso ako dutina s malým otvorom]]
+Obr. 6.1.1: Absolútne čierne teleso je hypotetické teleso, ktoré by bolo schopné pohltiť všetko naň dopadajúce elektromagnetické žiarenie. Takéto teleso by bolo zároveň aj dokonalým žiaričom.
 
 Vlastnostiam uvedeného hypotetického telesa sa najviac blíži dutina s matnou čiernou plochou. Keď do tejto dutiny prenikne žiarenie, mnohonásobnými odrazmi od stien sa dokonale pohltí. Otvor tejto dutiny sa tak stáva dokonalým žiaričom. Pri určitej teplote $T$ je čierne teleso žiaričom, ktorý vyžaruje do okolia elektromagnetické vlnenie s rôznymi vlnovými dĺžkami. Možno vykresliť graf závislosti funkcie $M_\lambda(\lambda, T)$ od vlnovej dĺžky $\lambda$. Veličinu $M_\lambda$ nazveme spektrálna hustota intenzity vyžarovania a jej význam je v tom, že určuje, aká časť celkovej energie vyžiarenej zdrojom za jednotkový čas prislúcha žiareniu s vlnovou dĺžkou $\lambda$ pri teplote zdroja žiarenia $T$.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-1-spektralna-hustota.png" alt="Závislosť spektrálnej hustoty intenzity vyžarovania od vlnovej dĺžky">
-  <figcaption>Obr. 6.1.1: Závislosť spektrálnej hustoty intenzity vyžarovania od vlnovej dĺžky, dúhou je znázornené viditeľné spektrum.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-1-spektralna-hustota.png|Závislosť spektrálnej hustoty intenzity vyžarovania od vlnovej dĺžky]]
+Obr. 6.1.1: Závislosť spektrálnej hustoty intenzity vyžarovania od vlnovej dĺžky, dúhou je znázornené viditeľné spektrum.
 
 Pre **intenzitu vyžarovania** $M_e$ čierneho telesa - množstvo energie, ktorú toto teleso vyžiari za jednotkový čas z jednotkovej plochy - platí **Stefanov-Boltzmannov zákon**
 
@@ -43,10 +39,8 @@ $$
 E = hf.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-1-max-planck.png" alt="Max Planck">
-  <figcaption>Obr. 6.1.1: Max Planck (1858 - 1947).</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-1-max-planck.png|Max Planck]]
+Obr. 6.1.1: Max Planck (1858 - 1947).
 
 Veľkosť kvanta energie tak závisí na frekvencii žiarenia $f$, konštanta $h = 6{,}626\ 070\ 15\cdot 10^{-34}\ \mathrm{J}\cdot\mathrm{s}$ je dôležitou fyzikálnou konštantou a nazýva sa **Planckova konštanta**. S ohľadom na malú hodnotu tejto konštanty je kvantum energie veľmi malé, prenos energie sa uskutočňuje veľkým počtom kvánt, preto sa dej prenosu energie javí ako spojitý. Sám Max Planck považoval kvantovú hypotézu len za pomôcku, ktorú použil pri odvodení hľadaného vzťahu. Kvantám nepripisoval hlbšiu fyzikálnu podstatu.
 

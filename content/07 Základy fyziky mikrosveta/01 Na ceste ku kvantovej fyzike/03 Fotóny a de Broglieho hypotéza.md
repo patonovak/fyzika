@@ -28,10 +28,8 @@ $$
 \lambda = \frac{h}{p} = \frac{h}{mv}.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-3-louis-victor-de-broglie.png" alt="Louis Victor de Broglie">
-  <figcaption>Obr. 6.1.3: Louis Victor de Broglie (1892 - 1987).</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-3-louis-victor-de-broglie.png|Louis Victor de Broglie]]
+Obr. 6.1.3: Louis Victor de Broglie (1892 - 1987).
 
 Táto myšlienka bola potvrdená pri mnohých experimentoch, menujme napríklad Davissonov-Germerov experiment, kde bol pozorovaný rozptyl elektrónov na kryštáloch niklu. Za objav vlnovej povahy elektrónov dostal dokonca Louis Victor de Broglie v roku 1929 Nobelovu cenu za fyziku. Kvantovanie energie a de Broglieho hypotéza predstavujú základné piliere teórie rozpracovanej začiatkom 20. storočia známej ako **kvantová mechanika**.
 

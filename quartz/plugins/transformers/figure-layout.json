@@ -1,0 +1,966 @@
+{
+  "images/vahy.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/radian.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/vektor.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/pohyb_pokoj.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/polohahb.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/polohovy_vektor.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "callout-figure"]
+  },
+  "images/draha.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/rychlost.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/rychlost_vektor.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/vektor_okamzitej_rychlosti.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "callout-figure"]
+  },
+  "images/rpp.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/grafy_rpp.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/rzp.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/grafy_rzp.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/grafy_rsp.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/aristoteles_galileo.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/rppk.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/rppk_vektor_rychlosti.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/dostredive_zrychlenie.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/zlozky_zrychlenia.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "callout-figure"]
+  },
+  "images/ucinok_sily.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/skladanie_sil_rovnobezne_vyslednica.svg": {
+    "tag": "figure",
+    "classes": ["force-composition-figure", "no-extra-frame"]
+  },
+  "images/tahanie_bremena.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/skladanie_sil_opacne_vyslednica.svg": {
+    "tag": "figure",
+    "classes": ["force-composition-figure", "no-extra-frame"]
+  },
+  "images/skladanie_sil_kolme_vyslednica.svg": {
+    "tag": "figure",
+    "classes": ["force-composition-figure", "no-extra-frame"]
+  },
+  "images/skladanie_sil_roznebezne_vyslednica.svg": {
+    "tag": "figure",
+    "classes": ["force-composition-figure", "no-extra-frame"]
+  },
+  "images/isaac_newton.png": {
+    "tag": "p",
+    "classes": ["measurement-figure"]
+  },
+  "images/inercialna_vztazna_sustava.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/zmena_hybnosti.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/druhy_newtonov_zakon.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/akcia_a_reakcia.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/dostrediva_sila_priklady.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/trenie.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/mechanicka_praca.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/pohybova_energia.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/polohova_energia.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/gravitacny_zakon.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/radialne_vs_homogenne_g.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/zvisly_vrh.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/vodorovny_vrh.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/sikmy_vrh.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/kruhova_rychlost.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/kruhova_rychlost_gravitacny_zakon.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/kepler.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/druhy_keplerov_zakon.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide"]
+  },
+  "images/difuzia.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/brownov_pohyb.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/vzajomne_posobenie_castic.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/anders_celsius.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/william_thomson.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/zmena_vnutornej_energie_pracou.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/teleso_v_kalorimetri.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/maxwellovo_boltzmannovo_rozdelenie.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "callout-figure", "no-extra-frame"]
+  },
+  "images/praca_plynu.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/izoterma_praca_plynu.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/izochora.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/izobara.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/adiabata.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/kruhovy_dej.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/cyklicky_tepelny_stroj.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/priklad_cyklicky_dej.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "callout-figure", "no-extra-frame"]
+  },
+  "images/typy_deformacie.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/sily_pruznosti_v_tuhom_telese.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/predlzenie_tyce.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/krivka_deformacie.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/krystalicka_a_amorfna_latka.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/povrchova_vrstva_a_povrchove_sily.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/povrchova_vrstva_kvapaliny.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/povrchove_sily.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/kapilarna_elevacia_a_depresia.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/teplotna_zavislost_hustoty_vody.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/krivka_nasytenej_pary.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/topenie_krystalickej_a_amorfnej_latky.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fazovy_diagram.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/premeny_skupenstva_latok.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/kinematika_kmitaveho_pohybu.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/skladanie_izochronnych_kmitov.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/razy_zazneje.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "callout-figure", "no-extra-frame"]
+  },
+  "images/skladanie_kmitov_roznych_frekvencii.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/lissajousove_krivky.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/kmitavy_pohyb_telesa_na_pruzine.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/matematicke_kyvadlo.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/energia_a_tlmene_kmitanie_oscilatora.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/nutene_kmitanie_a_rezonancna_krivka.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/mechanicke_oscilatory.png": {
+    "tag": "p",
+    "classes": ["measurement-figure", "figure-wide", "no-extra-frame"]
+  },
+  "images/vlnova_dlzka.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/interferencia_dvoch_vlneni.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/konstruktivna_interferencia.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/destruktivna_interferencia.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/stojate_vlnenie_kmitne_uzly.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/zdroj_vlnenia_a_vlnoplochy.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/odraz_vlnenia_na_rozhrani.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/lom_vlnenia_na_rozhrani.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/odraz_vlnenia_na_pevnom_a_volnom_konci.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/postupne_priecne_a_pozdlzne_mechanicke_vlnenie.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/casove_priebehy_tonov_a_hluku.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/rychlost_zvuku_pri_20_c.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/ozvena_a_odraz_zvuku.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/vyuzitie_a_vyskyt_ultrazvuku.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/zdroje_infrazvuku_v_prirode.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/christian_johann_doppler.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/dopplerov_jav_vztahy_pre_frekvenciu.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/opticke_prostredia.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/zakon_odrazu_svetla.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/lom_svetla.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/disperzia_svetla.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/interferencia_na_dvojstrbine.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/interferencia_na_tenkej_vrstve.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/newtonove_skla.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/difrakcia_svetla_na_optickej_mriezke.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/polarizacia_svetla.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/polarizacia_svetla_odrazom.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/polarizacia_svetla_polarizacnym_filtrom.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/polarizacia_dvojlomom.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/axiomy_geometrickej_optiky.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/vznik_obrazu_na_sietnici.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/zobrazovanie_rovinnym_zrkadlom.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/gulove_zrkadlo_dute_a_vypukle.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/znamienkova_konvencia_guloveho_zrkadla.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/zobrazovanie_gulovym_zrkadlom.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/vlastnosti_obrazu_gulove_zrkadla.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/typy_sosoviek.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/zakladne_pojmy_sosoviek.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/prechod_paraxialnych_lucov_sosovkou.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/zobrazenie_predmetu_tenkou_sosovkou.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/vlastnosti_obrazu_tenka_sosovka.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/akomodacia_oka.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/normalne_kratkozrake_a_dalekozrake_oko.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/zorny_uhol.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/pozorovanie_lupou.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/zostrojenie_obrazu_mikroskopom.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/keplerov_dalekohlad.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/galileiho_dalekohlad.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/james_clerk_maxwell.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/lc_obvod.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/elektromagneticka_vlna.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/spektrum_elektromagnetickeho_ziarenia.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/prvy_rontgenovy_snimok.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/dvojvodicove_vedenie.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/elektromagneticky_dipol.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/charles_augustin_de_coulomb.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/elektrometer.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/elektricke_silove_posobenie.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/radialne_a_homogenne_elektricke_pole.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/silociary_dvoch_nabojov.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/elektricky_potencial.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/ekvipotencialne_plochy.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/elektricke_napatie.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/elektrostaticka_indukcia.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/polarizacia_izolantu_typy.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/polarizacia_izolantu_vnutorne_pole.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/zapojenie_kondenzatorov.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/thales_z_miletu.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/jednoduchy-elektricky-obvod.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/pohyb-castic-v-obvode.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/georg-ohm.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/seriove-zapojenie-rezistorov.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/paralelne-zapojenie-rezistorov.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/typy-zdrojov.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/predradeny-rezistor-voltmeter.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/bocnik-ampermeter.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/gustav-kirchhoff.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/odpor-polovodicov-teplota.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/pary-elektron-diera.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/polovodic-typu-n-p.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/hradlova-vrstva-pn-prechod.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/dioda-zaverny-priepustny-smer.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/voltamperova-charakteristika-diody.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/elektrolyza-roztok-cucl2.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/michael-faraday.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/elektricky-prud/typy-elektrickych-vybojov.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-1.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-2.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-3.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-4.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-5.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-6.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-7.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-8.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-9.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-10.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-11.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-12.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-13.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-14.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-15.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/nestacionarne-magneticke-pole/obr-5-2-1.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/nestacionarne-magneticke-pole/obr-5-2-2.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/nestacionarne-magneticke-pole/obr-priklad-5-2-2.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "callout-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/nestacionarne-magneticke-pole/obr-5-2-3.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-1-rezistor.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-1-okamzity-vykon.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-2-cievka.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-3-kondenzator.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-4-rlc-obvod.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-5-trojfazovy-alternator.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-5-zapojenie-spotrebicov.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-6-transformator.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-1-fazorovy-casovy-diagram.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-1-cierne-teleso.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-1-spektralna-hustota.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-1-max-planck.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-2-vonkajsi-fotoefekt.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-2-albert-einstein.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/na-ceste-ku-kvantovej-fyzike/obr-6-1-3-louis-victor-de-broglie.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-katodova-trubica-millikan.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-spektra-latok.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-thomsonov-model.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-ernest-rutherford.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-rutherfordov-model.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-niels-bohr.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-bohrov-model.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-emisne-spektrum-vodika.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-johannes-rydberg.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-energeticke-hladiny-vodika.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-orbitaly-vodik.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-stojate-vlny.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-wolfgang-pauli.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-2-absorpcie-emisie.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-2-vyuzitie-lasera.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-demokritos.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-1-izotopy-vodika.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-1-hmotnostny-ubytok.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-1-stabilne-nuklidy.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-binarna-zrazka.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-stiepenie-uranu.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-jaslovske-bohunice-mochovce.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-zlozenie-jadroveho-reaktora.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-2-jadrova-synteza-deuteria.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-becquerel-curie.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-prenikavost-ziarenia.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-premena-alfa.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-premena-beta-minus.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-premena-beta-plus.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-deexcitacia-gama.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-zakon-radioaktivnej-premeny.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-1-delenie-castic.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-2-zakladne-interakcie.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-2-tabulka-interakcii.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-3-zakladny-system-castic.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  },
+  "images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-3-lhc.png": {
+    "tag": "figure",
+    "classes": ["measurement-figure", "no-extra-frame"]
+  }
+}

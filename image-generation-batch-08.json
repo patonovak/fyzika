@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-12",
+  "batch": "08-tuhe-latky",
+  "mode": "Scientific SVG diagrams rendered to PNG with sharp",
+  "assets": [
+    "typy_deformacie.png",
+    "sily_pruznosti_v_tuhom_telese.png",
+    "predlzenie_tyce.png",
+    "krivka_deformacie.png",
+    "krystalicka_a_amorfna_latka.png"
+  ],
+  "generator": "scripts/generate-solids-batch-08.mjs",
+  "validation": [
+    "All five images visually inspected; unsupported Unicode subscripts replaced by SVG text spans.",
+    "Internal cut forces act on different halves with equal and opposite directions.",
+    "Torsion uses opposite force couples with into/out-of-plane symbols.",
+    "Stress-strain curve is schematic, not measured data; maximum stress and fracture are distinguished.",
+    "Particle arrangements are schematic 2D illustrations, not a material-specific atomic model."
+  ],
+  "notes": "Exact filenames preserved; lesson text unchanged."
+}

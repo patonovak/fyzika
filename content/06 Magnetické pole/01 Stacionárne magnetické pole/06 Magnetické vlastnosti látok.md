@@ -10,9 +10,7 @@ Na príklade cievky pretekanej elektrickým prúdom sme si všimli, že veľkos�
 
 - Feromagnetické látky. Sú zložené z paramagnetických atómov, avšak v takom usporiadaní, že výrazne zosilňujú magnetické pole. Relatívna permeabilita feromagnetika má veľkú hodnotu, rádovo stovky až desaťtisíce. Patrí medzi ne napr. železo, kobalt, nikel a ich zliatiny. Feromagnetiká delíme na magneticky tvrdé látky (zostávajú magnetom aj po zániku vonkajšieho poľa) a magneticky mäkké látky (strácajú vlastnosti magnetu po zániku vonkajšieho magnetického poľa). Existuje v nich vnútorné pole, ktoré vytvorí v celých oblastiach feromagnetika nasýtenú magnetizáciu. Príčinou sú tzv. výmenné interakcie medzi elektrónmi atómov viazaných v určitej kryštalickej oblasti. Nazývame ich magnetické domény. Ich objem je približne $10^{-3}$ – $10\ \mathrm{mm}^3$. Bez vonkajšieho poľa sú domény chaoticky orientované. Po vložení do magnetického poľa sa súhlasne orientujú a látka získava magnetické vlastnosti.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-15.png" alt="Magnetické domény bez vonkajšieho magnetického poľa a s vonkajším magnetickým poľom">
-  <figcaption>Obr. 5.1.15: Domény bez vonkajšieho magnetického poľa (vľavo) a s vonkajším magnetickým poľom (vpravo).</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-15.png|Magnetické domény bez vonkajšieho magnetického poľa a s vonkajším magnetickým poľom]]
+Obr. 5.1.15: Domény bez vonkajšieho magnetického poľa (vľavo) a s vonkajším magnetickým poľom (vpravo).
 
 Feromagnetizmus nie je vlastnosťou jedného atómu, ale štruktúry celej látky. Prejavuje sa, len ak je materiál v kryštalickom stave. Neprejavuje sa v kvapalnom a plynnom stave, vtedy sa tieto látky správajú ako paramagnetiká. Pre každú feromagnetickú látku existuje určitá teplota, po ktorej prekročení stráca svoje feromagnetické vlastnosti a stáva sa paramagnetickou. Táto teplota sa nazýva Curieho teplota.

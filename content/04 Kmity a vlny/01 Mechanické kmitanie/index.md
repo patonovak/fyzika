@@ -6,9 +6,7 @@ V technickej praxi a v prírode je veľmi rozšíreným pohybom pohyb **periodic
 
 **Mechanický oscilátor** je zariadenie, ktoré vykonáva voľne, bez vonkajšieho pôsobenia, kmitavý pohyb. Môže to byť napr. teleso zavesené na pružine, kyvadlo, guľka v jamke alebo kvapalina v U-trubici.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/mechanicke_oscilatory.png" alt="Jednoduché mechanické oscilátory" width="500">
-</p>
+![[images/mechanicke_oscilatory.png|Jednoduché mechanické oscilátory|500]]
 
 > **Obr. 3.1.1.** Jednoduchým mechanickým oscilátorom je napr. kyvadlo, guľka v jamke alebo kvapalina v U-trubici.
 

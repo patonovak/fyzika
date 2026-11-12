@@ -50,10 +50,8 @@ $$
 C = C_1 + C_2 + ... + C_n.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/zapojenie_kondenzatorov.png" alt="Sériové a paralelné zapojenie kondenzátorov">
-  <figcaption>Obr. 4.1.13: Sériové zapojenie (hore) a paralelné zapojenie (dole) dvoch kondenzátorov.</figcaption>
-</figure>
+![[images/zapojenie_kondenzatorov.png|Sériové a paralelné zapojenie kondenzátorov]]
+Obr. 4.1.13: Sériové zapojenie (hore) a paralelné zapojenie (dole) dvoch kondenzátorov.
 
 > [!example] Príklad 4.1.2: Napätie na kondenzátoroch
 > Majme dva kondenzátory s kapacitami 4 nF a 6 nF, ktoré nabijeme na napätie 20 V a 40 V. Takto nabité kondenzátory zapojíme súhlasnými pólmi paralelne. Určte, aké bude výsledné napätie na zapojení kondenzátorov.

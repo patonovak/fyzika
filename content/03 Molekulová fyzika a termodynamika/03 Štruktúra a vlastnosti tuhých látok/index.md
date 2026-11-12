@@ -16,9 +16,7 @@ Väčšina telies, s ktorými sa stretávame, sú vyrobené z tuhých látok. **
 2. **Amorfné (beztvaré) látky**  
    V amorfnej látke sú častice okolo vybranej častice rozložené zhruba pravidelne, ale so zväčšujúcimi sa vzdialenosťami táto pravidelnosť klesá, hovoríme o **krátkodosahovom usporiadaní**. Medzi amorfné látky patrí napr. sklo, jantár, živica, vosk a látky s názvom **polyméry**. Dlhé makromolekuly polymérov sú často navzájom prepletené, stočené (kaučuk, celulóza, bielkoviny, celofán, PVC). Amorfné látky sú **izotropné**.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/krystalicka_a_amorfna_latka.png" alt="Kryštalická látka a amorfná látka" width="500">
-</p>
+![[images/krystalicka_a_amorfna_latka.png|Kryštalická látka a amorfná látka|500]]
 
 > **Obr. 2.3.1.** Kryštalická látka (vľavo) a amorfná látka (vpravo).
 

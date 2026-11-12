@@ -10,10 +10,8 @@ $$
 M = BIS \sin \alpha
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-12.png" alt="Závit s prúdom v homogénnom magnetickom poli">
-  <figcaption>Obr. 5.1.12: Závit s prúdom v homogénnom magnetickom poli.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-12.png|Závit s prúdom v homogénnom magnetickom poli]]
+Obr. 5.1.12: Závit s prúdom v homogénnom magnetickom poli.
 
 Pri otáčaní závitu sa zmenšuje uhol medzi normálou plochy závitu a indukčnými čiarami, až kým nebude normála plochy s nimi rovnobežná. Vtedy je moment dvojice magnetických síl nulový a závit s prúdom sa nachádza v rovnovážnej polohe.
 
@@ -25,10 +23,8 @@ $$
 
 Smer magnetickej sily závisí od náboja častice. Ak má kladný náboj ($Q > 0$), použijeme Flemingovo pravidlo ľavej ruky (smer prúdu nahradíme smerom rýchlosti častice). Pre záporný náboj ($Q < 0$) je smer pôsobiacej magnetickej sily opačný.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-13.png" alt="Určenie smeru magnetickej sily pôsobiacej na časticu s nábojom">
-  <figcaption>Obr. 5.1.13: Určenie smeru magnetickej sily pôsobiacej na časticu s nábojom.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-13.png|Určenie smeru magnetickej sily pôsobiacej na časticu s nábojom]]
+Obr. 5.1.13: Určenie smeru magnetickej sily pôsobiacej na časticu s nábojom.
 
 > [!info] ROZŠIRUJÚCE UČIVO
 > **ČASTICA S NÁBOJOM V MAGNETICKOM POLI VEKTOROVO**
@@ -61,7 +57,5 @@ $$
 
 - Častica s nábojom vletí do homogénneho magnetického poľa tak, že vektor jej okamžitej rýchlosti zviera uhol $\alpha$ s vektorom magnetickej indukcie. Častica má nenulovú zložku rýchlosti v smere vektora magnetickej indukcie a pohybuje sa po špirále.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-14.png" alt="Pohyb častice s kladným nábojom v magnetickom poli kolmo na indukčné čiary">
-  <figcaption>Obr. 5.1.14: Ak vletí častica s kladným nábojom do magnetického poľa kolmo na indukčné čiary, začne sa pohybovať po kružnici. Magnetická sila nemení veľkosť okamžitej rýchlosti častice. Meraním polomeru kružnicovej trajektórie možno vypočítať hmotnosť častice. x Vektor magnetickej indukcie smeruje do listu papiera. ⊙ Vektor magnetickej indukcie vystupuje z listu papiera.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-14.png|Pohyb častice s kladným nábojom v magnetickom poli kolmo na indukčné čiary]]
+Obr. 5.1.14: Ak vletí častica s kladným nábojom do magnetického poľa kolmo na indukčné čiary, začne sa pohybovať po kružnici. Magnetická sila nemení veľkosť okamžitej rýchlosti častice. Meraním polomeru kružnicovej trajektórie možno vypočítať hmotnosť častice. x Vektor magnetickej indukcie smeruje do listu papiera. ⊙ Vektor magnetickej indukcie vystupuje z listu papiera.

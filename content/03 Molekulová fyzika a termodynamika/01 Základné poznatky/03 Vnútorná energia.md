@@ -17,9 +17,7 @@ $$
 
 Vnútornú energiu telesa (sústavy) možno meniť dejom, ktorý nazývame konanie práce. Ak máme v nádobe plyn, ktorý adiabaticky stlačíme (nedochádza k tepelnej výmene s okolím), pôsobením tlakovej sily s veľkosťou $F$ sa posunie piest v nádobe o dráhu $s$. V dôsledku toho sa zmení vnútorná energia plynu, vzrastie o hodnotu vykonanej práce, teda $\Delta U = U_2 - U_1 = W > 0$.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/zmena_vnutornej_energie_pracou.png" alt="Zmena vnútornej energie plynu konaním práce" width="500">
-</p>
+![[images/zmena_vnutornej_energie_pracou.png|Zmena vnútornej energie plynu konaním práce|500]]
 
 > **Obr. 2.1.6.** Pôsobením tlakovej sily na piest sa zväčší vnútorná energia plynu v nádobe.
 
@@ -69,9 +67,7 @@ $$
 c_1 m_1 (T_1 - T) = c_2 m_2 (T - T_2)
 $$
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/teleso_v_kalorimetri.png" alt="Teleso v kalorimetri" width="400">
-</p>
+![[images/teleso_v_kalorimetri.png|Teleso v kalorimetri|400]]
 
 > **Obr. 2.1.7.** Teleso v kalorimetri.
 

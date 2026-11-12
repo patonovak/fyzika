@@ -9,19 +9,15 @@ title: Geometrická optika
 - **Princíp zámennosti chodu svetelného lúča.** Po tej istej trajektórii môže prejsť svetlo oboma smermi.
 - **Fermatov princíp najmenšieho času.** Medzi dvoma bodmi sa svetlo šíri po takej trajektórii, ktorú prejde za najkratší čas.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/axiomy_geometrickej_optiky.png" alt="Princípy geometrickej optiky">
-  <figcaption>Obr. 3.4.20. Princíp nezávislosti chodu svetelných lúčov. Princíp zámennosti chodu svetelného lúča. Fermatov princíp najmenšieho času, svetlo sa šíri po takej trajektórii, ktorú prejde za najkratší čas.</figcaption>
-</figure>
+![[images/axiomy_geometrickej_optiky.png|Princípy geometrickej optiky]]
+Obr. 3.4.20. Princíp nezávislosti chodu svetelných lúčov. Princíp zámennosti chodu svetelného lúča. Fermatov princíp najmenšieho času, svetlo sa šíri po takej trajektórii, ktorú prejde za najkratší čas.
 
 ## Optické zobrazovanie a sústavy
 
 Z každého bodu zdroja svetla, alebo aj osvetleného telesa, vychádza rozbiehavý zväzok svetelných lúčov. Oko po dopade zmení tento zväzok na zbiehavý, ktorý sa pretne v určitom bode na sietnici oka. Vzniká **obraz bodu**. Súhrn obrazov všetkých bodov pozorovaného telesa vytvára celkový obraz telesa. Zaužívané sú pojmy **predmet a obraz**.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/vznik_obrazu_na_sietnici.png" alt="Vznik obrazu predmetu na sietnici oka">
-  <figcaption>Obr. 3.4.21. Vznik obrazu P' predmetu P na sietnici oka.</figcaption>
-</figure>
+![[images/vznik_obrazu_na_sietnici.png|Vznik obrazu predmetu na sietnici oka]]
+Obr. 3.4.21. Vznik obrazu P' predmetu P na sietnici oka.
 
 **Optická sústava** (zobrazovacia) je usporiadanie optických prostredí a ich rozhraní, ktoré menia smer chodu svetelných lúčov. Môže to byť napr. fotoaparát, oko, šošovka a iné. **Optické zobrazovanie** je postup, ktorým získavame obrazy bodov (obraz predmetu).
 
@@ -31,19 +27,15 @@ Ak lúče po prechode optickou sústavou vytvoria zbiehavý zväzok, vznikne v i
 
 **Rovinné zrkadlo** je hladká optická plocha, ktorá odráža dopadajúce svetelné lúče. Pri optickom zobrazení sa teda uplatňuje len odraz svetla. Na povrchu takéhoto zrkadla býva vyleštená vrstva kovu. Obraz predmetu zostrojíme tak, že pomocou zákona odrazu nájdeme obraz každého bodu predmetu. Lúče po odraze na zrkadle sú rozbiehavé, vzniká teda obraz neskutočný (zdanlivý). Celkovo možno povedať, že obraz vytvorený rovinným zrkadlom je vždy **zdanlivý, vzpriamený, rovnako veľký ako predmet a súmerný s predmetom podľa roviny zrkadla**.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/zobrazovanie_rovinnym_zrkadlom.png" alt="Zobrazovanie rovinným zrkadlom">
-  <figcaption>Obr. 3.4.22. Zobrazovanie rovinným zrkadlom a vlastnosti obrazu.</figcaption>
-</figure>
+![[images/zobrazovanie_rovinnym_zrkadlom.png|Zobrazovanie rovinným zrkadlom]]
+Obr. 3.4.22. Zobrazovanie rovinným zrkadlom a vlastnosti obrazu.
 
 ## Zobrazovanie guľovým zrkadlom
 
 **Guľové zrkadlo** je tvorené zobrazovacou plochou na vnútornej časti povrchu gule - **duté zrkadlo** (konkávne) alebo plochou na vonkajšej časti povrchu gule - **vypuklé zrkadlo** (konvexné). Dôležité pojmy pre guľové zrkadlá sú: **stred krivosti** $C$ - stred guľovej plochy zrkadla, **optická os zrkadla** $o$ - priamka vedená stredom optickej plochy, **vrchol zrkadla** $V$ - priesečník optickej osi s guľovou plochou zrkadla. Vzdialenosť stredu krivosti a vrcholu zrkadla je **polomer krivosti zrkadla** $r = |CV|$. Pri dopade lúčov na zrkadlo budeme uvažovať len tzv. **paraxiálne lúče**, čo sú lúče v blízkosti optickej osi. Bod v strede medzi vrcholom zrkadla a stredom krivosti sa nazýva **ohnisko**, označujeme ho $F$, pričom platí $|CF| = |FV|$.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/gulove_zrkadlo_dute_a_vypukle.png" alt="Guľové zrkadlo duté a vypuklé">
-  <figcaption>Obr. 3.4.23. Guľové zrkadlo duté (vľavo) a guľové zrkadlo vypuklé (vpravo).</figcaption>
-</figure>
+![[images/gulove_zrkadlo_dute_a_vypukle.png|Guľové zrkadlo duté a vypuklé]]
+Obr. 3.4.23. Guľové zrkadlo duté (vľavo) a guľové zrkadlo vypuklé (vpravo).
 
 Vzdialenosť ohniska od vrcholu zrkadla sa nazýva **ohnisková vzdialenosť** $f = r/2$. Ku geometrickej konštrukcii obrazu používame smer **troch význačných lúčov**. Konštrukcia týchto lúčov pre duté aj pre vypuklé zrkadlo je znázornená na obr. 3.4.23.
 
@@ -61,15 +53,11 @@ $$
 
 Pri dosadzovaní do tejto rovnice však musíme dodržiavať **znamienkovú konvenciu**.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/znamienkova_konvencia_guloveho_zrkadla.png" alt="Tabuľka so znamienkovou konvenciou">
-  <figcaption>Obr. 3.4.24. Tabuľka so znamienkovou konvenciou.</figcaption>
-</figure>
+![[images/znamienkova_konvencia_guloveho_zrkadla.png|Tabuľka so znamienkovou konvenciou]]
+Obr. 3.4.24. Tabuľka so znamienkovou konvenciou.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/zobrazovanie_gulovym_zrkadlom.png" alt="Zobrazenie predmetu guľovým zrkadlom">
-  <figcaption>Obr. 3.4.25. Zobrazenie predmetu guľovým zrkadlom (dutým aj vypuklým).</figcaption>
-</figure>
+![[images/zobrazovanie_gulovym_zrkadlom.png|Zobrazenie predmetu guľovým zrkadlom]]
+Obr. 3.4.25. Zobrazenie predmetu guľovým zrkadlom (dutým aj vypuklým).
 
 Pomer výšky obrazu $y'$ a výšky predmetu $y$ nazývame **priečne zväčšenie** $Z$. Platia preň aj vzťahy
 
@@ -79,10 +67,8 @@ $$
 
 Ak dostaneme $Z < 0$ obraz je **prevrátený**. Pre $Z > 0$ je obraz **priamy**. Pre $|Z| > 1$ je obraz **zväčšený**, pre $|Z| = 1$ **rovnako veľký** ako predmet a pre $|Z| < 1$ je obraz **zmenšený**. **Vlastnosti obrazu** zostrojeného guľovým zrkadlom (dutým aj vypuklým) v závislosti od polohy predmetu sú zhrnuté v tabuľke nižšie.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/vlastnosti_obrazu_gulove_zrkadla.png" alt="Tabuľka s vlastnosťami obrazu zostrojeného guľovými zrkadlami">
-  <figcaption>Obr. 3.4.26. Tabuľka s vlastnosťami obrazu zostrojeného guľovými zrkadlami.</figcaption>
-</figure>
+![[images/vlastnosti_obrazu_gulove_zrkadla.png|Tabuľka s vlastnosťami obrazu zostrojeného guľovými zrkadlami]]
+Obr. 3.4.26. Tabuľka s vlastnosťami obrazu zostrojeného guľovými zrkadlami.
 
 ## Zobrazovanie šošovkami
 
@@ -92,17 +78,13 @@ V porovnaní so zobrazovaním zrkadlami sa pri zobrazovaní šošovkami uplatňu
 
 - **Rozptylné šošovky (rozptylky)** menia rovnobežný zväzok prichádzajúcich lúčov na zväzok rozbiehavý. Spoznáme ich tak, že sú v strede tenšie ako na okrajoch.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/typy_sosoviek.png" alt="Rôzne typy šošoviek">
-  <figcaption>Obr. 3.4.27. Rôzne typy šošoviek: a) dvojvypuklá spojka, b) ploskovypuklá spojka, c) dutovypuklá spojka, d) dvojdutá rozptylka, e) ploskodutá rozptylka, f) vypuklodutá rozptylka, g) schematická značka spojky, h) schematická značka rozptylky.</figcaption>
-</figure>
+![[images/typy_sosoviek.png|Rôzne typy šošoviek]]
+Obr. 3.4.27. Rôzne typy šošoviek: a) dvojvypuklá spojka, b) ploskovypuklá spojka, c) dutovypuklá spojka, d) dvojdutá rozptylka, e) ploskodutá rozptylka, f) vypuklodutá rozptylka, g) schematická značka spojky, h) schematická značka rozptylky.
 
 V prípade šošoviek zavádzame základné pojmy: **stredy krivosti šošovky** $C_1$ a $C_2$, **polomery optických plôch šošovky** $r_1$ a $r_2$, **vrcholy šošovky** $V_1$ a $V_2$, **optický stred šošovky** $O$, **predmetový priestor** - priestor, z ktorého svetlo do šošovky vstupuje, **obrazový priestor** - priestor, z ktorého svetlo zo šošovky vystupuje, **predmetové ohnisko** $F$, **obrazové ohnisko** $F'$, **ohnisková vzdialenosť** $f = |OF| = |OF'|$ (v prípade, že pred aj za šošovkou je rovnaké prostredie).
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/zakladne_pojmy_sosoviek.png" alt="Základné pojmy šošoviek">
-  <figcaption>Obr. 3.4.28. K základným pojmom šošoviek.</figcaption>
-</figure>
+![[images/zakladne_pojmy_sosoviek.png|Základné pojmy šošoviek]]
+Obr. 3.4.28. K základným pojmom šošoviek.
 
 > [!warning] POZOR!
 > V prípade rozptylky sa obrazové ohnisko nachádza v predmetovom priestore a predmetové ohnisko v obrazovom priestore.
@@ -121,10 +103,8 @@ Pri konštrukcii obrazu šošovkami využívame chod **troch význačných parax
 2. **Lúč prechádzajúci predmetovým ohniskom** spojky sa po prechode šíri rovnobežne s optickou osou, v prípade rozptylky a lúča smerujúceho do predmetového ohniska tiež.
 3. **Lúč prechádzajúci optickým stredom šošovky nemení** pri prechode svoj smer.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/prechod_paraxialnych_lucov_sosovkou.png" alt="Prechod paraxiálnych lúčov tenkou šošovkou">
-  <figcaption>Obr. 3.4.29. Prechod paraxiálnych lúčov tenkou šošovkou.</figcaption>
-</figure>
+![[images/prechod_paraxialnych_lucov_sosovkou.png|Prechod paraxiálnych lúčov tenkou šošovkou]]
+Obr. 3.4.29. Prechod paraxiálnych lúčov tenkou šošovkou.
 
 Vzdialenosť stredu šošovky od bodu $A$ zobrazovaného predmetu na optickej osi sa nazýva **predmetová vzdialenosť**, označujeme ju $a$. Vzdialenosť optického stredu od bodu $A'$ zobrazovaného predmetu na optickej osi sa nazýva **obrazová vzdialenosť**, označujeme ju $a'$. Výšku predmetu značíme $y$ a výšku obrazu značíme $y'$.
 
@@ -140,17 +120,13 @@ $$
 Z = \frac{y'}{y} = -\frac{a'}{a} = -\frac{a' - f}{f} = -\frac{f}{a - f}.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/zobrazenie_predmetu_tenkou_sosovkou.png" alt="Zobrazenie predmetu tenkou šošovkou">
-  <figcaption>Obr. 3.4.30. Zobrazenie predmetu tenkou spojkou a rozptylkou. Konštrukcia obrazu.</figcaption>
-</figure>
+![[images/zobrazenie_predmetu_tenkou_sosovkou.png|Zobrazenie predmetu tenkou šošovkou]]
+Obr. 3.4.30. Zobrazenie predmetu tenkou spojkou a rozptylkou. Konštrukcia obrazu.
 
 **Vlastnosti obrazu** zostrojeného spojnou aj rozptylnou šošovkou v závislosti od polohy predmetu sú zhrnuté v tabuľke nižšie.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/vlastnosti_obrazu_tenka_sosovka.png" alt="Tabuľka s vlastnosťami predmetu zostrojeného tenkou šošovkou">
-  <figcaption>Obr. 3.4.31. Tabuľka s vlastnosťami predmetu zostrojeného tenkou šošovkou.</figcaption>
-</figure>
+![[images/vlastnosti_obrazu_tenka_sosovka.png|Tabuľka s vlastnosťami predmetu zostrojeného tenkou šošovkou]]
+Obr. 3.4.31. Tabuľka s vlastnosťami predmetu zostrojeného tenkou šošovkou.
 
 ## Oko ako optická sústava
 
@@ -161,24 +137,18 @@ Hlavnou súčasťou oka je spojná optická sústava, ktorá na sietnici utvára
 
 **Akomodácia oka** je schopnosť meniť jeho optickú mohutnosť tak, aby sa predmety nachádzajúce v rôznych vzdialenostiach zobrazovali vždy na sietnici. Pri ďalekých predmetoch má očná šošovka malé zakrivenie (obr. 3.4.32a), pri blízkych predmetoch má veľké zakrivenie (obr. 3.4.32b). Najbližší bod, ktorý sa ešte zobrazí na sietnici pri najväčšej akomodácii oka, sa nazýva **blízky bod**. Najvzdialenejší bod, ktorý sa ešte zobrazí na sietnici, sa nazýva **ďaleký bod**. Pri normálnom oku je ďaleký bod v nekonečne. Vzdialenosť, v ktorej môžeme predmety dlhšie pozorovať bez väčšej únavy je asi 25 cm. Túto vzdialenosť nazývame **konvenčná zraková vzdialenosť** $d = 25\,\mathrm{cm}$.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/akomodacia_oka.png" alt="Akomodácia oka">
-  <figcaption>Obr. 3.4.32. Akomodácia oka.</figcaption>
-</figure>
+![[images/akomodacia_oka.png|Akomodácia oka]]
+Obr. 3.4.32. Akomodácia oka.
 
 V prípade veľkej optickej mohutnosti šošovky oka sa utvára obraz vzdialeného predmetu pred sietnicou - oko je **krátkozraké**. Aby oko videlo ostro aj vzdialené predmety, treba zmenšiť jeho optickú mohutnosť. To možno dosiahnuť vhodnou rozptylkou. Keď sa šošovkou oka utvorí obraz vzdialeného predmetu za sietnicou, oko je **ďalekozraké**. Optická mohutnosť ďalekozrakého oka je malá. Korekciu dosiahneme vhodnou spojkou.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/normalne_kratkozrake_a_dalekozrake_oko.png" alt="Normálne, krátkozraké a ďalekozraké oko">
-  <figcaption>Obr. 3.4.33. Normálne, krátkozraké a ďalekozraké oko.</figcaption>
-</figure>
+![[images/normalne_kratkozrake_a_dalekozrake_oko.png|Normálne, krátkozraké a ďalekozraké oko]]
+Obr. 3.4.33. Normálne, krátkozraké a ďalekozraké oko.
 
 Veľkosť obrazu na sietnici závisí od zorného uhla. **Zorný uhol** $\tau$, zvierajú svetelné lúče prechádzajúce optickým stredom šošovky a okrajmi predmetu. Oko je schopné rozlíšiť dva body, ak ich vidí aspoň pod zorným uhlom $\tau > 1'$ (uhlová minúta).
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/zorny_uhol.png" alt="Zavedenie pojmu zorný uhol">
-  <figcaption>Obr. 3.4.34. K zavedeniu pojmu zorný uhol. Od zorného uhla závisí veľkosť pozorovaného predmetu na sietnici.</figcaption>
-</figure>
+![[images/zorny_uhol.png|Zavedenie pojmu zorný uhol]]
+Obr. 3.4.34. K zavedeniu pojmu zorný uhol. Od zorného uhla závisí veľkosť pozorovaného predmetu na sietnici.
 
 **Zotrvačnosť oka** je jav, pri ktorom sa krátkotrvajúci zrakový vnem zachová asi 0,1 s dlhšie ako samotné zobrazenie predmetu na sietnici. Táto vlastnosť oka sa využíva pri filmovej projekcii, rýchlo striedajúce obrázky tak vnímame ako plynulý dej.
 
@@ -211,10 +181,8 @@ $$
 \gamma_l \doteq \frac{d}{a} \doteq \frac{d}{f}.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/pozorovanie_lupou.png" alt="Pozorovanie malého predmetu pomocou lupy">
-  <figcaption>Obr. 3.4.35. Pozorovanie malého predmetu pomocou lupy - spojnej šošovky.</figcaption>
-</figure>
+![[images/pozorovanie_lupou.png|Pozorovanie malého predmetu pomocou lupy]]
+Obr. 3.4.35. Pozorovanie malého predmetu pomocou lupy - spojnej šošovky.
 
 - **Mikroskop** slúži k zväčšeniu zorného uhla pri pozorovaní malých predmetov, ktoré voľným okom často nie sú pozorovateľné. Takáto optická sústava sa skladá z dvoch spojných šošoviek. Jedna má malú ohniskovú vzdialenosť $f_1$ a nachádza sa bližšie k pozorovanému predmetu - **objektív**. Druhá má väčšiu ohniskovú vzdialenosť $f_2$ a nachádza sa v blízkosti oka - **okulár**. Pre uhlové zväčšenie mikroskopu platí
 
@@ -224,10 +192,8 @@ $$
 
 V tomto vzťahu $\Delta = |F'_1F_2|$ **optický interval mikroskopu** - vzdialenosť ohnísk okuláru a objektívu. Prvý pomer odpovedá priečnemu zväčšeniu objektívu a druhý pomer uhlovému zväčšeniu okuláru. Uhlové zväčšenie mikroskopu je tak ich súčinom.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/zostrojenie_obrazu_mikroskopom.png" alt="Zostrojenie obrazu predmetu pomocou mikroskopu">
-  <figcaption>Obr. 3.4.36. Zostrojenie obrazu predmetu pomocou mikroskopu.</figcaption>
-</figure>
+![[images/zostrojenie_obrazu_mikroskopom.png|Zostrojenie obrazu predmetu pomocou mikroskopu]]
+Obr. 3.4.36. Zostrojenie obrazu predmetu pomocou mikroskopu.
 
 - **Ďalekohľad** zväčšuje zorný uhol pri pozorovaní ďalekých predmetov. Je to centrovaná teleskopická sústava zložená z okulára a objektívu. Okulár je vždy tvorený šošovkou, zatiaľ čo objektívom je buď spojka (**refraktor**) alebo parabolické zrkadlo (**reflektor**). Známe sú najmä **Keplerov** (hvezdársky) **ďalekohľad** a **Galileiho** (pozemský, holandský) **ďalekohľad**. Ak označíme ohniskovú vzdialenosť objektívu $f_{ob}$ a ohniskovú vzdialenosť okulára $f_{ok}$, platí pre uhlové zväčšenie ďalekohľadu vzťah
 
@@ -235,15 +201,11 @@ $$
 \gamma_d = \frac{f_{ob}}{f_{ok}}.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/keplerov_dalekohlad.png" alt="Keplerov ďalekohľad">
-  <figcaption>Obr. 3.4.37. Keplerov (hvezdársky) ďalekohľad využíva pre okulár aj objektív spojnú šošovku. Obraz je prevrátený, pri pozorovaní polohy hviezd to však nie je prekážkou.</figcaption>
-</figure>
+![[images/keplerov_dalekohlad.png|Keplerov ďalekohľad]]
+Obr. 3.4.37. Keplerov (hvezdársky) ďalekohľad využíva pre okulár aj objektív spojnú šošovku. Obraz je prevrátený, pri pozorovaní polohy hviezd to však nie je prekážkou.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/galileiho_dalekohlad.png" alt="Galileiho ďalekohľad">
-  <figcaption>Obr. 3.4.38. Galileiho (holandský) ďalekohľad využíva ako okulár rozptylku a ako objektív využíva spojku. Obraz pozorovaný týmto ďalekohľadom je priamy.</figcaption>
-</figure>
+![[images/galileiho_dalekohlad.png|Galileiho ďalekohľad]]
+Obr. 3.4.38. Galileiho (holandský) ďalekohľad využíva ako okulár rozptylku a ako objektív využíva spojku. Obraz pozorovaný týmto ďalekohľadom je priamy.
 
 > [!example] Príklad 3.4.3: Zorný uhol
 > Hvezdársky ďalekohľad má ohniskové vzdialenosti objektívu 150 cm a okulára 5 cm. Pod akým zorným uhlom sa v ňom javí Mesiac, ak ho voľným okom pozorujeme pod uhlom 31'?

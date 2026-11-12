@@ -21,9 +21,7 @@ Telesám, ktoré privedieme do vzájomného kontaktu (dotyku) a dostanú sa do r
 - **Celziova teplotná stupnica**  
   Celziovu teplotu (stručne teplotu) označujeme $t$. Pri zostrojení tejto teplotnej stupnice, ktorú vytvoril **Anders Celsius** (1701 - 1744), sú význačné dva body. Rovnovážny stav vody a jej ľadu pri normálnom tlaku, túto teplotu označujeme ako $0\ ^\circ\mathrm{C}$. Ďalej rovnovážny stav vody a jej nasýtenej pary pri normálnom tlaku, túto teplotu označujeme $100\ ^\circ\mathrm{C}$. Medzi týmito teplotami je stupnica kvapalinového teplomera rozdelená na 100 dielikov. Jeden dielik predstavuje $1\ ^\circ\mathrm{C}$ (jeden **Celziov stupeň**).
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/anders_celsius.png" alt="Anders Celsius" width="400">
-</p>
+![[images/anders_celsius.png|Anders Celsius|400]]
 
 > **Obr. 2.1.4.** Anders Celsius (1701 - 1744).
 
@@ -36,8 +34,6 @@ $$
 
 Rozdiel teplôt v Celziovej a termodynamickej stupnici je rovnaký, platí rovnosť $\Delta t = \Delta T$.
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/william_thomson.png" alt="William Thomson, lord Kelvin" width="400">
-</p>
+![[images/william_thomson.png|William Thomson, lord Kelvin|400]]
 
 > **Obr. 2.1.5.** William Thomson, nazývaný aj lord Kelvin (1824 - 1907).

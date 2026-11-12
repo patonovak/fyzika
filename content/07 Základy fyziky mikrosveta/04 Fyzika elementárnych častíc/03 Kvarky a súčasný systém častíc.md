@@ -6,10 +6,8 @@ Zaujímavou bola pre fyzikov ďalšia **štruktúra hadrónov**, pričom ich vla
 
 Dnes je známych celkom 6 kvarkov: $u$ (**up**), $d$ (**down**), $t$ (**top**/truthful), $b$ (**bottom**/beautiful), $c$ (**charm**), $s$ (**strange**). Kvarky sú fermióny so spinovým číslom $s = 1/2$, náboj kvarkov d, s, b je $(-1/3)e$ a náboj kvarkov u, c, t je $(2/3)e$. V rámci moderného systému častíc tvoria kvarky spolu s leptónmi **základné častice látky**. **Systém základných častíc** predstavuje vyvrcholenie snahy zjednotiť pohľad na náš svet. Vystupuje v ňom aj zatiaľ nespomenutá častica - **Higgsov bozón** - čo je častica, vďaka ktorej možno vysvetliť pôvod hmotnosti ostatných častíc v základnom modeli. Jej existencia bola potvrdená v roku 2012.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-3-zakladny-system-castic.png" alt="Základný systém častíc">
-  <figcaption>Obr. 6.4.3: Základný systém častíc.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-3-zakladny-system-castic.png|Základný systém častíc]]
+Obr. 6.4.3: Základný systém častíc.
 
 ## VÝSKUM V OBLASTI MIKROČASTÍC A JEHO VÝZNAM
 
@@ -26,7 +24,5 @@ Výskum v oblasti mikročastíc je veľmi nákladnou záležitosťou. Z tohto d�
 
 Možno sa pýtate, aký je význam výskumu v oblasti častíc a prečo by doň štáty mali investovať nemalé finančné čiastky. Ľudia sa odjakživa snažili objaviť zákonitosti, ktorými sa riadi svet okolo nás a nehnal ich k tomu zisk, ale často len čistá zvedavosť. Príkladom môže byť elektromagnetická indukcia, ktorej objav je spojený so zvedavosťou experimentátorov, najmä Michaela Faradaya. Dnes je na takejto výrobe elektrickej energie závislý celý svet. Takto by sme mohli vymenovať viacero objavov z histórie. Výskumom častíc a ich vlastností budeme v budúcnosti možno schopní liečiť viaceré druhy ochorení, akými je napríklad rakovina alebo mnohé iné. Preto ľudstvo investuje finančné prostriedky do výskumu častíc a vesmíru, aj keď ešte nevie, kam ho výskum zavedie. Minulosť však ukazuje, že je to nádejná cesta. K prevratnému objavu často stačí náhoda či súhra okolností. V minulosti sa o tom presvedčili mnohí fyzici. Bude to dnes, zajtra či o sto rokov? A nebolo by lepšie investovať finančné prostriedky na výskum liečby chorôb? Na tieto otázky nevieme odpovedať s istotou, na vede je však krásna jedna vec - na tie najprevratnejšie objavy prišlo ľudstvo často náhodou.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-3-lhc.png" alt="Veľký hadrónový urýchľovač">
-  <figcaption>Obr. 6.4.3: Veľký hadrónový urýchľovač (LHC) má tvar kružnice s obvodom asi 26,5 km. Nachádza sa medzi Francúzskom a Švajčiarskom v hĺbke 50 - 150 m pod zemou.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-3-lhc.png|Veľký hadrónový urýchľovač]]
+Obr. 6.4.3: Veľký hadrónový urýchľovač (LHC) má tvar kružnice s obvodom asi 26,5 km. Nachádza sa medzi Francúzskom a Švajčiarskom v hĺbke 50 - 150 m pod zemou.

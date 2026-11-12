@@ -10,10 +10,8 @@ $$
 
 Rezistancia v obvode striedavého prúdu nemá vplyv na fázový rozdiel napätia a prúdu. V jednoduchom obvode striedavého prúdu s odporom majú napätie a prúd rovnakú fázu, ich fázový rozdiel je nulový. Hovoríme, že **sú vo fáze**. Symbolicky $\varphi = 0$. Situácia je znázornená na obr. 5.3.1.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-1-rezistor.png" alt="Jednoduchý obvod striedavého prúdu s odporom, fázorový a časový diagram">
-  <figcaption>Obr. 5.3.1: Jednoduchý obvod striedavého prúdu s odporom. Fázorový a časový diagram.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-1-rezistor.png|Jednoduchý obvod striedavého prúdu s odporom, fázorový a časový diagram]]
+Obr. 5.3.1: Jednoduchý obvod striedavého prúdu s odporom. Fázorový a časový diagram.
 
 ## VÝKON STRIEDAVÉHO PRÚDU V OBVODE S REZISTOROM
 
@@ -29,10 +27,8 @@ $$
 P = \frac{1}{2}P_m = \frac{1}{2}RI_m^2.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-1-okamzity-vykon.png" alt="Priebeh funkcie okamžitého výkonu v obvode s rezistorom">
-  <figcaption>Obr. 5.3.1: Priebeh funkcie okamžitého výkonu $p(t)$.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-1-okamzity-vykon.png|Priebeh funkcie okamžitého výkonu v obvode s rezistorom]]
+Obr. 5.3.1: Priebeh funkcie okamžitého výkonu $p(t)$.
 
 Možno zadefinovať **efektívne hodnoty striedavého napätia** $U$ a prúdu $I$ zodpovedajúce hodnotám prúdu jednosmerného, ktorý má v obvode s odporom rovnaký výkon ako daný striedavý prúd.
 

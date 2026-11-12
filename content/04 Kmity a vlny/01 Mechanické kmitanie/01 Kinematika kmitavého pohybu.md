@@ -4,9 +4,7 @@ title: Kinematika kmitavého pohybu
 
 Demonštrujme jednoduchý kmitavý pohyb telesom zaveseným na pružine. Na začiatku teleso voľne visí, je v **rovnovážnej polohe**. Po natiahnutí a uvoľnení teleso na pružine voľne kmitá. Okamžitá vzdialenosť od rovnovážnej polohy sa nazýva **okamžitá výchylka** $y$. Maximálna výchylka telesa z rovnovážnej polohy sa nazýva **amplitúda výchylky** $y_\mathrm{m}$.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/kinematika_kmitaveho_pohybu.png" alt="Jednoduchý kmitavý pohyb telesa na pružine, fázorový a časový diagram" width="500">
-</p>
+![[images/kinematika_kmitaveho_pohybu.png|Jednoduchý kmitavý pohyb telesa na pružine, fázorový a časový diagram|500]]
 
 > **Obr. 3.1.2.** Jednoduchý kmitavý pohyb telesa na pružine, fázorový a časový diagram.
 

@@ -6,9 +6,7 @@ Objem plynu v uzavretej nádobe s piestom sa nemôže neustále zväčšovať, p
 
 Pracovným diagramom ($p$-$V$ diagrame) je preto uzavretá krivka. Celková zmena vnútornej energie pracovnej látky po ukončení jedného cyklu je nulová $\Delta U = 0$. To vyplýva zo skutočnosti, že sa plyn po jednom cykle vráti do pôvodného stavu. Práca vykonaná plynom pri kruhovom deji sa rovná obsahu obrazca v príslušnom $p$-$V$ diagrame.
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/kruhovy_dej.png" alt="Kruhový dej v p-V diagrame" width="400">
-</p>
+![[images/kruhovy_dej.png|Kruhový dej v p-V diagrame|400]]
 
 > **Obr. 2.2.7.** Kruhový (cyklický) dej znázornený v $p$-$V$ diagrame.
 
@@ -20,9 +18,7 @@ Tento poznatok je zahrnutý v tzv. **druhom termodynamickom zákone**, ktorý mo
 
 **Teplo nikdy samovoľne neprechádza z chladnejšieho telesa na teplejšie.** Rudolf Clausius, 1850
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/cyklicky_tepelny_stroj.png" alt="Cyklický tepelný stroj" width="400">
-</p>
+![[images/cyklicky_tepelny_stroj.png|Cyklický tepelný stroj|400]]
 
 > **Obr. 2.2.8.** Cyklický tepelný stroj.
 
@@ -41,9 +37,7 @@ $$
 > [!example] Príklad 2.2.2: Cyklický dej
 > Akú prácu vykoná plyn počas jedného cyklu kruhového deja na obrázku?
 >
-> <p class="measurement-figure callout-figure no-extra-frame">
->   <img src="/static/images/priklad_cyklicky_dej.png" alt="Cyklický dej v p-V diagrame" width="400">
-> </p>
+> ![[images/priklad_cyklicky_dej.png|Cyklický dej v p-V diagrame|400]]
 >
 > **Obr. 2.2.9.** Cyklický dej v $p$-$V$ diagrame.
 >

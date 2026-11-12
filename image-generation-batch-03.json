@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-11",
+  "batch": "03-dynamika-praca-energia",
+  "assets": [
+    {
+      "name": "dostrediva_sila_priklady.png",
+      "mode": "built-in image_gen",
+      "prompt": "Use case: scientific-educational. Create a wide white-background Slovak physics textbook illustration, three equal panels, clean softly shaded blue-orange style and thick clear arrows. Exact panel titles: 'Napätie vlákna', 'Trenie pneumatík', 'Gravitačná sila'. Each panel shows circular motion viewed from above or face-on with a thin grey dashed circular path. All orbiting objects must be on the RIGHTMOST point of their circle, and a single orange force arrow starts on the object and points horizontally LEFT toward the center. Panel 1: a blue-gloved hand at center holds a taut thin thread extending right to an orange ball on the circle. The orange force arrow lies along the thread from ball toward hand. Panel 2: a small orange car at rightmost point of a round road, its front points UP tangent to the circle. Its force arrow points LEFT radially inward toward circle center, depicting static friction. Panel 3: blue Earth at center, a small satellite at rightmost point on dashed circular orbit, force arrow starts at satellite and points LEFT toward Earth center. Label each force arrow only 'F_d'. No outward arrows, no centrifugal force, no tangential force arrows, no extra force arrows and no misleading curved force arrows. Below all panels exact sentence 'Dostredivá sila smeruje do stredu kružnice.' Include generous space between arrows and labels. No other text, no formulas, no watermark. Educational conceptual drawing, objects not to physical scale.",
+      "source": "exec-8f50a0a3-63cc-4c9e-bf59-f3fbc695fae1.png"
+    },
+    {
+      "name": "trenie.png",
+      "mode": "deterministic SVG geometry rendered to PNG with sharp",
+      "source": "scripts/generate-mechanics-batch-03.mjs"
+    },
+    {
+      "name": "mechanicka_praca.png",
+      "mode": "deterministic SVG geometry rendered to PNG with sharp",
+      "source": "scripts/generate-mechanics-batch-03.mjs"
+    },
+    {
+      "name": "pohybova_energia.png",
+      "mode": "deterministic SVG geometry rendered to PNG with sharp",
+      "source": "scripts/generate-mechanics-batch-03.mjs"
+    },
+    {
+      "name": "polohova_energia.png",
+      "mode": "deterministic SVG geometry rendered to PNG with sharp",
+      "source": "scripts/generate-mechanics-batch-03.mjs"
+    }
+  ],
+  "validation": [
+    "All forces for circular motion point inward.",
+    "Friction opposes sliding; normal force perpendicular to plane.",
+    "Work areas: 20*3=60 J; 0.5*30*3=45 J.",
+    "Kinetic energy for m=2 kg: E=v^2; points (1,1), (2,4), (3,9).",
+    "Potential energy: m=1 kg, g=10 m/s^2; h=1 and 2 m -> 10 and 20 J."
+  ]
+}

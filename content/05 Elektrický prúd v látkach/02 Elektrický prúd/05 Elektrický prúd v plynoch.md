@@ -28,7 +28,5 @@ $$
 
 - **Tlecí výboj** – prebieha vo výbojkách pri zníženom tlaku a malých prúdoch. Je úsporným zdrojom svetla.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/elektricky-prud/typy-elektrickych-vybojov.png" alt="Príklady elektrických výbojov v plynoch">
-  <figcaption>Obr. 4.2.18: Príkladom oblúkového výboja je zváranie. Blesk patrí medzi iskrové výboje. Na poslednom obrázku je korónový výboj na plazmovom kotúči.</figcaption>
-</figure>
+![[images/fyzika/elektricky-prud/typy-elektrickych-vybojov.png|Príklady elektrických výbojov v plynoch]]
+Obr. 4.2.18: Príkladom oblúkového výboja je zváranie. Blesk patrí medzi iskrové výboje. Na poslednom obrázku je korónový výboj na plazmovom kotúči.

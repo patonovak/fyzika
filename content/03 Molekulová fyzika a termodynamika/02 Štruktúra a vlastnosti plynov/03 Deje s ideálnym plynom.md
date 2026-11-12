@@ -12,9 +12,7 @@ $$
 
 V tomto vzťahu je $\Delta V = V_2 - V_1$ zmena objemu plynu, pričom ak plyn svoj objem zväčšuje, je práca vykonaná plynom kladná ($W' > 0$) a ak svoj objem zmenšuje, je práca záporná ($W' < 0$). Prácu plynu možno znázorniť v grafe závislosti tlaku plynu od jeho objemu ($p$-$V$ diagram) ako obsah obdĺžnika pod grafom funkcie $p(V)$. V prípade, že tlak plynu nie je konštantný, ale sa počas deja mení, možno obdobne určiť veľkosť plynom vykonanej práce ako obsah obrazca v $p$-$V$ diagrame pod grafom funkcie $p(V)$.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/praca_plynu.png" alt="Práca plynu v p-V diagrame" width="500">
-</p>
+![[images/praca_plynu.png|Práca plynu v p-V diagrame|500]]
 
 > **Obr. 2.2.2.** Prácu plynu určíme ako obsah obrazca v $p$-$V$ diagrame pod grafom funkcie $p(V)$.
 
@@ -28,9 +26,7 @@ $$
 
 **Pri izotermickom deji s ideálnym plynom stálej hmotnosti je tlak plynu nepriamo úmerný jeho objemu.** Tento zákon nazývame **Boylov-Mariottov zákon**. Graf vyjadrujúci závislosť tlaku ideálneho plynu od jeho objemu pri izotermickom deji sa nazýva **izoterma** a ide o jednu vetvu hyperboly.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/izoterma_praca_plynu.png" alt="Izoterma a práca konaná plynom pri izotermickom deji" width="500">
-</p>
+![[images/izoterma_praca_plynu.png|Izoterma a práca konaná plynom pri izotermickom deji|500]]
 
 > **Obr. 2.2.3.** Izoterma a práca konaná plynom pri izotermickom deji.
 
@@ -52,9 +48,7 @@ $$
 
 **Pri izochorickom deji s ideálnym plynom je tlak plynu priamo úmerný termodynamickej teplote.** Tento zákon je v našej literatúre často označovaný ako **Charlesov zákon**. Graf, ktorý znázorňuje v $p$-$V$ diagrame (alebo aj $p$-$T$ diagrame) izochorický dej, sa nazýva **izochora**.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/izochora.png" alt="Izochora v p-V a p-T diagrame" width="500">
-</p>
+![[images/izochora.png|Izochora v p-V a p-T diagrame|500]]
 
 > **Obr. 2.2.4.** Graf, ktorý znázorňuje v $p$-$V$ ($p$-$T$) diagrame izochorický dej, sa nazýva izochora.
 
@@ -74,9 +68,7 @@ $$
 
 **Pri izobarickom deji s plynom stálej hmotnosti je objem plynu priamo úmerný jeho termodynamickej teplote.** Tento zákon sa zvykne nazývať aj **Gay-Lussacov zákon**. Graf, ktorý znázorňuje izobarický dej s ideálnym plynom v $p$-$V$ ($V$-$T$) diagrame, sa nazýva **izobara**.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/izobara.png" alt="Izobara v rôznych diagramoch" width="500">
-</p>
+![[images/izobara.png|Izobara v rôznych diagramoch|500]]
 
 > **Obr. 2.2.5.** Izobara v rôznych diagramoch.
 
@@ -104,9 +96,7 @@ $$
 
 V tomto vzťahu je $\kappa = c_p/c_V$ tzv. **Poissonova konštanta**, ktorá nadobúda hodnoty $\kappa = 5/3$ pre jednoatómový plyn a $\kappa = 7/5$ pre dvojatómový plyn.
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/adiabata.png" alt="Adiabatický dej v p-V diagrame" width="400">
-</p>
+![[images/adiabata.png|Adiabatický dej v p-V diagrame|400]]
 
 > **Obr. 2.2.6.** Adiabata klesá vždy strmšie ako izoterma.
 

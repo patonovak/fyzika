@@ -10,10 +10,8 @@ title: Jednoduchý elektrický obvod
 
 Veľkosť elektrického prúdu meriame **ampérmetrom**, ktorý do obvodu zapájame sériovo za spotrebičom. Možno ho zapojiť do ktoréhokoľvek miesta jednoduchého elektrického obvodu, ak sa totiž nerozvetvuje, prechádza každou časťou obvodu rovnaký prúd. Ampérmeter nikdy nepripájame priamo k svorkám zdroja elektrického napätia! Elektrické napätie na spotrebiči meriame **voltmetrom**, ten zapájame paralelne so spotrebičom (obr. 4.2.1).
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/elektricky-prud/jednoduchy-elektricky-obvod.png" alt="Schéma jednoduchého elektrického obvodu">
-  <figcaption>Obr. 4.2.1: Jednoduchý elektrický obvod zložený zo spotrebiča (žiarovka), zdroja elektrického napätia, spojovacích vodičov, spínača, ampérmetra a voltmetra.</figcaption>
-</figure>
+![[images/fyzika/elektricky-prud/jednoduchy-elektricky-obvod.png|Schéma jednoduchého elektrického obvodu]]
+Obr. 4.2.1: Jednoduchý elektrický obvod zložený zo spotrebiča (žiarovka), zdroja elektrického napätia, spojovacích vodičov, spínača, ampérmetra a voltmetra.
 
 ## ZDROJ ELEKTRICKÉHO NAPÄTIA
 
@@ -25,10 +23,8 @@ $$
 U = \frac{W}{Q}
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/elektricky-prud/pohyb-castic-v-obvode.png" alt="Pohyb kladne nabitých častíc v jednoduchom elektrickom obvode">
-  <figcaption>Obr. 4.2.2: Znázornenie jednoduchého elektrického obvodu a pohybu častíc s kladným nábojom v ňom.</figcaption>
-</figure>
+![[images/fyzika/elektricky-prud/pohyb-castic-v-obvode.png|Pohyb kladne nabitých častíc v jednoduchom elektrickom obvode]]
+Obr. 4.2.2: Znázornenie jednoduchého elektrického obvodu a pohybu častíc s kladným nábojom v ňom.
 
 Svorkové napätie určíme ako podiel práce $W$, ktorú vykonajú elektrické sily vo vonkajšej časti obvodu pri prenášaní náboja s veľkosťou $Q$. Svorkové napätie značíme šípkou smerujúcou od kladnej svorky zdroja k zápornej, teda v smere elektrickej sily pôsobiacej na kladné častice.
 

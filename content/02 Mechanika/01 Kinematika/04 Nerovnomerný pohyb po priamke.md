@@ -23,9 +23,7 @@ Nerovnomerné pohyby delíme na:
 - **zrýchlené** - vektor zrýchlenia má smer totožný so smerom okamžitej rýchlosti,
 - **spomalené** - vektor zrýchlenia má opačný smer ako vektor okamžitej rýchlosti.
 
-<p class="measurement-figure">
-  <img src="/static/images/rzp.png" alt="Rovnomerný priamočiary pohyb" width="400">
-</p>
+![[images/rzp.png|Rovnomerný priamočiary pohyb|400]]
 
 > **Obr. 1.1.10.** Rovnomerne zrýchlený a spomalený pohyb.
 
@@ -68,9 +66,7 @@ $$
 s = v_0t + \frac{1}{2}at^2
 \quad \text{pre} \quad v_0 \ne 0
 $$
-<p class="measurement-figure">
-  <img src="/static/images/grafy_rzp.png" alt="Grafy RZP" width="700">
-</p>
+![[images/grafy_rzp.png|Grafy RZP|700]]
 
 > **Obr. 1.1.11.** Grafy závislosti zrýchlenia, rýchlosti a dráhy od času pri rovnomernom zrýchlenom pohybe po priamke.
 
@@ -99,9 +95,7 @@ $$
 $$
 s_z = \frac{v_0^2}{2a}
 $$
-<p class="measurement-figure">
-  <img src="/static/images/grafy_rsp.png" alt="Grafy RSP" width="700">
-</p>
+![[images/grafy_rsp.png|Grafy RSP|700]]
 
 > **Obr. 1.1.12.** Grafy závislosti zrýchlenia, rýchlosti a dráhy od času pri rovnomernom spomalenom pohybe po priamke.
 
@@ -148,9 +142,7 @@ Vývoj názorov na pád voľne pusteného telesa sa v priebehu dejín výrazne m
 
 Proti tejto predstave vystúpil taliansky fyzik a astronóm Galileo Galilei, ktorý problém voľného pádu riešil experimentálne. V dejinách fyziky má významné miesto práve preto, že svoje hypotézy overoval pokusmi.
 
-<p class="measurement-figure">
-  <img src="/static/images/aristoteles_galileo.png" alt="aristoteles_galileo" width="700">
-</p>
+![[images/aristoteles_galileo.png|aristoteles_galileo|700]]
 
 > **Obr. 1.1.13.** Aristoteles (384 p.n.l. - 322 p.n.l.) a Galileo Galilei (1564 - 1642)
 

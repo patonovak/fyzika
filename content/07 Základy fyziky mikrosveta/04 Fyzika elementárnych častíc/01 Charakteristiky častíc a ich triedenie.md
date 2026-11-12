@@ -38,10 +38,8 @@ Elementárne častice možno roztriediť rôznymi spôsobmi, a to napr. podľa i
   - **Mezóny** majú celočíselné hodnoty spinového čísla, ide o bozóny.
 - **Leptóny** sú skupina elementárnych častíc, pre ktoré je typická slabá interakcia, neinteragujú silne a ide o častice s poločíselnou hodnotou spinového čísla - sú to fermióny. Nemajú ďalšiu vnútornú štruktúru.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-1-delenie-castic.png" alt="Delenie elementárnych častíc podľa typu interakcie">
-  <figcaption>Obr. 6.4.1: Delenie elementárnych častíc podľa typu interakcie, ktorej podliehajú.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/fyzika-elementarnych-castic/obr-6-4-1-delenie-castic.png|Delenie elementárnych častíc podľa typu interakcie]]
+Obr. 6.4.1: Delenie elementárnych častíc podľa typu interakcie, ktorej podliehajú.
 
 Pomenovanie leptóny je odvodené z gr. *leptos*, čo znamenalo ľahký, keďže prvý známy z leptónov bol elektrón. Po objave miónu a tauónu toto pomenovanie stratilo zmysel, keďže sú oveľa ťažšie ako elektrón. Podľa súčasných poznatkov tak existuje 6 leptónov, ktoré delíme na tri generácie. Spolu s kvarkami tvoria leptóny základné častice látky. Pomenovanie mezóny je odvodené z gr. *meson*, čo znamená stredný, teda stredne ťažké častice. Pomenovanie baryóny je odvodené z gr. *barys*, čo znamenalo ťažký. Z dnešného pohľadu už tieto názvy nemajú svoje pôvodné opodstatnenie.
 

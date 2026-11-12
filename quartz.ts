@@ -1,5 +1,6 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import { componentRegistry } from "./quartz/components/registry"
+import { ObsidianFigures } from "./quartz/plugins/transformers/obsidianFigures"
 
 componentRegistry.setOptionOverrides("explorer", {
   sortFn: (a: any, b: any) => {
@@ -24,5 +25,6 @@ componentRegistry.setOptionOverrides("explorer", {
 })
 
 const config = await loadQuartzConfig()
+config.plugins.transformers.push(ObsidianFigures())
 export default config
 export const layout = await loadQuartzLayout()

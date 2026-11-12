@@ -6,10 +6,8 @@ title: Zdroje a vlastnosti zvuku
 
 Podľa časového priebehu rozlišujeme **tóny** (hudobné zvuky), ktoré majú buď harmonický priebeh (jednoduchý tón) alebo periodický zložitejší priebeh (zložený tón) a **hluky** (nehudobné zvuky), ktoré majú neperiodický priebeh.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/casove_priebehy_tonov_a_hluku.png" alt="Časové priebehy jednoduchého tónu, zloženého tónu a hluku">
-  <figcaption>Obr. 3.3.1. Časové priebehy zľava: jednoduchý tón, zložený tón a hluk. Pre jednoduchosť neoznačujeme osi.</figcaption>
-</figure>
+![[images/casove_priebehy_tonov_a_hluku.png|Časové priebehy jednoduchého tónu, zloženého tónu a hluku]]
+Obr. 3.3.1. Časové priebehy: jednoduchý tón, zložený tón a hluk.
 
 ## Vlastnosti zvuku
 

@@ -19,17 +19,13 @@ title: Kinetická teória stavby látok
 
 **Difúzia** predstavuje samovoľné prenikanie častíc jednej látky medzi častice inej látky, keď sú telesá z týchto látok uvedené do vzájomného styku. Prebieha rýchlo v plynoch (voňavku cítime po chvíli v celej miestnosti), pomalšie v kvapalinách (vrecko s čajom zafarbí vodu v šálke) a veľmi pomaly v pevných látkach. Ak zvýšime teplotu telesa, difúzia prebieha rýchlejšie. Z toho usudzujeme, že pri vyššej teplote sa častice látky pohybujú rýchlejšie.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/difuzia.png" alt="Difúzia kvapaliny vo vode" width="500">
-</p>
+![[images/difuzia.png|Difúzia kvapaliny vo vode|500]]
 
 > **Obr. 2.1.1.** Difúzia predstavuje samovoľné prenikanie častíc jednej látky medzi častice druhej látky. Rýchlosť priebehu difúzie možno ovplyvniť zvýšením teploty.
 
 Dôkazom tepelného pohybu častíc kvapaliny je aj tzv. **Brownov pohyb**. Častica, ktorá sa vznáša na hladine kvapaliny a má rozmery rádovo v mikrometroch, sa nazýva **Brownova častica**. Pohyb Brownovej častice vysvetľujeme ako dôsledok tepelného pohybu častíc kvapaliny, ktoré na Brownovu časticu narážajú a pôsobia na ňu tlakovou silou, tá sa potom pohybuje nepravidelne a neustále sa mení veľkosť jej okamžitej rýchlosti. Tento pohyb prvýkrát popísal škótsky botanik **Robert Brown**. Teóriu tohto pohybu rozpracovali **Marian Smoluchowski** a **Albert Einstein**.
 
-<p class="measurement-figure no-extra-frame">
-  <img src="/static/images/brownov_pohyb.png" alt="Brownov pohyb" width="400">
-</p>
+![[images/brownov_pohyb.png|Brownov pohyb|400]]
 
 > **Obr. 2.1.2.** Brownov pohyb.
 
@@ -37,9 +33,7 @@ Dôkazom tepelného pohybu častíc kvapaliny je aj tzv. **Brownov pohyb**. Čas
 
 Predstavme si jednoduchý prípad dvoch častíc, ktorých kladne nabité jadrá sú obklopené elektrónmi. Výsledkom interakcie týchto dvoch častíc sú odpudivé a príťažlivé sily. Pri malých vzdialenostiach prevládajú sily odpudivé, pri väčších sily príťažlivé. Tento jav môžeme pozorovať aj v každodennom živote - pri stláčaní telesa pociťujeme silu, ktorá nám bráni v ďalšom stláčaní. Naopak, pri naťahovaní pružného telesa cítime silu, ktorá bráni ďalšiemu predlžovaniu.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/vzajomne_posobenie_castic.png" alt="Vzájomné silové pôsobenie dvoch častíc" width="500">
-</p>
+![[images/vzajomne_posobenie_castic.png|Vzájomné silové pôsobenie dvoch častíc|500]]
 
 > **Obr. 2.1.3.** Vzájomné silové pôsobenie dvoch častíc. Podľa konvencie nanášame veľkosť príťažlivej sily pod vodorovnú os $r$ a veľkosť odpudivej sily nad túto os. Závislosť výslednej sily od vzdialenosti častíc je na obrázku vpravo.
 

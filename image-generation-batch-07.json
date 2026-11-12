@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-11",
+  "batch": "07-kruhovy-dej",
+  "mode": "Scientific diagrams constructed as SVG and rendered to PNG with sharp",
+  "assets": [
+    "kruhovy_dej.png",
+    "cyklicky_tepelny_stroj.png",
+    "priklad_cyklicky_dej.png"
+  ],
+  "generator": "scripts/generate-cycles-batch-07.mjs",
+  "validation": [
+    "Visually inspected all three diagrams.",
+    "Clockwise cycle represents positive work by gas; internal energy change over cycle is zero.",
+    "Heat engine: W = Q1 - Q2; efficiency = 1 - Q2/Q1.",
+    "Example vertices (V in L, p in kPa): (1,2), (1,10), (4,6), (4,2). Integral p dV = 18 J. Heights 8 and 4 kPa explicitly denote differences above bottom branch at 2 kPa."
+  ],
+  "notes": "Exact referenced filenames preserved; source lesson text unchanged."
+}

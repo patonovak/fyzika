@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-12",
+  "batch": "09-povrchove-a-kapilarne-javy",
+  "mode": "Scientific SVG diagrams rendered to PNG with sharp",
+  "assets": [
+    "povrchova_vrstva_a_povrchove_sily.png",
+    "povrchova_vrstva_kvapaliny.png",
+    "povrchove_sily.png",
+    "kapilarna_elevacia_a_depresia.png"
+  ],
+  "generator": "scripts/generate-liquids-batch-09.mjs",
+  "validation": [
+    "All four images visually inspected.",
+    "Molecular attraction normal to interface distinguished from tangential surface tension.",
+    "Contact angles measured through liquid; wetting angle acute, nonwetting obtuse.",
+    "Concave and convex interfaces show opposite pressure jumps.",
+    "Signed capillary height uses general relation h = 2 sigma cos(theta)/(R rho g)."
+  ],
+  "notes": "Schematic illustrations, not to scale. Exact filenames preserved; source lesson text unchanged."
+}

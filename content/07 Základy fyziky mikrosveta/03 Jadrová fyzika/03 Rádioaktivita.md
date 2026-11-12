@@ -4,10 +4,8 @@ title: Rádioaktivita
 
 **Rádioaktivita** je jav spontánnej (samovoľnej) jadrovej premeny nestabilného izotopu určitého prvku (tzv. **rádionuklidu**) na izotop iného prvku, ktorý je sprevádzaný emisiou **rádioaktívneho žiarenia**. Rádionuklidy rozlišujeme **prirodzené** (vyskytujú sa v prírode) a **umelé** (pripravené človekom). Podľa toho rozlišujeme aj **prirodzenú a umelú rádioaktivitu**. Prirodzenú rádioaktivitu objavil v roku 1895 francúzsky fyzik Antoine Henri Becquerel, samotný názov rádioaktivita pochádza od manželov Pierra a Marie Curie.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-becquerel-curie.png" alt="Antoine Henri Becquerel a manželia Pierre Curie a Marie Curie">
-  <figcaption>Obr. 6.3.3: Antoine Henri Becquerel (1852 - 1908) a manželia Pierre Curie (1859 - 1906) a Marie Curie (1867 - 1934).</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-becquerel-curie.png|Antoine Henri Becquerel a manželia Pierre Curie a Marie Curie]]
+Obr. 6.3.3: Antoine Henri Becquerel (1852 - 1908) a manželia Pierre Curie (1859 - 1906) a Marie Curie (1867 - 1934).
 
 ## DRUHY RÁDIOAKTÍVNEHO ŽIARENIA
 
@@ -19,10 +17,8 @@ Pri rádioaktívnych premenách môžeme pozorovať rôzne typy **rádioaktívne
 
 Rádioaktívne žiarenie môže v tkanivách spôsobiť **poškodenie** buniek, a tým aj **poškodenie** orgánov. Dôležité je **chrániť sa pred rádioaktívnym žiarením**, a to **odtienením žiarenia** (laboranti na RTG pracovisku sú chránení olovenou doskou, žiarenie reaktora odtieňuje jeho plášť). Medzi ďalšie možnosti ochrany patrí **obmedzenie času kontaktu so žiarením** a **dostatočná vzdialenosť** od zdroja žiarenia. Na meranie dávky ionizujúceho žiarenia sa používa prístroj s názvom **dozimeter**. Musí byť prístupný na všetkých pracoviskách, ktoré pracujú s ionizujúcim žiarením.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-prenikavost-ziarenia.png" alt="Prenikavosť jadrového žiarenia">
-  <figcaption>Obr. 6.3.3: Všetky druhy jadrového žiarenia sú rôzne prenikavé. Žiarenie alfa dokáže byť zastavené listom papiera, žiarenie beta hliníkovým plechom a žiarenie gama napr. olovenou vrstvou.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-prenikavost-ziarenia.png|Prenikavosť jadrového žiarenia]]
+Obr. 6.3.3: Všetky druhy jadrového žiarenia sú rôzne prenikavé. Žiarenie alfa dokáže byť zastavené listom papiera, žiarenie beta hliníkovým plechom a žiarenie gama napr. olovenou vrstvou.
 
 ## TYPY RÁDIOAKTÍVNYCH PREMIEN
 
@@ -34,10 +30,8 @@ $$
 {}^{A}_{Z}\mathrm{X} \rightarrow {}^{4}_{2}\alpha + {}^{A-4}_{Z-2}\mathrm{Y}.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-premena-alfa.png" alt="Schéma rádioaktívnej premeny alfa">
-  <figcaption>Obr. 6.3.3: Schéma rádioaktívnej premeny alfa. Dcérske jadro je v tabuľke prvkov posunuté o dve miesta doľava.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-premena-alfa.png|Schéma rádioaktívnej premeny alfa]]
+Obr. 6.3.3: Schéma rádioaktívnej premeny alfa. Dcérske jadro je v tabuľke prvkov posunuté o dve miesta doľava.
 
 Tento typ rádioaktívnej premeny nemá príliš veľké využitie. Premene alfa podliehajú len ťažké jadrá zo samého konca periodickej tabuľky. Premene alfa podliehajú napr. ${}^{238}_{92}\mathrm{U}$, ${}^{241}_{95}\mathrm{Am}$ a ${}^{227}_{88}\mathrm{Ra}$. Ľahšie jadrá si „nemôžu dovoliť“ emitovať tak ťažkú časticu akou je héliové jadro.
 
@@ -53,10 +47,8 @@ $$
 {}^{A}_{Z}\mathrm{X} \rightarrow {}^{A}_{Z+1}\mathrm{Y} + {}^{0}_{-1}\beta + {}^{0}_{0}\bar{\nu}_{e}.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-premena-beta-minus.png" alt="Schéma rádioaktívnej premeny beta mínus">
-  <figcaption>Obr. 6.3.3: Schéma rádioaktívnej premeny beta mínus.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-premena-beta-minus.png|Schéma rádioaktívnej premeny beta mínus]]
+Obr. 6.3.3: Schéma rádioaktívnej premeny beta mínus.
 
 - **Premena beta plus** je typ rádioaktívnej premeny charakterizovaný emisiou žiarenia $\beta^+$, ktoré tvorí častica **pozitrón** ${}^{0}_{1}\mathrm{e}$, čo je antičastica k elektrónu. Materské jadro okrem toho emituje aj časticu s názvom **elektrónové neutríno** ${}^{0}_{0}\nu_{e}$. K premene beta plus dochádza u jadier, v ktorých prevláda počet protónov nad neutrónmi. Nukleónové číslo dcérskeho jadra sa nemení, posunie sa však v tabuľke prvkov o jedno miesto vľavo smerom k ľahším prvkom. Podstatou tejto premeny je premena protónu v jadre na neutrón podľa schémy nižšie. Touto premenou sa premieňa napr. nuklid ${}^{30}_{15}\mathrm{P}$.
 
@@ -70,19 +62,15 @@ $$
 {}^{A}_{Z}\mathrm{X} \rightarrow {}^{A}_{Z-1}\mathrm{Y} + {}^{0}_{1}\beta + {}^{0}_{0}\nu_{e}.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-premena-beta-plus.png" alt="Schéma rádioaktívnej premeny beta plus">
-  <figcaption>Obr. 6.3.3: Schéma rádioaktívnej premeny beta plus.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-premena-beta-plus.png|Schéma rádioaktívnej premeny beta plus]]
+Obr. 6.3.3: Schéma rádioaktívnej premeny beta plus.
 
 ## RÁDIOAKTIVITA GAMA A DEEXCITÁCIA JADRA
 
 Po rádioaktívnej premene je dcérske jadro len vo veľmi málo prípadoch v základnom stave. Uvoľnená energia vedie k stavu, kedy je dcérske jadro v **excitovanom (vzbudenom) stave**. Jadro sa **deexcituje**, prechádza opäť do základného stavu, najčastejšie tzv. **prechodom gama**, kedy prebytočnú energiu vyžiari priamo vo forme fotónu elektromagnetického žiarenia gama $\gamma$. Pretože žiarenie gama je jeden z druhov rádioaktívneho žiarenia, radí sa niekedy prechod gama nevhodne medzi rádioaktívne premeny. Pri prechode gama však nedochádza k zmene v zložení atómového jadra. **Žiarenie gama je vysoko energetické elektromagnetické žiarenie vznikajúce deexcitáciou vzbudených hladín atómového jadra.** Keďže nasleduje po premene alfa či beta, väčšina rádionuklidov sú zmiešanými žiaričmi (alfa + gama, resp. beta + gama). Len vo veľmi málo prípadoch vedie rádioaktívna premena na základný stav jadra.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-deexcitacia-gama.png" alt="Rádioaktívna premena a deexcitácia gama">
-  <figcaption>Obr. 6.3.3: Rádioaktívna premena materského jadra na jadro dcérske a jeho deexcitácia prechodom gama.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-deexcitacia-gama.png|Rádioaktívna premena a deexcitácia gama]]
+Obr. 6.3.3: Rádioaktívna premena materského jadra na jadro dcérske a jeho deexcitácia prechodom gama.
 
 ## ZÁKON RÁDIOAKTÍVNEJ PREMENY
 
@@ -110,10 +98,8 @@ $$
 N = N_0 e^{-\lambda t}.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-zakon-radioaktivnej-premeny.png" alt="Zákon rádioaktívnej premeny">
-  <figcaption>Obr. 6.3.3: Zákon rádioaktívnej premeny. Počet zatiaľ nepremenených jadier s časom exponenciálne klesá podľa závislosti $N = N_0e^{-\lambda t}$.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-3-zakon-radioaktivnej-premeny.png|Zákon rádioaktívnej premeny]]
+Obr. 6.3.3: Zákon rádioaktívnej premeny. Počet zatiaľ nepremenených jadier s časom exponenciálne klesá podľa závislosti $N = N_0e^{-\lambda t}$.
 
 ## VYUŽITIE RÁDIOIZOTOPOV
 

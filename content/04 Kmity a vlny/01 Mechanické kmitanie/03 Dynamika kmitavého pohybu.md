@@ -12,9 +12,7 @@ Túto rovnicu označujeme aj ako **pohybová rovnica harmonických kmitov**. Sle
 
 Dĺžka nezaťaženej pružiny je $l_0$ a keď na ňu zavesíme teleso s hmotnosťou $m$, predĺži sa na $l = l_0 + \Delta l$. Akonáhle je teleso v rovnovážnej polohe, je výslednica síl na neho pôsobiacich nulová. Preto pre veľkosť tiažovej sily $F_\mathrm{G} = mg$ a sily pružnosti $F_\mathrm{p} = k\Delta l$ platí rovnosť $mg = k\Delta l$.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/kmitavy_pohyb_telesa_na_pruzine.png" alt="Kmitavý pohyb telesa zaveseného na pružine" width="500">
-</p>
+![[images/kmitavy_pohyb_telesa_na_pruzine.png|Kmitavý pohyb telesa zaveseného na pružine|500]]
 
 > **Obr. 3.1.7.** Kmitavý pohyb telesa zaveseného na pružine.
 

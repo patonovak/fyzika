@@ -30,9 +30,7 @@ Ak sa kvapalina vyparuje v uzavretej nádobe, spočiatku je počet molekúl, kto
 
 Bod A v krivke nasýtenej pary popísaný veličinami $p_\mathrm{A}$ a $T_\mathrm{A}$ prislúcha stavu, pri ktorom ešte existuje kvapalina a jej nasýtená para v dynamickej rovnováhe. Koncový bod krivky, bod K, nazývame **kritický bod**. V tomto stave vymizne rozhranie medzi kvapalinou a jej nasýtenou parou, sústava sa stáva rovnorodou. Tento stav je popísaný kritickou teplotou $T_\mathrm{K}$ a kritickým tlakom $p_\mathrm{K}$. Pre vodu majú tieto veličiny hodnoty $647{,}3\ \mathrm{K}$ a $22{,}13\ \mathrm{MPa}$.
 
-<p class="measurement-figure figure-wide no-extra-frame">
-  <img src="/static/images/krivka_nasytenej_pary.png" alt="Krivka nasýtenej pary" width="500">
-</p>
+![[images/krivka_nasytenej_pary.png|Krivka nasýtenej pary|500]]
 
 > **Obr. 2.5.2.** Ak dochádza k vyparovaniu kvapaliny v uzavretej nádobe, dôjde po čase k stavu dynamickej rovnováhy. Graf závislosti tlaku nasýtenej pary od jej teploty sa nazýva krivka nasýtenej pary.
 

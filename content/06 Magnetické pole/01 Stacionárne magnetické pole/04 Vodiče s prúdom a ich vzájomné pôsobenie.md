@@ -35,10 +35,8 @@ Dva dlhé priame vodiče, ktorými preteká elektrický prúd, na seba navzájom
 - vodiče sa priťahujú, ak prúdy nimi tečú rovnakým smerom,
 - vodiče sa odpudzujú, ak prúdy nimi tečú opačnými smermi.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-11.png" alt="Vzájomné pôsobenie dvoch priamych vodičov s prúdom">
-  <figcaption>Obr. 5.1.11: Dva vodiče, ktorými preteká prúd, sa priťahujú (odpudzujú) rovnako veľkými magnetickými silami, ktoré majú opačný smer. Ak prúdy tečú rovnakým smerom, vodiče sa priťahujú. Ak opačnými smermi, odpudzujú sa.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/stacionarne-magneticke-pole/obr-5-1-11.png|Vzájomné pôsobenie dvoch priamych vodičov s prúdom]]
+Obr. 5.1.11: Dva vodiče, ktorými preteká prúd, sa priťahujú (odpudzujú) rovnako veľkými magnetickými silami, ktoré majú opačný smer. Ak prúdy tečú rovnakým smerom, vodiče sa priťahujú. Ak opačnými smermi, odpudzujú sa.
 
 Pre veľkosť magnetickej sily, ktorou na seba pôsobia úseky vodičov s dĺžkou $l$ vo vzdialenosti $d$, platí
 

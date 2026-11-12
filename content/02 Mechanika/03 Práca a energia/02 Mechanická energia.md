@@ -16,9 +16,7 @@ $$
 W = \Delta E_k.
 $$
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/pohybova_energia.png" alt="Závislosť kinetickej energie od rýchlosti" width="500">
-</p>
+![[images/pohybova_energia.png|Závislosť kinetickej energie od rýchlosti|500]]
 
 > **Obr. 1.3.2.** Kinetická energia rastie so štvorcom rýchlosti; pri zdvojnásobení rýchlosti je štvornásobná.
 
@@ -42,9 +40,7 @@ $$
 
 Nulovú hladinu potenciálnej energie volíme často na povrchu Zeme. Jej voľba je však ľubovoľná.
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/polohova_energia.png" alt="Potenciálna energia v tiažovom poli" width="500">
-</p>
+![[images/polohova_energia.png|Potenciálna energia v tiažovom poli|500]]
 
 > **Obr. 1.3.3.** Potenciálna energia telesa v tiažovom poli pri dvoch výškach vzhľadom na referenčnú hladinu.
 

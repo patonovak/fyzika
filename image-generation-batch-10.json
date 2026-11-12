@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-12",
+  "batch": "10-anomalia-vody-a-premeny-skupenstva",
+  "mode": "Schematic scientific SVG diagrams rendered to PNG with sharp",
+  "assets": [
+    "fazovy_diagram.png",
+    "krivka_nasytenej_pary.png",
+    "premeny_skupenstva_latok.png",
+    "teplotna_zavislost_hustoty_vody.png",
+    "topenie_krystalickej_a_amorfnej_latky.png"
+  ],
+  "generator": "scripts/generate-phases-batch-10.mjs",
+  "validation": [
+    "All five figures visually inspected.",
+    "Density curve is qualitative with maximum at approximately 4 degrees Celsius; no invented density values.",
+    "Saturation point A lies exactly on the cubic curve; coexistence curve terminates at K.",
+    "Crystalline heating curve has a constant-temperature plateau; amorphous heating curve does not.",
+    "Phase diagram explicitly denotes ordinary positive melting slope and notes water ice I exception.",
+    "All six phase-change arrows and directions checked."
+  ],
+  "notes": "Schematics, not measured data. Exact referenced filenames preserved; lesson text unchanged."
+}

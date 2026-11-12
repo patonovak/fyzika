@@ -8,10 +8,8 @@ Elektrolýza je dej, pri ktorom prechodom prúdu elektrolytom, dochádza k látk
 
 Elektrolýza má praktické využitie v elektrometalurgii (výrobe čistých kovov), galvanickom pokovovaní, elektronickom čistení kovov a v iných ďalších. Pre elektrolýzu platia tzv. Faradayove zákony elektrolýzy.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/elektricky-prud/elektrolyza-roztok-cucl2.png" alt="Elektrolýza v roztoku chloridu meďnatého">
-  <figcaption>Obr. 4.2.16: Elektrolýza v roztoku chloridu meďnatého (CuCl₂). Anióny Cl putujú k anóde, katióny Cu²⁺ putujú ku katóde. Na katóde pozorujeme vylučovanie medi a na anóde chlóru.</figcaption>
-</figure>
+![[images/fyzika/elektricky-prud/elektrolyza-roztok-cucl2.png|Elektrolýza v roztoku chloridu meďnatého]]
+Obr. 4.2.16: Elektrolýza v roztoku chloridu meďnatého (CuCl₂). Anióny Cl putujú k anóde, katióny Cu²⁺ putujú ku katóde. Na katóde pozorujeme vylučovanie medi a na anóde chlóru.
 
 ## FARADAYOVE ZÁKONY ELEKTROLÝZY
 
@@ -35,7 +33,5 @@ $$
 
 V tomto vzťahu je $F = N_A e \approx 9{,}6 \cdot 10^4\,\mathrm{C \cdot mol^{-1}}$ tzv. Faradayova konštanta, $z$ je mocenstvo iónu a $M_m$ je molárna hmotnosť látky.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/elektricky-prud/michael-faraday.png" alt="Michael Faraday">
-  <figcaption>Obr. 4.2.17: Michael Faraday (1791 – 1867).</figcaption>
-</figure>
+![[images/fyzika/elektricky-prud/michael-faraday.png|Michael Faraday]]
+Obr. 4.2.17: Michael Faraday (1791 – 1867).

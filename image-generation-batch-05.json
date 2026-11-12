@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-11",
+  "batch": "05-kepler-termodynamika",
+  "prompts": [
+    {
+      "name": "kepler.png",
+      "prompt": "Use case: historical-scene. Create a new historically informed painted portrait illustration of Johannes Kepler for a Slovak school physics textbook. Mature early-seventeenth-century German astronomer, recognizable narrow face, high receding forehead with short dark brown hair, moustache and pointed neatly trimmed beard, serious thoughtful expression, dark period doublet and prominent white pleated ruff collar. Head and shoulders, three-quarter view. Restrained classical oil-painting realism, softly muted warm brown neutral background, matching a textbook portrait series of scientists. No telescope, no planets, no diagrams, no writing, no watermark. Historically plausible clothing and anatomy. This is an interpretive modern illustration, not an authentic archival painting. Portrait aspect ratio; readable at 400–500 pixels wide."
+    },
+    {
+      "name": "anders_celsius.png",
+      "prompt": "Use case: historical-scene. New interpretive painted head-and-shoulders portrait of Anders Celsius (1701–1744), Swedish astronomer, for an educational physics textbook scientist series. Historically informed appearance based on eighteenth-century portrait conventions: clean-shaven mature oval face, high forehead, powdered shoulder-length curled grey wig parted near the center, dignified calm expression, early-eighteenth-century dark coat and white linen neckcloth. Three-quarter view, classical oil-painting realism, restrained warm muted brown neutral background, natural anatomy. No beard, no Victorian clothing, no thermometer prop, no text, no equations, no watermark. This is a modern illustrative reconstruction, not an archival painting. Portrait aspect ratio, clear face readable at 400 pixels wide."
+    },
+    {
+      "name": "william_thomson.png",
+      "prompt": "Use case: historical-scene. New historically informed painted portrait of William Thomson, Lord Kelvin (1824–1907), for a school physics textbook scientist portrait series. Depict the elderly Scottish physicist, broad high balding forehead, sparse white hair around the sides, deep-set thoughtful eyes, prominent full long white beard and moustache, dignified serious expression. Dark late-Victorian suit jacket and waistcoat, white collar, understated dark tie. Head and shoulders, three-quarter view, natural anatomy. Classical realistic oil-painting illustration, soft muted warm brown neutral background matching an educational portrait series. Not a photograph or claimed archival painting. No text, no thermometer, no equations, no apparatus, no watermark. Portrait aspect ratio and clear facial features at 400 pixels wide."
+    }
+  ],
+  "assets": [
+    "kepler.png",
+    "druhy_keplerov_zakon.png",
+    "anders_celsius.png",
+    "william_thomson.png",
+    "zmena_vnutornej_energie_pracou.png",
+    "teleso_v_kalorimetri.png"
+  ],
+  "mode": "Portraits: built-in image_gen; scientific diagrams: exact SVG geometry rasterized with sharp.",
+  "generator": "scripts/generate-thermo-batch-05.mjs",
+  "validation": {
+    "kepler": "Equal mean-anomaly intervals ΔM=0.5; Sun at focus; polygon areas 22424.99035 and 22424.99996 square pixels; relative error 4.29e-7.",
+    "compression": "12 particles before and after; reduced volume, increased temperature; Q=0, work on gas positive.",
+    "calorimeter": "Thermometer immersed in water; separate hot body, insulated walls, stirrer, heat transfer from body to water."
+  },
+  "notes": "Portraits are new interpretive reconstructions, not archival images."
+}

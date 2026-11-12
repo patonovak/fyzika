@@ -10,10 +10,8 @@ $$
 
 Je to vzdialenosť dvoch najbližších bodov, ktoré kmitajú s rovnakou fázou. Rýchlosť $v$ je tzv. **fázová rýchlosť vlnenia**.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/vlnova_dlzka.png" alt="Vlnová dĺžka postupnej vlny">
-  <figcaption>Obr. 3.2.2. Vlnová dĺžka je najmenšia vzdialenosť meraná v smere šírenia vlny, kde dochádza k opakovaniu tvaru vlny. Je to vzdialenosť dvoch najbližších bodov, ktoré kmitajú s rovnakou fázou.</figcaption>
-</figure>
+![[images/vlnova_dlzka.png|Vlnová dĺžka postupnej vlny]]
+Obr. 3.2.2. Vlnová dĺžka je najmenšia vzdialenosť meraná v smere šírenia vlny, kde dochádza k opakovaniu tvaru vlny. Je to vzdialenosť dvoch najbližších bodov, ktoré kmitajú s rovnakou fázou.
 
 Ak sa postupné vlnenie šíri radom bodov a dostane sa do vzdialenosti $x$ od zdroja, trvá mu to čas
 
@@ -49,10 +47,8 @@ $$
 y_2 = y_m \sin 2\pi \left(\frac{t}{T} - \frac{x_2}{\lambda}\right).
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/interferencia_dvoch_vlneni.png" alt="Interferencia dvoch vlnení">
-  <figcaption>Obr. 3.2.3. Interferencia dvoch vlnení, využívame pri tom princíp superpozície.</figcaption>
-</figure>
+![[images/interferencia_dvoch_vlneni.png|Interferencia dvoch vlnení]]
+Obr. 3.2.3. Interferencia dvoch vlnení, využívame pri tom princíp superpozície.
 
 Zdroje vlnení $Z_1$ a $Z_2$ majú rôznu polohu, no kmitajú s rovnakou začiatočnou fázou. Vzdialenosť zdrojov $d = x_2 - x_1$ je potom vzdialenosť dvoch bodov, v ktorých majú vlnenia rovnakú fázu. Túto vzdialenosť nazývame **dráhový rozdiel**. Rovnica výsledného vlnenia je potom
 
@@ -70,17 +66,13 @@ Fázový rozdiel dvoch vlnení je priamo úmerný dráhovému rozdielu. Zaujíma
 
 - **Dráhový rozdiel je rovný párnemu počtu polvĺn.** Platí podmienka $d = 2k \frac{\lambda}{2} = k\lambda$, kde $k = 0, 1, 2, ...$ Vlnenia sa stretávajú s rovnakou fázou a vzniká **interferenčné maximum**. Amplitúda výsledného vlnenia je rovná súčtu amplitúd interferujúcich vlnení $y_m = y_{m1} + y_{m2}$.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/konstruktivna_interferencia.png" alt="Konštruktívna interferencia">
-  <figcaption>Obr. 3.2.4. Konštruktívna interferencia vedie k vzniku interferenčného maxima.</figcaption>
-</figure>
+![[images/konstruktivna_interferencia.png|Konštruktívna interferencia]]
+Obr. 3.2.4. Konštruktívna interferencia vedie k vzniku interferenčného maxima.
 
 - **Dráhový rozdiel je rovný nepárnemu počtu polvĺn.** Podmienka $d = (2k + 1)\frac{\lambda}{2}$, kde $k = 0, 1, 2, ...$ Vlnenia sa stretávajú s opačnou fázou a vzniká interferenčné minimum. Amplitúda výsledného vlnenia je rovná rozdielu amplitúd interferujúcich vlnení $y_m = |y_{m1} - y_{m2}|$.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/destruktivna_interferencia.png" alt="Deštruktívna interferencia">
-  <figcaption>Obr. 3.2.5. Deštruktívna interferencia vedie k vzniku interferenčného minima.</figcaption>
-</figure>
+![[images/destruktivna_interferencia.png|Deštruktívna interferencia]]
+Obr. 3.2.5. Deštruktívna interferencia vedie k vzniku interferenčného minima.
 
 > [!example] Príklad 3.2.1: Vlnenie v mosadznej tyči
 > Pri frekvencii 2,5 kHz vzniká v mosadznej tyči vlnenie s vlnovou dĺžkou 1,3 m. Vypočítajte rýchlosť šírenia vlnenia v tejto tyči.

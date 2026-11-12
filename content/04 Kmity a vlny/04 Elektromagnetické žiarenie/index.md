@@ -4,17 +4,13 @@ title: Elektromagnetické žiarenie
 
 Podstatu elektromagnetického žiarenia (vlnenia) vyložil v 2. polovici 19. storočia škótsky matematik a fyzik **James Clerk Maxwell**. Sformuloval vtedajšie poznatky elektriny a magnetizmu do štyroch základných rovníc, ktoré sú známe pod názvom **Maxwellove rovnice**. Z jeho teórie vyplýva, že v okolí pohybujúcej sa častice s nábojom existuje premenné elektrické pole, ktoré zároveň vytvára premenné pole magnetické. Elektrické a magnetické pole sú spolu späté a vytvárajú **elektromagnetické pole**, ktoré sa priestorom šíri ako **elektromagnetické vlnenie**. Zdrojom elektromagnetického vlnenia je **elektromagnetický oscilátor**, z ktorého ďalej vyžaruje energia do voľného priestoru.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/james_clerk_maxwell.png" alt="James Clerk Maxwell">
-  <figcaption>Obr. 3.4.1. James Clerk Maxwell (1831 - 1879).</figcaption>
-</figure>
+![[images/james_clerk_maxwell.png|James Clerk Maxwell]]
+Obr. 3.4.1. James Clerk Maxwell (1831 - 1879).
 
 Najjednoduchším elektromagnetickým oscilátorom je tzv. **LC obvod** tvorený cievkou s indukčnosťou $L$ a kondenzátorom s kapacitou $C$. Pri nabití kondenzátora sa medzi jeho doskami vytvorí elektrické pole, prúd prechádzajúci cievkou je nulový. Kondenzátor sa začne vybíjať cez cievku, napätie klesá a rastie prúd tečúci obvodom. Na cievke sa indukuje napätie opačnej polarity, kvôli čomu sa kondenzátor vybije až za určitú dobu. Keď je kondenzátor vybitý, začne prúd v obvode klesať, čo vyvolá na cievke vznik napätia opačnej polarity. Kondenzátor sa začína opäť nabíjať, až sa nabije a celý proces sa periodicky opakuje.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/lc_obvod.png" alt="LC obvod a časový priebeh napätia a prúdu">
-  <figcaption>Obr. 3.4.2. Najjednoduchším elektromagnetickým oscilátorom je LC obvod.</figcaption>
-</figure>
+![[images/lc_obvod.png|LC obvod a časový priebeh napätia a prúdu]]
+Obr. 3.4.2. Najjednoduchším elektromagnetickým oscilátorom je LC obvod.
 
 Rovnako ako mechanický oscilátor, aj elektromagnetický oscilátor kmitá s vlastnou uhlovou frekvenciou
 
@@ -33,10 +29,8 @@ $$
 - **elektrická zložka** popísaná vektorom intenzity elektrického poľa $\vec{E}$,
 - **magnetická zložka** popísaná vektorom magnetickej indukcie $\vec{B}$.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/elektromagneticka_vlna.png" alt="Elektromagnetická vlna a jej elektrická a magnetická zložka">
-  <figcaption>Obr. 3.4.3. Elektromagnetická vlna a jej dve neoddeliteľné, navzájom kolmé zložky.</figcaption>
-</figure>
+![[images/elektromagneticka_vlna.png|Elektromagnetická vlna a jej elektrická a magnetická zložka]]
+Obr. 3.4.3. Elektromagnetická vlna a jej dve neoddeliteľné, navzájom kolmé zložky.
 
 Z Maxwellových rovníc ďalej vyplývalo, že elektromagnetické vlnenie sa na rozdiel od mechanického vlnenia môže šíriť aj vákuom, pričom jeho rýchlosť vo vákuu je
 
@@ -52,10 +46,8 @@ $$
 
 Rozdelenie elektromagnetického žiarenia podľa vlnovej dĺžky alebo frekvencie sa nazýva **spektrum elektromagnetického žiarenia**. Patrí sem napr. gama žiarenie, röntgenové žiarenie, ultrafialové žiarenie (UV), viditeľné žiarenie, infračervené žiarenie (IR), mikrovlnné žiarenie a rádiové žiarenie.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/spektrum_elektromagnetickeho_ziarenia.png" alt="Spektrum elektromagnetického žiarenia">
-  <figcaption>Obr. 3.4.4. Spektrum elektromagnetického žiarenia.</figcaption>
-</figure>
+![[images/spektrum_elektromagnetickeho_ziarenia.png|Spektrum elektromagnetického žiarenia]]
+Obr. 3.4.4. Spektrum elektromagnetického žiarenia.
 
 Od elektromagnetického žiarenia však musíme odlíšiť tzv. **časticové žiarenie**, medzi ktoré patrí napr. žiarenie alfa a žiarenie beta. K tomuto žiareniu dochádza, ak sa mení vnútorná štruktúra atómov, molekúl alebo ich jadier.
 
@@ -75,10 +67,8 @@ Röntgenové žiarenie je elektromagnetické žiarenie s vlnovými dĺžkami od 
 
 - **Tvrdé röntgenové žiarenie.** Ide o röntgenové žiarenie menších vlnových dĺžok, ktorého vlastnosti sa blížia žiareniu gama. Vyžarujú ho excitované atómy kovu, ktoré získali energiu od dopadajúcich elektrónov. Voláme ho aj **charakteristické röntgenové žiarenie** a jeho spektrum je diskrétne.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/prvy_rontgenovy_snimok.png" alt="Prvý röntgenový snímok">
-  <figcaption>Obr. 3.4.5. Prvý röntgenový snímok z roku 1895, ktorý spravil fyzik Wilhelm Röntgen. Je na ňom ruka jeho manželky Anny Berthy Ludwigovej.</figcaption>
-</figure>
+![[images/prvy_rontgenovy_snimok.png|Prvý röntgenový snímok]]
+Obr. 3.4.5. Prvý röntgenový snímok z roku 1895, ktorý spravil fyzik Wilhelm Röntgen. Je na ňom ruka jeho manželky Anny Berthy Ludwigovej.
 
 Röntgenové žiarenie objavil v roku 1895 nemecký fyzik **Wilhelm Röntgen**. Ak toto žiarenie prechádza látkou, pohlcuje sa jeho energia a mení sa na vnútornú energiu látky. V ľudskom tele pohlcujú röntgenové žiarenie kosti zložené prevažne z vápnika oveľa viac ako svaly, ktorých obsahom je hlavne voda. Na röntgenovej snímke sa potom kosti javia oveľa svetlejšie ako okolité tkanivá. Využíva sa aj v röntgenovej defektoskopii, kde sa zisťujú vnútorné vady v kovových výrobkoch bez toho, aby boli tieto výrobky zvonku narušené.
 
@@ -92,10 +82,8 @@ $$
 
 V tomto vzťahu je $U_m$ amplitúda napätia a $\lambda = cT = c/f$ **vlnová dĺžka elektromagnetického vlnenia**.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/dvojvodicove_vedenie.png" alt="Dvojvodičové vedenie">
-  <figcaption>Obr. 3.4.6. Dvojvodičové vedenie.</figcaption>
-</figure>
+![[images/dvojvodicove_vedenie.png|Dvojvodičové vedenie]]
+Obr. 3.4.6. Dvojvodičové vedenie.
 
 V prípade postupnej elektromagnetickej vlny sa vlnenie na konci vedenia pohltí. Pokiaľ tento prípad nenastane, na konci vedenia sa vlnenie odrazí a môže sa tak skladať s vlnením postupujúcim pôvodným smerom. Pri dvojvodičovom vedení môže takáto situácia nastať, keď na jeho koncoch nie je pripojený žiadny spotrebič. Koniec vedenia má vysoký odpor ($R \to \infty$) a je na ňom vysoké napätie. Takto vzniká tzv. **stojaté elektromagnetické vlnenie**. Fázový posun napätia a prúdu je $\Delta\varphi = \pi/2$.
 
@@ -103,10 +91,8 @@ V prípade postupnej elektromagnetickej vlny sa vlnenie na konci vedenia pohltí
 
 V prípade dvojvodičového vedenia je energia šíriaceho sa vlnenia sústredená prevažne medzi vodičmi. V praxi, najmä v telekomunikácii, ktorá funguje na tomto princípe, je potrebné vyžarovať toto vlnenie do väčšieho priestoru. Takúto funkciu plní napr. vo vysielači anténa, čo je z fyzikálneho hľadiska tzv. **elektromagnetický dipól**. Konce dvojvodičového vedenia s dĺžkou $\lambda/4$ roztvoríme do kolmého smeru, elektromagnetické vlnenie sa tak šíri do priestoru. Napätie a prúd v dipóle vytvárajú stojaté vlnenie, pričom napätie má na koncoch dipólu kmitňu, v strede uzol a prúd naopak. Elektromagnetický dipól je základná súčasť všetkých vysielačov a prijímačov na bezdrôtový prenos správ. Pretože v praxi sa dĺžka dipólu rovná polovici vlnovej dĺžky vlnenia, volá sa aj **polvlnný dipól**.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/elektromagneticky_dipol.png" alt="Elektromagnetický polvlnný dipól">
-  <figcaption>Obr. 3.4.7. Elektromagnetický (polvlnný) dipól.</figcaption>
-</figure>
+![[images/elektromagneticky_dipol.png|Elektromagnetický polvlnný dipól]]
+Obr. 3.4.7. Elektromagnetický (polvlnný) dipól.
 
 ## Podkapitoly
 

@@ -30,8 +30,6 @@ $$
 
 Ak sledujeme gravitačné pole napríklad pri povrchu Zeme v malej oblasti, javí sa gravitačné zrýchlenie v každom bode rovnaké čo do veľkosti i smeru. Takéto pole nazývame **homogénne gravitačné pole**.
 
-<p class="measurement-figure figure-wide">
-  <img src="/static/images/radialne_vs_homogenne_g.png" alt="Porovnanie radiálneho a homogénneho gravitačného poľa" width="500">
-</p>
+![[images/radialne_vs_homogenne_g.png|Porovnanie radiálneho a homogénneho gravitačného poľa|500]]
 
 > **Obr. 1.4.2.** Porovnanie radiálneho gravitačného poľa a homogénneho gravitačného poľa.

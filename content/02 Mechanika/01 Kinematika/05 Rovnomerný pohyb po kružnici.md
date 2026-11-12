@@ -6,9 +6,7 @@ S pohybom po kružnici sa v bežnom živote stretávame často, napríklad pri k
 
 Pri rovnomernom pohybe po kružnici opíše hmotný bod za rovnaké časové intervaly rovnako dlhé kružnicové oblúky $\Delta s$, ktorým prislúchajú rovnako veľké stredové uhly $\Delta \varphi$.
 
-<p class="measurement-figure">
-  <img src="/static/images/rppk.png" alt="Rovnomerný pohyb po kružnici" width="400">
-</p>
+![[images/rppk.png|Rovnomerný pohyb po kružnici|400]]
 
 > **Obr. 1.1.14.** Pri rovnomernom pohybe po kružnici opíše hmotný bod za rovnaké časové intrvaly rovnako dlhé kružnicové oblúky.
 
@@ -51,9 +49,7 @@ Pri rovnomernom pohybe po kružnici sa nemení veľkosť okamžitej rýchlosti h
 
 **Vektor okamžitej rýchlosti** v danom bode má smer dotyčnice ku kružnicovej trajektórii a je kolmý na sprievodič hmotného bodu, teda na úsečku, ktorá ho spája so stredom kružnice.
 
-<p class="measurement-figure">
-  <img src="/static/images/rppk_vektor_rychlosti.png" alt="Vektor okamžitej rýchlosti pri pohybe po kružnici" width="400">
-</p>
+![[images/rppk_vektor_rychlosti.png|Vektor okamžitej rýchlosti pri pohybe po kružnici|400]]
 
 > **Obr. 1.1.15.** Vektor okamžitej rýchlosti pri rovnomernom pohybe po kružnici má smer dotyčnice k trajektórii.
 
@@ -100,9 +96,7 @@ Pre veľkosť dostredivého zrýchlenia platí:
 $$
 a_d = \frac{v^2}{r} = \omega^2 r
 $$
-<p class="measurement-figure">
-  <img src="/static/images/dostredive_zrychlenie.png" alt="Dostredivé zrýchlenie" width="400">
-</p>
+![[images/dostredive_zrychlenie.png|Dostredivé zrýchlenie|400]]
 
 > **Obr. 1.1.16.** Dostredivé zrýchlenie smeruje do stredu kružnice.
 
@@ -169,9 +163,8 @@ $$
 
 > [!note] Rozširujúce učivo: Prirodzené zložky zrýchlenia
 > Zrýchlenie hmotného bodu pri krivočiarom pohybe možno v každom bode trajektórie rozložiť na dve navzájom kolmé zložky.
-> <p class="measurement-figure callout-figure">
->   <img src="/static/images/zlozky_zrychlenia.png" alt="Zložky zrýchlenia" width="400">
-> </p>
+>
+> ![[images/zlozky_zrychlenia.png|Zložky zrýchlenia|400]]
 >
 > **Obr. 1.1.17.** Zložky zrýchlenia.
 > - **Dotyčnicové (tangenciálne) zrýchlenie** $\vec a_t$ vyjadruje zmenu veľkosti okamžitej rýchlosti v čase a má smer dotyčnice ku trajektórii.

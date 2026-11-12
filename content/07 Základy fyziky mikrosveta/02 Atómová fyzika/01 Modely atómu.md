@@ -4,10 +4,8 @@ title: Modely atómu
 
 Významnú úlohu v objasňovaní štruktúry a vývoji predstáv o atóme zohral **objav elektrónu**. V prvej polovici 19. storočia pozorovali fyzici tzv. **katódové lúče**. Zriedený plyn vo vnútri trubice, s elektródami pripojenými na vysoké napätie, žiaril. Pri ďalšom znížení tlaku v trubici začala svetielkovať aj stena trubice naproti zápornej elektróde (katóde). Fyzici predpokladali, že táto elektróda emituje tzv. **katódové žiarenie**. Podstatu tohto žiarenia odhalil v roku 1897 britský fyzik Joseph John Thomson. Ukázal, že toto žiarenie je tvorené prúdom malých častíc s nábojom rovným elementárnemu elektrickému náboju $e$. Tieto častice pomenoval **elektróny**. Bolo jasné, že majú pôvod v atóme. Existenciu elementárneho elektrického náboja stanovil tzv. **Millikanov experiment**, ktorý spočíval v rozprašení kvapiek oleja v homogénnom elektrickom poli. Tak bola stanovená hodnota elementárneho elektrického náboja $e \approx 1{,}602\cdot 10^{-19}\ \mathrm{C}$ a z toho aj hmotnosť elektrónu $m_e \approx 9{,}1\cdot 10^{-31}\ \mathrm{kg}$. Millikan v rokoch 1910 - 1913 umiestnil vo vzduchu nad sebou dve ploché elektródy. Medzi ne rozprášil kvapôčky oleja. Ak sa elektródy pripojili na vysoké napätie, mohli sa nabité čiastočky oleja pohybovať. Pre určenie elektrického náboja kvapky využil Millikan situáciu, v ktorej sa pri určitej hodnote napätia medzi doskami kvapôčky vznášajú.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-katodova-trubica-millikan.png" alt="Experiment s katódovou trubicou a Millikanov experiment">
-  <figcaption>Obr. 6.2.1: Experiment s katódovou trubicou a Millikanov experiment.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-katodova-trubica-millikan.png|Experiment s katódovou trubicou a Millikanov experiment]]
+Obr. 6.2.1: Experiment s katódovou trubicou a Millikanov experiment.
 
 ## SPEKTRÁ LÁTOK
 
@@ -17,10 +15,8 @@ Látky môžu **emitovať** (vyžarovať) alebo **absorbovať** (pohlcovať) ele
 - **Čiarové spektrum.** V spektre existujú vlnové dĺžky, pre ktoré je intenzita nenulová. V spektrometre pozorujeme čiary zodpovedajúce jednotlivým vlnovým dĺžkam (frekvenciám). Pozorujeme ho hlavne v prípade voľných atómov (napr. v plyne).
 - **Pásové spektrum.** V spektre existujú intervaly vlnových dĺžok, pre ktoré je intenzita nenulová. V spektroskope pozorujeme pásy. V prípade molekúl ho pozorujeme v infračervenej oblasti.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-spektra-latok.png" alt="Základné typy spektier látok">
-  <figcaption>Obr. 6.2.1: a) spojité spektrum, b) čiarové emisné spektrum, c) čiarové absorpčné spektrum, d) pásové spektrum.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-spektra-latok.png|Základné typy spektier látok]]
+Obr. 6.2.1: a) spojité spektrum, b) čiarové emisné spektrum, c) čiarové absorpčné spektrum, d) pásové spektrum.
 
 **Spektrálna analýza** (spektroskopia) je schopná na základe spektier usudzovať o chemickom zložení látok. Poloha čiar v spektre určuje presne prítomnosť istých chemických prvkov.
 
@@ -35,10 +31,8 @@ Na základe objavu elektrónu navrhol Thomson prvý model štruktúry atómu. Vz
 >
 > **NEDOSTATKY MODELU.** Na základe tohto modelu sa nepodarilo vysvetliť čiarové spektrum atómov.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-thomsonov-model.png" alt="Thomsonov pudingový alebo melónový model atómu">
-  <figcaption>Obr. 6.2.1: Thomsonov (pudingový, alebo aj melónový) model atómu. Uprostred kladne nabitej hmoty sú umiestnené veľmi ľahké elektróny, podobne ako hrozienka v pudingu či jadierka v červenom melóne.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-thomsonov-model.png|Thomsonov pudingový alebo melónový model atómu]]
+Obr. 6.2.1: Thomsonov (pudingový, alebo aj melónový) model atómu. Uprostred kladne nabitej hmoty sú umiestnené veľmi ľahké elektróny, podobne ako hrozienka v pudingu či jadierka v červenom melóne.
 
 ## RUTHERFORDOV MODEL ATÓMU
 
@@ -46,10 +40,8 @@ Na základe objavu elektrónu navrhol Thomson prvý model štruktúry atómu. Vz
 
 Toto správanie niektorých jadier hélia nebolo v súlade s Thomsonovým modelom atómu. Vysvetlenie skutočnosti, že niekoľko málo kladne nabitých častíc pri priblížení k zlatej fólii značne zmení svoj smer, bolo možné vysvetliť len na základe predstavy odpudivého pôsobenia od kladného náboja sústredeného vo veľmi malom priestore. Takto vytvoril Rutherford predstavu o **atómovom jadre**. Ním navrhnutý model atómu nazývame **Rutherfordov (planetárny) model atómu**.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-ernest-rutherford.png" alt="Ernest Rutherford">
-  <figcaption>Obr. 6.2.1: Ernest Rutherford (1871 - 1937).</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-ernest-rutherford.png|Ernest Rutherford]]
+Obr. 6.2.1: Ernest Rutherford (1871 - 1937).
 
 > [!note] Rutherfordov model atómu
 > **PREDSTAVY MODELU.** Elektróny obiehajú okolo veľmi malého kladne nabitého jadra, v ktorom je sústredená takmer celá hmotnosť atómu. Elektróny obiehajú po kruhových trajektóriách.
@@ -58,10 +50,8 @@ Toto správanie niektorých jadier hélia nebolo v súlade s Thomsonovým modelo
 >
 > **NEDOSTATKY MODELU.** Na základe tohto modelu sa nepodarilo vysvetliť čiarové spektrum atómov. Podľa klasickej predstavy by elektróny pri pohybe po kružnici mali vyžarovať energiu, čím by po istom čase „spadli“ do atómového jadra. Takýto jav však nepozorujeme.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-rutherfordov-model.png" alt="Rutherfordov experiment so zlatou fóliou a Rutherfordov model atómu">
-  <figcaption>Obr. 6.2.1: Rutherfordov experiment so zlatou fóliou a Rutherfordov model atómu.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-rutherfordov-model.png|Rutherfordov experiment so zlatou fóliou a Rutherfordov model atómu]]
+Obr. 6.2.1: Rutherfordov experiment so zlatou fóliou a Rutherfordov model atómu.
 
 > [!example] Príklad 6.2.1: Atóm zlata a jeho veľkosť
 > Odhadnite rádovo priemer atómu zlata, ak viete, že molárna hmotnosť zlata je 196,9 g/mol a hustota zlata je $19\ 300\ \mathrm{kg/m^3}$.
@@ -81,10 +71,8 @@ Toto správanie niektorých jadier hélia nebolo v súlade s Thomsonovým modelo
 
 Hlavným nedostatkom všetkých vyššie uvedených modelov atómu je to, že ani jeden z nich nedokáže vysvetliť čiarové spektrum atómov. Túto nezrovnalosť sa pokúsil vyriešiť v roku 1913 dánsky fyzik Niels Bohr a to tak, že postuloval platnosť tzv. **kvantovacej podmienky**. Bohrov model atómu bol použiteľný pre atóm vodíka a vodíku podobné atómy.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-niels-bohr.png" alt="Niels Henrik David Bohr">
-  <figcaption>Obr. 6.2.1: Niels Henrik David Bohr (1885 - 1962).</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-niels-bohr.png|Niels Henrik David Bohr]]
+Obr. 6.2.1: Niels Henrik David Bohr (1885 - 1962).
 
 > [!note] Bohrov model atómu
 > **PREDSTAVY MODELU.** Bohrov model atómu bol založený na troch postulátoch.
@@ -105,17 +93,13 @@ Hlavným nedostatkom všetkých vyššie uvedených modelov atómu je to, že an
 >
 > **NEDOSTATKY MODELU.** Pri použití spektroskopov s väčším rozlíšením sa spektrálne čiary javia ako série niekoľkých blízkych čiar. Hovoríme o jemnej a hyperjemnej štruktúre spektrálnych čiar. Tento jav nedokázal Bohrov model vysvetliť.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-bohrov-model.png" alt="Bohrov model atómu">
-  <figcaption>Obr. 6.2.1: Bohrov model atómu. Pri prechode elektrónu z vyššej hladiny na nižšiu vyžiari elektrón fotón s energiou rovnou rozdielu energií prislúchajúcim týmto hladinám. Pri prechode na vyššiu energetickú hladinu musí elektrón energiu prijať.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-bohrov-model.png|Bohrov model atómu]]
+Obr. 6.2.1: Bohrov model atómu. Pri prechode elektrónu z vyššej hladiny na nižšiu vyžiari elektrón fotón s energiou rovnou rozdielu energií prislúchajúcim týmto hladinám. Pri prechode na vyššiu energetickú hladinu musí elektrón energiu prijať.
 
 Zvláštnu pozornosť venovali fyzici štúdiu **atómu vodíka**, t. j. sústavy, ktorá pozostáva z jedného elektrónu a jedného protónu. Spektrum atómu vodíka tvoria od seba navzájom izolované čiary, ktoré sa radia do skupín, tzv. **spektrálnych sérií**. Vo viditeľnej oblasti obsahuje spektrum vodíka štyri výrazné čiary: červenú (656,3 nm), modrozelenú (486,1 nm), modrofialovú (434,0 nm) a fialovú (410,2 nm).
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-emisne-spektrum-vodika.png" alt="Emisné spektrum atómu vodíka">
-  <figcaption>Obr. 6.2.1: Emisné spektrum atómu vodíka, štyri výrazné čiary vo viditeľnej oblasti.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-emisne-spektrum-vodika.png|Emisné spektrum atómu vodíka]]
+Obr. 6.2.1: Emisné spektrum atómu vodíka, štyri výrazné čiary vo viditeľnej oblasti.
 
 Neskôr boli objavené aj ďalšie čiary vodíkového spektra v ultrafialovej a infračervenej oblasti. Viditeľnú oblasť spektra preskúmal fyzik Johann Balmer a ďalšie oblasti Johannes Rydberg. Pre frekvencie týchto spektrálnych čiar platí tzv. **Balmerov-Rydbergov vzťah**.
 
@@ -125,10 +109,8 @@ $$
 
 V tomto vzťahu je $R_f = 3{,}29\cdot 10^{15}\ \mathrm{s^{-1}}$ **Rydbergova konštanta**. Série spektrálnych čiar prislúchajú takým frekvenciám, ktoré majú rovnakú hodnotu $m$. Dostali meno podľa svojich objaviteľov (pre $m = 1$ sa nazýva Lymanova séria, pre $m = 2$ Balmerova séria, pre $m = 3$ Paschenova séria, pre $m = 4$ Brackettova séria a pre $m = 5$ Paschenova séria)
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-johannes-rydberg.png" alt="Johannes Rydberg">
-  <figcaption>Obr. 6.2.1: Johannes Rydberg (1854 - 1919).</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-johannes-rydberg.png|Johannes Rydberg]]
+Obr. 6.2.1: Johannes Rydberg (1854 - 1919).
 
 Túto skutočnosť možno vysvetliť na základe Bohrovho modelu atómu a predstavy stacionárnych hladín energie, pričom pri prechode medzi hladinami sa vyžiari (pohltí) fotón danej energie. Pre **energetické hladiny atómu vodíka** platí vzťah
 
@@ -138,10 +120,8 @@ $$
 
 Energia pre $n = 1$ sa nazýva **energia základného stavu** a jej hodnota je $E_1 = -13{,}6\ \mathrm{eV}$. Energie pre vyššie hodnoty **hlavného kvantového čísla** $n$ prislúchajú **vzbudeným (excitovaným) stavom**. Tieto energetické hladiny sú záporné. Vyjadrujeme tým skutočnosť, že na uvoľnenie elektrónu z atómu vodíka je potrebné mu dodať kladnú energiu rovnú aspoň absolútnej hodnote $E_n$. Po takomto vytrhnutí z atómu sa elektrón stáva voľným a jeho energia už nie je kvantovaná - mení sa už spojito.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-energeticke-hladiny-vodika.png" alt="Energetické hladiny atómu vodíka">
-  <figcaption>Obr. 6.2.1: Energetické hladiny atómu vodíka. Tieto energetické hladiny sú záporné. Atóm je sám o sebe stabilná sústava a na jeho rozdelenie na jadro a elektrón musíme energiu dodať. S rastúcim hlavným kvantovým číslom však energia rastie podľa vzťahu vyššie. Štyri viditeľné čiary v spektre atómu vodíka ležia v tzv. Balmerovej sérii.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-energeticke-hladiny-vodika.png|Energetické hladiny atómu vodíka]]
+Obr. 6.2.1: Energetické hladiny atómu vodíka. Tieto energetické hladiny sú záporné. Atóm je sám o sebe stabilná sústava a na jeho rozdelenie na jadro a elektrón musíme energiu dodať. S rastúcim hlavným kvantovým číslom však energia rastie podľa vzťahu vyššie. Štyri viditeľné čiary v spektre atómu vodíka ležia v tzv. Balmerovej sérii.
 
 Pri veľkých hodnotách $n$ sú rozdiely medzi energetickými hladinami veľmi malé a zdá sa, že sa energia mení spojito. Zákony kvantovej fyziky pre veľké hodnoty $n$ zodpovedajú našej každodennej skúsenosti.
 
@@ -165,10 +145,8 @@ Vlnové funkcie vyplývajúce z riešenia Schrödingerovej rovnice pre **jeden e
 
 V atóme vodíka je stav elektrónu presne určený trojicou kvantových čísel $n$, $l$, $m$. Základný stav značíme 1s, čo znamená $n = 1$, $l = 0$, $m = 0$. Takýto orbitál má guľový tvar. V stavoch s väčšími vedľajšími kvantovými číslom $l$ sú tvary atómových orbitálov zložitejšie.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-orbitaly-vodik.png" alt="Znázornenie niektorých atómových orbitálov pre vodíkový atóm">
-  <figcaption>Obr. 6.2.1: Znázornenie niektorých atómových orbitálov pre vodíkový atóm. Orbitály typu p sú znázornené v troch smeroch, keďže pre $l = 1$ nadobúda magnetické kvantové číslo tri hodnoty: -1, 0 a 1. Osi orbitálov sú navzájom kolmé. Pre väčšie hodnoty $n$ a $l$ (orbitály typu d, f, g) dostávame väčšie a zložitejšie orbitály.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-orbitaly-vodik.png|Znázornenie niektorých atómových orbitálov pre vodíkový atóm]]
+Obr. 6.2.1: Znázornenie niektorých atómových orbitálov pre vodíkový atóm. Orbitály typu p sú znázornené v troch smeroch, keďže pre $l = 1$ nadobúda magnetické kvantové číslo tri hodnoty: -1, 0 a 1. Osi orbitálov sú navzájom kolmé. Pre väčšie hodnoty $n$ a $l$ (orbitály typu d, f, g) dostávame väčšie a zložitejšie orbitály.
 
 ## KVANTOVÉ STAVY AKO STOJATÉ ELEKTRÓNOVÉ VLNY
 
@@ -187,10 +165,8 @@ $$
 \lambda_n = \frac{2L}{n},\qquad n = 1, 2, 3, ...
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-stojate-vlny.png" alt="Amplitúdy stojatých vĺn na strune dlhej L">
-  <figcaption>Obr. 6.2.1: Amplitúdy stojatých vĺn na strune dlhej $L$.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-stojate-vlny.png|Amplitúdy stojatých vĺn na strune dlhej L]]
+Obr. 6.2.1: Amplitúdy stojatých vĺn na strune dlhej $L$.
 
 Vo vzťahu je číslo $n$ priradené jednotlivým stacionárnym stavom elektrónu, nazývame ho **kvantové číslo**. Pre kinetickú energiu elektrónu na úsečke môžeme pomocou hybnosti $p = mv$ písať
 
@@ -231,9 +207,7 @@ $$
 \sum_{l=0}^{n-1}2(2l + 1) = 2n^2.
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-wolfgang-pauli.png" alt="Wolfgang Pauli">
-  <figcaption>Obr. 6.2.1: Wolfgang Pauli (1900 - 1958).</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/atomova-fyzika/obr-6-2-1-wolfgang-pauli.png|Wolfgang Pauli]]
+Obr. 6.2.1: Wolfgang Pauli (1900 - 1958).
 
 Pre stavbu elektrónového obalu platí aj **princíp minima energie**. Ten hovorí, že energetické hladiny s nižšou energiou sa obsadzujú skôr ako energetické hladiny s energiou vyššou. Vrstvy a podvrstvy s nižšími kvantovými číslami sú vnútorné. Vonkajšia vrstva či podvrstva, ktorá je obsadzovaná ako posledná, sa nazýva aj **valenčná vrstva**. Elektróny v nej sú tzv. **valenčné elektróny**.

@@ -4,10 +4,8 @@ title: Transformátor
 
 **Transformátor** je zariadenie, ktoré umožňuje zvyšovať alebo znižovať hodnotu striedavého napätia. Jednofázový transformátor sa skladá z primárnej a sekundárnej cievky na spoločnom jadre z magneticky mäkkej ocele.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-6-transformator.png" alt="Jednofázový transformátor, schéma zapojenia a schematická značka transformátora">
-  <figcaption>Obr. 5.3.6: Jednofázový transformátor, schéma zapojenia a schematická značka transformátora.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-6-transformator.png|Jednofázový transformátor, schéma zapojenia a schematická značka transformátora]]
+Obr. 5.3.6: Jednofázový transformátor, schéma zapojenia a schematická značka transformátora.
 
 Nech má primárna cievka $N_1$ závitov a sekundárna cievka $N_2$ závitov, $U_1$ je efektívne napätie na primárnej cievke a $U_2$ efektívne napätie na sekundárnej cievke. Potom platí rovnica **ideálneho transformátora**.
 

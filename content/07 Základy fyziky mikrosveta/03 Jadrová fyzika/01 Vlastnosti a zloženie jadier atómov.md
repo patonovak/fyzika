@@ -12,10 +12,8 @@ Zloženie jadra prvku X je tak určené jednoznačne zápisom ${}^{A}_{Z}\mathrm
 
 > Chemický prvok je napr. vodík ${}^{1}_{1}\mathrm{H}$. Chemický prvok vytvára rôzne izotopy a v prírode je zväčša tvorený práve zmesou izotopov. Vodík vytvára tri izotopy, teda nuklidy, ktoré sa líšia hodnotou nukleónového čísla. Ide o ľahký vodík (hydrogenium) ${}^{1}_{1}\mathrm{H}$, ťažký vodík (deuterium) ${}^{2}_{1}\mathrm{H}$ a superťažký vodík (trícium) ${}^{3}_{1}\mathrm{H}$. Ich jadrá obsahujú vždy jeden protón, líšia sa však počtom neutrónov.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-1-izotopy-vodika.png" alt="Izotopy vodíka">
-  <figcaption>Obr. 6.3.1: Izotopy vodíka: ľahký vodík, ťažký vodík a superťažký vodík. Líšia sa nukleónovým číslom.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-1-izotopy-vodika.png|Izotopy vodíka]]
+Obr. 6.3.1: Izotopy vodíka: ľahký vodík, ťažký vodík a superťažký vodík. Líšia sa nukleónovým číslom.
 
 Sily, ktoré držia pohromade atómové jadro, musia byť iného charakteru než sily elektromagnetické. Príťažlivé sily, pôsobiace medzi nukleónmi v jadre, nazývame **jadrové sily**. Medzi ich vlastnosti patrí to, že pôsobia medzi všetkými nukleónmi navzájom, sú väčšie než elektrostatické odpudivé sily medzi protónmi, sú to sily krátkeho dosahu (rádovo $10^{-15}\ \mathrm{m}$) a prejavujú vlastnosti nasýtenia, čiže pôsobia len na malý okruh susedných nukleónov. **Jadrové sily** sú prejavom tzv. **silnej interakcie**, čo je jedna zo štyroch základných fyzikálnych interakcií.
 
@@ -25,10 +23,8 @@ $$
 B_j = Zm_p + Nm_n - m_j
 $$
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-1-hmotnostny-ubytok.png" alt="Hmotnostný úbytok">
-  <figcaption>Obr. 6.3.1: Hmotnostný úbytok (defekt, schodok).</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-1-hmotnostny-ubytok.png|Hmotnostný úbytok]]
+Obr. 6.3.1: Hmotnostný úbytok (defekt, schodok).
 
 Pri vytváraní jadra z jednotlivých nukleónov sa uvoľňuje energia, čím sa znižuje jeho hmotnosť (platí Einsteinov vzťah ekvivalencie medzi hmotnosťou a energiou $E = mc^2$). Na rozbitie jadra na voľné nukleóny je potrebné energiu dodať. **Väzbová energia jadra** $E_v$ je energia, ktorú treba dodať jadru, aby sme ho rozbili na voľné nukleóny. S hmotnostným úbytkom je viazaná nasledovným vzťahom
 
@@ -44,10 +40,8 @@ $$
 
 Čím je hodnota $\varepsilon_v$ väčšia, tým je ťažšie rozdeliť jadro na jednotlivé nukleóny. Zaujímavý je, vzhľadom na stabilitu jadier, pomer medzi protónmi a neutrónmi v jadre stabilných nuklidov a graf závislosti väzbovej energie jadra na jeden nukleón od nukleónového čísla.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-1-stabilne-nuklidy.png" alt="Diagram stabilných nuklidov a graf väzbovej energie na jeden nukleón">
-  <figcaption>Obr. 6.3.1: Diagram stabilných nuklidov a graf závislosti väzbovej energie na jeden nukleón od $A$.</figcaption>
-</figure>
+![[images/fyzika/zaklady-fyziky-mikrosveta/jadrova-fyzika/obr-6-3-1-stabilne-nuklidy.png|Diagram stabilných nuklidov a graf väzbovej energie na jeden nukleón]]
+Obr. 6.3.1: Diagram stabilných nuklidov a graf závislosti väzbovej energie na jeden nukleón od $A$.
 
 Z prvého diagramu stabilných nuklidov na obr. 6.3.1 si možno všimnúť, že ľahšie jadrá sú stabilné, ak majú rovnaký počet protónov a neutrónov $Z = N$ (niekedy hovoríme aj o symetrických jadrách). Pre stabilné ťažšie jadrá (približne už od $A > 40$) platí, že majú viac neutrónov ako protónov. To súvisí so skutočnosťou, že pri vyšších hodnotách $Z$ rastie odpudivá elektrostatická interakcia medzi protónmi a pre stabilitu jadra je tak výhodnejšia prítomnosť neutrónov. Body $[Z, N]$ prislúchajúce stabilným nuklidom vytvárajú tzv. **líniu stability**. V diagrame je však zakreslená len čisto z názorných dôvodov, keďže hodnoty $Z$ a $N$ sú prirodzené čísla.
 

@@ -4,10 +4,8 @@ title: Sériový RLC obvod
 
 Zložené obvody striedavého prúdu obsahujú viacero parametrov. Jedným z takých obvodov je sériový RLC obvod. Je v ňom sériovo zapojený rezistor, cievka a kondenzátor. Týmito súčiastkami prechádza rovnaký prúd, avšak napätia na nich sú rôzne. Pomôžeme si fázorovým diagramom na obr. 5.3.4.
 
-<figure class="measurement-figure no-extra-frame">
-  <img src="/static/images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-4-rlc-obvod.png" alt="Sériový RLC obvod a fázorový diagram napätí">
-  <figcaption>Obr. 5.3.4: Sériový RLC obvod obsahuje rezistor, cievku a kondenzátor v sérii pripojené na zdroj striedavého napätia. Všetkými súčiastkami prechádza rovnaký prúd, avšak napätia na nich sú rôzne.</figcaption>
-</figure>
+![[images/fyzika/magneticke-pole/striedavy-prud/obr-5-3-4-rlc-obvod.png|Sériový RLC obvod a fázorový diagram napätí]]
+Obr. 5.3.4: Sériový RLC obvod obsahuje rezistor, cievku a kondenzátor v sérii pripojené na zdroj striedavého napätia. Všetkými súčiastkami prechádza rovnaký prúd, avšak napätia na nich sú rôzne.
 
 S pomocou fázorového diagramu a Pytagorovej vety možno napísať vzťah
 
